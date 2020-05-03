@@ -2,7 +2,7 @@
 
 A simple youdao dictionary glossary notebook retriever
 
-## Endpoints
+## API Requests
 
 ### Login
 
