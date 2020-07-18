@@ -10,5 +10,5 @@ export const getAllWords = async (ctx: RouterContext): Promise<string> => {
   await youDaoApi.login(config.accountName, decode(config.accountPwd));
   const result = await youDaoApi.getAll();
 
-  return result.data;
+  return JSON.stringify(result.status); //result.data;
 };

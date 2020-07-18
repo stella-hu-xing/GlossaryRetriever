@@ -27,7 +27,6 @@ axios.interceptors.request.use(async (config) => {
 
 axios.interceptors.response.use(async (response) => {
   const { headers } = response;
-  console.log(headers);
   const cookieStrings = headers["set-cookie"] || [];
   saveCookies(cookieStrings);
   return response;

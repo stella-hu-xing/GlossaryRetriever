@@ -1,5 +1,5 @@
 import axios from "./util/axios";
-
+import md5Hex from "md5-hex";
 /**
  *  reference: https://github.com/HighSkySky/yd-word-book/blob/master/src/api.ts
  */
@@ -13,6 +13,7 @@ export const login = async (username: string, password: string) => {
       Host: "account.youdao.com",
     },
   });
+  const pwd = md5Hex(password);
   const formData = Object.assign(
     {
       app: "web",
@@ -27,7 +28,7 @@ export const login = async (username: string, password: string) => {
       agreePrRule: 1,
       savelogin: 1,
     },
-    { username, password }
+    { username, pwd }
   );
   // 登陆
   return axios({
