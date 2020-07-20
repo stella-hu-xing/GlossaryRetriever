@@ -1,6 +1,6 @@
 export interface WordList {
   total: number;
-  itemList: WordItem[];
+  words: WordItem[];
 }
 
 /***
@@ -21,6 +21,7 @@ export interface WordItem {
   category?: Category;
 }
 
+// TODO
 export interface Category {
   id: string;
   name: string;
