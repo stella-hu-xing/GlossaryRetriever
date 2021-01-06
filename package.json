@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/stella-hu-xing/GlossaryRetriever#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cookie": "^0.4.0",
     "koa": "^2.11.0",
     "koa-router": "^8.0.8",
