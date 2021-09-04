@@ -58,6 +58,5 @@ export const getAll = async () => {
   return axios({
     method: "GET",
     url: "http://dict.youdao.com/wordbook/webapi/words",
-    timeout: 4000,
   });
 };
