@@ -4,7 +4,7 @@ A simple youdao dictionary glossary notebook retriever
 
 ### Progress
 
-[card](https://trello.com/c/4QVKuV3J/1-new-word-reminder)
+[project](https://github.com/stella-hu-xing/GlossaryRetriever/projects/1)
 
 #### Youdao API Reference
 
