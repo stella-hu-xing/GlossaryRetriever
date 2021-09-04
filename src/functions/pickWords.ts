@@ -15,7 +15,7 @@ export const pickWords = async (ctx: RouterContext): Promise<Word[]> => {
 
 const randomList = (wordlist: Word[], pickupNumber: number) => {
   const set = new Set();
-  const worklistNumber = wordlist.length;
+  const worklistNumber = wordlist.length - 1;
   while (set.size < pickupNumber) {
     const item = Math.round(Math.random() * (worklistNumber - 0) + 0);
     set.add(item);
