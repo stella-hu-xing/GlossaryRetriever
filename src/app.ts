@@ -1,5 +1,6 @@
 import Koa from "koa";
 import Router from "koa-router";
+import { pickWords } from "./functions/pickWords";
 import { retrieveWordList } from "./functions/retrieveWordList";
 
 export const app = new Koa();
@@ -11,6 +12,12 @@ router.get("/", async (ctx) => {
 
 router.get("/all", async (ctx) => {
   const result = await retrieveWordList(ctx);
+  ctx.body = result;
+  ctx.status = 200;
+});
+
+router.get("/pick", async (ctx) => {
+  const result = await pickWords(ctx);
   ctx.body = result;
   ctx.status = 200;
 });
