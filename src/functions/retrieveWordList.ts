@@ -42,8 +42,9 @@ const mapper = (itemList: RawItem[]): Word[] => {
       itemId: e.itemId,
       item: e.word,
       trans: e.trans,
-      phonetic: e.phonetic,
-      tag: e.bookName === "无标签" ? "" : e.bookName,
+      phonetic:
+        e.phonetic === "" || e.phonetic === "[]" ? undefined : e.phonetic,
+      tag: e.bookName === "无标签" ? undefined : e.bookName,
     })
   );
   return worklist;
