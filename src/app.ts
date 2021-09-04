@@ -1,6 +1,6 @@
 import Koa from "koa";
 import Router from "koa-router";
-import { getGlossary } from "./functions/getGlossary";
+import { retrieveWordList } from "./functions/retrieveWordList";
 
 export const app = new Koa();
 const router = new Router();
@@ -10,7 +10,7 @@ router.get("/", async (ctx) => {
 });
 
 router.get("/all", async (ctx) => {
-  const result = await getGlossary(ctx);
+  const result = await retrieveWordList(ctx);
   ctx.body = result;
   ctx.status = 200;
 });

@@ -1,0 +1,7142 @@
+[
+  {
+    "itemId": "c10966f79b5a345a3cde9d0f1dcead20",
+    "item": "Aesop",
+    "trans": "n. 伊索（希腊寓言作者）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f48ff1c84b2dfe52e775091812b162ad",
+    "item": "Antarctica",
+    "trans": "n. 南极洲",
+    "phonetic": "[æn'tɑːktɪkə]",
+    "tag": ""
+  },
+  {
+    "itemId": "c7ab548ba5796b7e47c0123f521ecec6",
+    "item": "Augustus",
+    "trans": "n. 奥古斯都（男子名）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "cb1e78137614174f69ed2be1a1733fab",
+    "item": "Austria",
+    "trans": "n. 奥地利",
+    "phonetic": "[ˈɒstrɪə]",
+    "tag": ""
+  },
+  {
+    "itemId": "42842724f9274aac73f7afc7938b216e",
+    "item": "Celtic",
+    "trans": "adj. 凯尔特人的；凯尔特语的 n. 凯尔特语（等于Keltic）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "097658ebd9b3944ee80ca26f03856195",
+    "item": "Centaurus",
+    "trans": "n. [天] 半人马座",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "47ef3d1ed6a88d5ba9cabfc69e0eef63",
+    "item": "Churchill",
+    "trans": "n. 邱吉尔（英国政治家及作家）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "cf4b04c7d3a78f7fcdb7b4e2e20390f2",
+    "item": "Denmark",
+    "trans": "n. 丹麦（欧洲国家）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3ef5284d606d54de3ddbc3d321cd0388",
+    "item": "Ethiopia",
+    "trans": "n. 埃塞俄比亚",
+    "phonetic": "[,iθɪ'opɪr]",
+    "tag": ""
+  },
+  {
+    "itemId": "7ddca0b41ed0d5a38374537a6dac2ee9",
+    "item": "Fahrenheit",
+    "trans": "adj. 华氏温度计的；华氏的 n. 华氏温度计；华氏温标",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "4098618365ca8492c3e61d0b7790b8c3",
+    "item": "Hungarian",
+    "trans": "adj. 匈牙利的；匈牙利语的 \nn. 匈牙利人；匈牙利语",
+    "phonetic": "[hʌŋ'ɡεəriən]",
+    "tag": ""
+  },
+  {
+    "itemId": "c327d943eacfb8fab2570e1e468c10cf",
+    "item": "Ingeborg",
+    "trans": "n. (Ingeborg)人名；(挪、丹、瑞典)英厄堡；(德)英格博格；(英)英格堡",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "060b8f62653bae56fe8144389f9908db",
+    "item": "Jupiter",
+    "trans": "n. [天] 木星；朱庇特（罗马神话中的宙斯神）",
+    "phonetic": "['dʒʊpətɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "2223c42f31ccacc5612f8b5b19052687",
+    "item": "Liberia",
+    "trans": "n. 利比里亚（西非国家）",
+    "phonetic": "[laɪ'bɪərɪə]",
+    "tag": ""
+  },
+  {
+    "itemId": "1796f22790acffadf0aff76113155960",
+    "item": "Lima",
+    "trans": "n. 利马（秘鲁首都）",
+    "phonetic": "['li:mə]",
+    "tag": ""
+  },
+  {
+    "itemId": "60eef4bee9c25023b1d5def238941e48",
+    "item": "Macmillan",
+    "trans": "n.麦克米伦（人名）\nn.(MacMillan)人名；(英)麦克米伦",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d8d4c87e1f04b426e20cbd3e5f226617",
+    "item": "Mediterranean",
+    "trans": "n. 地中海 adj. 地中海的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "16645028ed12d25c82103e7dcdc56662",
+    "item": "Myanmar",
+    "trans": "n. 缅甸（东南亚国家）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c9130bbd35a8d1c5e395b48fe6a3cf05",
+    "item": "Neptune",
+    "trans": "n. [天] 海王星；海神",
+    "phonetic": "['nɛptjun]",
+    "tag": ""
+  },
+  {
+    "itemId": "41a871432b2417dd62c406465c2141d3",
+    "item": "Oman",
+    "trans": "n. 阿曼（西南亚国家）",
+    "phonetic": "[əu'mɑ:n]",
+    "tag": ""
+  },
+  {
+    "itemId": "ba68d8441ee504272baf4033fd4a4fe4",
+    "item": "Pavlov",
+    "trans": "n. 巴甫洛夫（苏联生理学家和实验心理学家，全名为Ivan Petrovich）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6bbca34a5d69a0ea73f83e166bf9cbcf",
+    "item": "Puritan",
+    "trans": "adj.清教徒的\nn.清教徒",
+    "phonetic": "['pjʊərɪt(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "8df3ab2a36eea30941b8bc930b79cad2",
+    "item": "Quebec",
+    "trans": "n. 魁北克（加拿大港市省名）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "956905916bb480599659c1c580e52e80",
+    "item": "Rugby",
+    "trans": "n. 英式橄榄球；拉格比（英格兰中部的城市）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5ea23ea9f297a699af1380d2a8a51623",
+    "item": "Saturn",
+    "trans": "n. [天] 土星；农业之神（罗马神话中的一个形象）",
+    "phonetic": "['sætɝn]",
+    "tag": ""
+  },
+  {
+    "itemId": "bef6e3db173183c035cbbafa413fea60",
+    "item": "Uranus",
+    "trans": "n. [天] 天王星",
+    "phonetic": "[ˈjʊrənəs; jʊˈrenəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "1bccda79ea9533fed7666d0fc3dd8c9f",
+    "item": "abate",
+    "trans": "vt. 减轻；减少；废除 vi. 减轻；失效 n. (Abate)人名；(英、意、法、埃塞)阿巴特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1de716e60109de57c3609f7702f2ac71",
+    "item": "abomination",
+    "trans": "n. 厌恶；憎恨；令人厌恶的事物",
+    "phonetic": "[əbɒmɪ'neɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "110d1b27cf84aeb7322438f76bcb83f2",
+    "item": "abridge",
+    "trans": "vt. 删节；缩短；节略",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c3bade5fa93e1451bf3622249b84af62",
+    "item": "abridged",
+    "trans": "adj. 删节的；削减的 v. 缩短；减少；删去（abridge的过去分词）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d202c7a51dd8523125a473ed362f1f4d",
+    "item": "abstain",
+    "trans": "vi. 自制；放弃；避免",
+    "phonetic": "[əb'sten]",
+    "tag": ""
+  },
+  {
+    "itemId": "a824348e29ad11aeff61c6e728c19cab",
+    "item": "abstention",
+    "trans": "n. 弃权；节制；戒绝",
+    "phonetic": "[əb'stɛnʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "6f2b3bdd06b3358e9811305da854efbc",
+    "item": "acclimate",
+    "trans": "vi.服水土；适应新环境\nvt.使适应；使服水土",
+    "phonetic": "[ə'klaimit]",
+    "tag": ""
+  },
+  {
+    "itemId": "9c1ec2764007a4fad7172c3ae1bad867",
+    "item": "accustomed",
+    "trans": "adj. 习惯的；通常的；独有的 \nv. 使习惯于（accustom的过去分词）",
+    "phonetic": "[ə'kʌstəmd]",
+    "tag": ""
+  },
+  {
+    "itemId": "fe6798d000b2aee5e5626c42ce8a453b",
+    "item": "acerbic",
+    "trans": "adj. 尖刻的（等于acerb）；酸的；辛辣的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "980dbd0d72d4fc869d3147fefe79667e",
+    "item": "acquainted",
+    "trans": "adj. 熟识的；知晓的；有知识的 v. 使了解（acquaint的过去分词）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "282e5fa4a30f0ee68e4d86d001414725",
+    "item": "acquisition",
+    "trans": "n.获得物，获得；收购",
+    "phonetic": "[,ækwɪ'zɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "f5346297c95fbdf5a25d5c4390435ecf",
+    "item": "ad infinitum",
+    "trans": "无限地；永久地；无止境地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "671b63b5257623f8264341747580e465",
+    "item": "adage",
+    "trans": "n. 格言，谚语；箴言",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "36f9e0e1da4f512658bc6d2cf1a0fea9",
+    "item": "adamantly",
+    "trans": "adv. 坚硬无比地；坚强地；固执地；不动摇地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "135b82e8c6ca95b5ef9d77d085abf521",
+    "item": "admission",
+    "trans": "n. 承认；入场费；进入许可；坦白；录用",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6b9f57d686fa429a5870e101a3f2d96f",
+    "item": "adulthood",
+    "trans": "n. 成年；成人期",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "23dd3ebe6726c6306599e34d9d4e5b83",
+    "item": "advent",
+    "trans": "n.到来；出现；基督降临；基督降临节",
+    "phonetic": "['ædvənt]",
+    "tag": ""
+  },
+  {
+    "itemId": "38f955f5e143bbc1b1496311478034ad",
+    "item": "adversity",
+    "trans": "n.逆境；不幸；灾难；灾祸",
+    "phonetic": "[əd'vɜːsɪtɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "6e78dfc65163ab7d5237fd5bc35ae972",
+    "item": "aerial",
+    "trans": "adj. 空中的，航空的；空气的；空想的 n. [电讯] 天线",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "822a4cb6b4da9b22644298859a3115fa",
+    "item": "aesthetics",
+    "trans": "n. 美学；美的哲学",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d47c8f65b7f01159a77e618b0db9996c",
+    "item": "aforementioned",
+    "trans": "adj. 上述的；前面提及的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d27d9aee2b851e9d8549abc86edf31af",
+    "item": "aggressive",
+    "trans": "adj.侵略性的；好斗的；有进取心的；有闯劲的",
+    "phonetic": "[ə'gresɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "7d768bbc9aa42f275cfb203f596d58d6",
+    "item": "aggrieve",
+    "trans": "v. 使悲痛，使受折磨；给……造成伤害；侵害……的合法权利",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0ae734d141fda58d962241efd2d0b2bb",
+    "item": "aggrieved",
+    "trans": "adj. 受委屈的，愤愤不平的；权利受到不法侵害的 \nv. 侵害，伤害（aggrieve的过去分词形式）；使悲痛",
+    "phonetic": "[ə'griːvd]",
+    "tag": ""
+  },
+  {
+    "itemId": "6279258086d30c5b236246aa73eb2dac",
+    "item": "agnostic",
+    "trans": "n. 不可知论者 adj. 不可知论的；怀疑的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bc43b994ebcaf81df25ab021cddffa67",
+    "item": "aground",
+    "trans": "adv. 搁浅地；地面上 \nadj. 搁浅的；地面上的",
+    "phonetic": "[ə'graʊnd]",
+    "tag": ""
+  },
+  {
+    "itemId": "fc6c1aa7e9e23932b6d734d11a9db4e1",
+    "item": "ale",
+    "trans": "n. 麦芽酒 \nn. (Ale)人名；(塞、几、葡)阿莱；(伊朗)阿勒",
+    "phonetic": "[eɪl]",
+    "tag": ""
+  },
+  {
+    "itemId": "4a286ad4ee2e17cd86f47f7a0e595c95",
+    "item": "algebra",
+    "trans": "n. 代数学",
+    "phonetic": "[ˈældʒɪbrə]",
+    "tag": ""
+  },
+  {
+    "itemId": "dd5a029a2294c3e53ccb3b567b63a6e8",
+    "item": "allege",
+    "trans": "vt. 宣称，断言；提出…作为理由",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d707e48dcb3566a512a3c9578dc4c9d8",
+    "item": "allergy",
+    "trans": "n. 过敏症；反感；厌恶",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e66b5d8100013671450018a5f75b002c",
+    "item": "alliance",
+    "trans": "n. 联盟，联合；联姻",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "22de08ac884856b2cb441bd95b4b6ffa",
+    "item": "alpaca",
+    "trans": "n.羊驼；羊驼呢；羊驼毛棉混纺织物；德国银（等于alpacca）",
+    "phonetic": "[æl'pækə]",
+    "tag": ""
+  },
+  {
+    "itemId": "80347e2105979cf845aeb13af2a873ef",
+    "item": "altitude",
+    "trans": "n. 高地；高度；[数] 顶垂线；（等级和地位等的）高级；海拔",
+    "phonetic": "['æltɪtud]",
+    "tag": ""
+  },
+  {
+    "itemId": "66a84a62f8c6fbb6d68fe25b988769e2",
+    "item": "ambient",
+    "trans": "adj. 周围的；外界的；环绕的 n. 周围环境",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "1106dbb3f2b15acbe164b3f45902ff22",
+    "item": "ameliorate",
+    "trans": "vt. 改善；减轻（痛苦等）；改良 \nvi. 变得更好",
+    "phonetic": "[ə'miːlɪəreɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "508a2980b359eebc4e1fe2bafb253dc4",
+    "item": "ampicillin",
+    "trans": "n.  氨苄青霉素，氨比西林",
+    "phonetic": "[,æmpɪ'sɪlɪn]",
+    "tag": ""
+  },
+  {
+    "itemId": "d4d3f512617ae7a7adbdf7cfb1e1bd05",
+    "item": "amulet",
+    "trans": "n. 护身符，避邪物",
+    "phonetic": "[ˈæmjʊlət]",
+    "tag": ""
+  },
+  {
+    "itemId": "024902a54fc3765079380386cca6091a",
+    "item": "anaconda",
+    "trans": "n.水蟒；蟒蛇",
+    "phonetic": "[,ænə'kɒndə]",
+    "tag": ""
+  },
+  {
+    "itemId": "520f8d236f584de94fab6a86ad6729ca",
+    "item": "anatomy",
+    "trans": "n. 解剖；解剖学；剖析；骨骼",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d118f47d46590ef0483ba00f08e1dd9b",
+    "item": "anonymous",
+    "trans": "adj. 匿名的，无名的；无个性特征的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "8920633894269c568f6c08bd92088a72",
+    "item": "antagonise",
+    "trans": "vt. 使敌对；抵销 \nvi. 引起对抗/反感",
+    "phonetic": "[æn'tæɡənaiz]",
+    "tag": ""
+  },
+  {
+    "itemId": "c0721166bfa234ea5f88ddbe1f67d6b3",
+    "item": "anthropology",
+    "trans": "n. 人类学\n人类学家",
+    "phonetic": "['ænθrə'pɑlədʒi]",
+    "tag": ""
+  },
+  {
+    "itemId": "3b9a0de41a3535eff1965fa6ad482eaa",
+    "item": "antibody",
+    "trans": "n. [免疫] 抗体",
+    "phonetic": "['æntɪ'bɑdi]",
+    "tag": ""
+  },
+  {
+    "itemId": "593ff9e935ad0c04fce111318bfea092",
+    "item": "anticlockwise",
+    "trans": "adj. 逆时针的；反时针方向的 adv. 逆时针地",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "936d0496ea72ae664f678ce4b1c97a90",
+    "item": "antireflective",
+    "trans": "adj.增透的；减反射的；[物] 抗反射的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a6b3f7bc460667ac8c9e0983cc9f799b",
+    "item": "appal",
+    "trans": "vt. 使惊骇；惊吓 vi. 减弱；变得苍白；令人发腻",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "30bacb6785357e78ec6f464200ceeff8",
+    "item": "aquarium",
+    "trans": "n. 水族馆；养鱼池；玻璃缸",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d5c407652672ab7acc8178f9ba15edbe",
+    "item": "aquatic",
+    "trans": "adj. 水生的；水栖的；在水中或水面进行的 n. 水上运动；水生植物或动物 n. (Aquatic)人名；(法)阿卡蒂克",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "2589bb72b7e7fdafab54e2995790fcf8",
+    "item": "arable",
+    "trans": "adj. 适于耕种的；可开垦的 n. 耕地 n. (Arable)人名；(英)阿拉布尔",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "33c2749761bf8ea7b8ddda2385d70c68",
+    "item": "arbitration",
+    "trans": "n. 公断，仲裁",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b27e8041bb8a07830d7bb55071a353c3",
+    "item": "arcade",
+    "trans": "n. 拱廊；（内设投角子电子游戏机等的）游乐场；有拱廊的街道 \nvt. 使有拱廊 \nn. (Arcade)人名；(西、法)阿卡德",
+    "phonetic": "[ɑːˈkeɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "6210b09728da182751878f11d95a58e6",
+    "item": "archaeologist",
+    "trans": "n. 考古学家",
+    "phonetic": "[,ɑrkɪ'ɑlədʒɪst]",
+    "tag": ""
+  },
+  {
+    "itemId": "d1c61280a1894a53419f9c25cb83744a",
+    "item": "archipelago",
+    "trans": "n. 群岛，列岛；多岛的海区",
+    "phonetic": "[,ɑːkɪ'peləgəʊ]",
+    "tag": ""
+  },
+  {
+    "itemId": "bfd52b39ec62005b25a405a905677c95",
+    "item": "arctic",
+    "trans": "n. 北极圈；御寒防水套鞋\nn. (Arctic)人名；(英)阿克蒂克\nadj. 北极的；极寒的",
+    "phonetic": "['ɑːktɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "598b041da4aa15447d6a6692ae9b2794",
+    "item": "arduous",
+    "trans": "adj. 努力的；费力的；险峻的",
+    "phonetic": "['ɑrdʒuəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "b04c5735489beb7cebccab9e23ed185d",
+    "item": "arid",
+    "trans": "adj. 干旱的；不毛的， 荒芜的",
+    "phonetic": "['ærɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "f6661703a4b1ee14246e852c915cf3c4",
+    "item": "aridity",
+    "trans": "n. 干旱；乏味",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "133afe09dc10eb067adb80ebff878d5b",
+    "item": "arise",
+    "trans": "vi. 出现；上升；起立 \nn. (Arise)人名；(西)阿里塞；(日)在濑(姓)",
+    "phonetic": "[ə'raɪz]",
+    "tag": ""
+  },
+  {
+    "itemId": "503ec009060c180a04b18e6ee7c3ced8",
+    "item": "aristocrat",
+    "trans": "n.贵族",
+    "phonetic": "['æristəkræt; ə'ristə-]",
+    "tag": ""
+  },
+  {
+    "itemId": "a3e7753d20efa14961cae58a64dbba9b",
+    "item": "aristocratic",
+    "trans": "adj. 贵族的；贵族政治的；有贵族气派的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3ebc6e160466583767d49af3ae60507c",
+    "item": "array",
+    "trans": "n. 数组，阵列；排列，列阵；大批，一系列；衣服\nvt. 排列，部署；打扮",
+    "phonetic": "[ə're]",
+    "tag": ""
+  },
+  {
+    "itemId": "ea8b9e0f1588ebae559ef2e6cf60483e",
+    "item": "asbesto",
+    "trans": "",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "13a1c7c3c8c8466eb11c3f064e225df9",
+    "item": "asbestos",
+    "trans": "n. 石棉 adj. 石棉的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "da03cdb97fbe4e9fb44cf79ee9d11167",
+    "item": "aspiration",
+    "trans": "n.渴望；抱负；送气；吸气；吸引术",
+    "phonetic": "[æspə'reɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "e71d3246f6931c5b7ba4aa96cf624a01",
+    "item": "assertive",
+    "trans": "adj. 肯定的；独断的；坚定而自信的",
+    "phonetic": "[ə'sɝtɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "489f0b8059faf21b55bc95d4bc12b68b",
+    "item": "assessment",
+    "trans": "n. 评定；估价",
+    "phonetic": "[ə'sesmənt]",
+    "tag": ""
+  },
+  {
+    "itemId": "a77d7ea901c9e27e3192fd4f4751ebc2",
+    "item": "assume",
+    "trans": "vi. 假定；设想；承担；采取 vt. 僭取；篡夺；夺取；擅用；侵占",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b10a91e9d40f26f414f209a124684d82",
+    "item": "astrology",
+    "trans": "n. 占星术；占星学；星座",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e1aad84431a91d5b8d71a431f9de2fd3",
+    "item": "astronomy",
+    "trans": "n. 天文学",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "485d4574982d27c7379356cc4b9caeab",
+    "item": "asymptomatic",
+    "trans": "adj.无症状的",
+    "phonetic": "[ə,sɪmptə'mætɪk; eɪ-]",
+    "tag": ""
+  },
+  {
+    "itemId": "2275cd57d00150a30e92b2e34d1a6578",
+    "item": "asymptote",
+    "trans": "n. [数] 渐近线",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2599f6d049fbbc0d66f628eeaf80760b",
+    "item": "atlas",
+    "trans": "n. 地图集；寰椎",
+    "phonetic": "[atlas]",
+    "tag": ""
+  },
+  {
+    "itemId": "53c6232c62db97d93cf78b848357d68b",
+    "item": "atmospheric",
+    "trans": "adj. 大气的，大气层的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f1ee62b4776d9a0cd708700f39f1266d",
+    "item": "attendance register",
+    "trans": "",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a5fc7e5366a74e2eea51f51aa4145194",
+    "item": "autobiography",
+    "trans": "n. 自传；自传文学",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c88f6352d75f8f8a92502ecada74a80d",
+    "item": "availability",
+    "trans": "n.可用性；有效性；实用性",
+    "phonetic": "[ə,veɪlə'bɪlətɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "85701364ac1fa59175badf88024215ff",
+    "item": "avid",
+    "trans": "adj. 渴望的，贪婪的；热心的 n. (Avid)人名；(俄)阿维德",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "307870b00a5ed24322781e70c3580145",
+    "item": "badger",
+    "trans": "n. 獾；獾皮；（大写）獾州人（美国威斯康星州人的别称）；<动><澳>毛鼻袋熊 vt. 纠缠不休；吵着要；烦扰 n. (Badger)人名；(英)巴杰",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c9d82a4236188fb0fd72dadfa030e704",
+    "item": "baffle",
+    "trans": "vt. 使…困惑；使…受挫折；用挡板控制 n. 挡板；困惑 vi. 做徒劳挣扎",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0aa3480085ebe643404ccc2c21d4f2e6",
+    "item": "bait",
+    "trans": "n. 饵；诱饵；诱惑物；被故意激怒 v. 上饵；故意激怒，招惹；（放犬）折磨或攻击（动物） n. (Bait) （法、美、意）巴伊特（人名）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7b61f74afc98ad3c4dd00dd135d6dfe9",
+    "item": "bane",
+    "trans": "n. 毒药；祸害；灭亡的原因 \nn. (Bane)人名；(法)巴纳；(塞)巴内；(日)伴卫(名)；(英)贝恩",
+    "phonetic": "[beɪn]",
+    "tag": ""
+  },
+  {
+    "itemId": "6133e254384f7bb71cebd6c646fe6358",
+    "item": "bare",
+    "trans": "adj. 空的；赤裸的，无遮蔽的 \nvt. 露出，使赤裸 \nn. (Bare)人名；(英)贝尔",
+    "phonetic": "[beə]",
+    "tag": ""
+  },
+  {
+    "itemId": "7dcdcebefab9185cf340fd377041eb46",
+    "item": "bargain",
+    "trans": "n. 交易；便宜货；契约 \nv. 讨价还价；议价；(谈价钱后)卖",
+    "phonetic": "[ˈbɑːɡən]",
+    "tag": ""
+  },
+  {
+    "itemId": "cb538c128f4408a7fa5eda1f29010c35",
+    "item": "bated breath",
+    "trans": "屏息",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "eec7cf17b4df3816e588c2bcafc1763e",
+    "item": "beneficiary",
+    "trans": "n. [金融] 受益人，受惠者；封臣 adj. 拥有封地的；受圣俸的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3342dff5055f704a5756dd95378c9934",
+    "item": "bent",
+    "trans": "n. 爱好，嗜好\nadj. 弯曲的；决心的\nn. (Bent)人名；(英、西、丹、挪、印)本特",
+    "phonetic": "[bent]",
+    "tag": ""
+  },
+  {
+    "itemId": "991c2084f9326bdd2e1563336723f24d",
+    "item": "bibliography",
+    "trans": "n. 参考书目；文献目录",
+    "phonetic": "[,bɪblɪ'ɑɡrəfi]",
+    "tag": ""
+  },
+  {
+    "itemId": "92a806062d140807d34190fd0563fa99",
+    "item": "bigotry",
+    "trans": "n. 偏执；顽固；盲从",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "19749aafab1df4a24e020eb97e95f462",
+    "item": "bilateral",
+    "trans": "adj. 双边的；有两边的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b71a9bdc600c5d346a33708bf447b1d0",
+    "item": "binoculars",
+    "trans": "n. [光] 双筒望远镜；[光] 双筒镜，[光] 双目镜",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1c5c27a92031125e7f0e1fd4f528afec",
+    "item": "binomial expansion",
+    "trans": "[数] 二项展开式",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ec8d4deb7d2a4034b81cab4e76002d6b",
+    "item": "biographical",
+    "trans": "adj. 传记的，传记体的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1ca092f00acaee9dd1d5107acb390200",
+    "item": "biography",
+    "trans": "n. 传记；档案；个人简介",
+    "phonetic": "[baɪ'ɑɡrəfi]",
+    "tag": ""
+  },
+  {
+    "itemId": "b3ee5eb4b9cfb9a94c8c94d3dea9fe62",
+    "item": "blatant",
+    "trans": "adj. 喧嚣的；公然的；炫耀的；俗丽的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "70146b7ffcbc93a7fdd7c8235c17dfd1",
+    "item": "bleak",
+    "trans": "adj. 阴冷的；荒凉的，无遮蔽的；黯淡的，无希望的；冷酷的；单调的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "9d28c0629579d0504eb001e8bc7d912c",
+    "item": "blink",
+    "trans": "vt. 眨眼；使…闪烁 \nvi. 眨眼；闪烁 \nn. 眨眼；瞬间；闪光 \nn. (Blink)人名；(德)布林克",
+    "phonetic": "[blɪŋk]",
+    "tag": ""
+  },
+  {
+    "itemId": "43e21dfb251efd666b4d4307543c1c2d",
+    "item": "blunt",
+    "trans": "adj. 钝的，不锋利的；生硬的；直率的 vt. 使迟钝 n. (Blunt)人名；(英)布伦特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2841c2c23c5d2d5f5eea6511c417d46b",
+    "item": "boast",
+    "trans": "vt. 夸口说，自吹自擂说；以有…而自豪 n. 自夸；值得夸耀的事物，引以为荣的事物 vi. 自吹自擂 n. (Boast)人名；(英)博斯特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "045baedcc84ea954c32887e477648fcd",
+    "item": "boon",
+    "trans": "n. 恩惠；福利；利益 adj. 愉快的；慷慨的 n. (Boon)人名；(英)布恩；(东南亚国家华语)文；(瑞典、德)博恩；(泰)汶",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b84dceb57d379ba0659763cd8f591dc0",
+    "item": "booze",
+    "trans": "n.酒；酒宴\nvi.豪饮；痛饮\nn.(Booze)人名；(英)布兹",
+    "phonetic": "[buːz]",
+    "tag": ""
+  },
+  {
+    "itemId": "0df26db9e222407ee6b35df2ac4cf0d3",
+    "item": "botanic",
+    "trans": "adj. 植物的；植物学的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3f6ced170eb04e7e600bf8193f7923b8",
+    "item": "bottomary",
+    "trans": "",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e4065d7d2e842ec58503164389561422",
+    "item": "brush stroke",
+    "trans": "笔触，绘画的技巧；画笔描边",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d0353c7d4e01e26fcf0dafcc081d607f",
+    "item": "bum",
+    "trans": "n. 流浪汉；屁股；狂欢作乐；能力差的人；嗡嗡声；执达员（等于bumbailiff） vi. 流浪；靠乞讨过活；发嗡嗡声 vt. 乞讨；闲荡 adj. 无价值的；劣质的；很不愉快的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "926148126b71ff404f7fb5f4b58bb902",
+    "item": "burgeoning",
+    "trans": "adj.增长迅速的；生机勃勃的\nv.成长（burgeon的ing形式）；迅速发展",
+    "phonetic": "['bə:dʒən]",
+    "tag": ""
+  },
+  {
+    "itemId": "fdee3cbf34bc234bab3562e8b28d3121",
+    "item": "bursaries",
+    "trans": "n. 奖学金；助学金；财务处（bursary的复数）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2d7728bd001a361582e26cfc9f4c366a",
+    "item": "burst",
+    "trans": "vi. 爆发，突发；爆炸 \nvt. 爆发，突发；爆炸 \nn. 爆发，突发；爆炸 \nn. (Burst)人名；(德、罗)布尔斯特",
+    "phonetic": "[bɜːst]",
+    "tag": ""
+  },
+  {
+    "itemId": "e35443b04abc66398300db6996e69ca2",
+    "item": "bustling",
+    "trans": "adj. 熙熙攘攘的；忙乱的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c33071fcd36eeec240fb0b90255c0111",
+    "item": "cacophony",
+    "trans": "n. 刺耳的音调；不和谐音",
+    "phonetic": "[kə'kɒf(ə)nɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "03a1f054344a2df204fafc3f33535449",
+    "item": "cadence",
+    "trans": "n. 节奏；韵律；抑扬顿挫 n. (Cadence)人名；(法)卡当斯",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "668dd40e4ff03c22cf5ffb8c72037ff9",
+    "item": "calcium",
+    "trans": "n. [化学] 钙",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b33916efe05fe2bc4e014e8f3e3f5c36",
+    "item": "calorimeter",
+    "trans": "n. [热] 热量计",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a234eb2bd9c710c1fedebf4119892a50",
+    "item": "camouflage",
+    "trans": "n. 伪装，掩饰 vt. 伪装，掩饰 vi. 伪装起来",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ddd9479cdccb97b68f87b6531af818cc",
+    "item": "canonical",
+    "trans": "adj. 依教规的；权威的；牧师的 n. 牧师礼服",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "00005ac6178dac85623ad00f9756718e",
+    "item": "capable",
+    "trans": "adj. 能干的，能胜任的；有才华的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3b9569fdad0dc922fd0df9a83fe7f819",
+    "item": "capitalism",
+    "trans": "n. 资本主义",
+    "phonetic": "['kæpɪt(ə)lɪz(ə)m]",
+    "tag": ""
+  },
+  {
+    "itemId": "b47292c12694a4e817a99b2f544752d5",
+    "item": "captivity",
+    "trans": "n. 囚禁；被关",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "dd654f2b71e5979a9884af4418fb1c9e",
+    "item": "caravan",
+    "trans": "n. （可供居住的）拖车，大篷车；（穿过沙漠地带的）旅行队（如商队）；<英>活动住宅；<美>移民列车\nvi. 乘拖车度假；参加旅行队旅行",
+    "phonetic": "['kærəvæn]",
+    "tag": ""
+  },
+  {
+    "itemId": "71804137244178a8a2176a713156c9c4",
+    "item": "cardiology",
+    "trans": "n. [内科] 心脏病学",
+    "phonetic": "[,kɑrdɪ'ɑlədʒi]",
+    "tag": ""
+  },
+  {
+    "itemId": "806e90a037e75b0e5b0dbec46ed39166",
+    "item": "carpenter",
+    "trans": "n. 木匠，木工\nvi. 当木匠，做木匠工作\nvt. 制作\nn. (Carpenter)人名；(英、葡、法)卡彭特",
+    "phonetic": "[ˈkɑːrpəntər]",
+    "tag": ""
+  },
+  {
+    "itemId": "0f2416591a33bc83e65576c36d0cb663",
+    "item": "cart",
+    "trans": "n. 二轮运货马车 vt. 用车装载 vi. 驾运货马车；用运货车运送 n. (Cart)人名；(法)卡尔；(英、芬)卡特",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "133295aad38d2cd5502d2d5129c1bfee",
+    "item": "carve",
+    "trans": "vt.雕刻；切开；开创\nvi.切开；做雕刻工作\nn.(Carve)人名；(西、瑞典)卡韦",
+    "phonetic": "[kɑːv]",
+    "tag": ""
+  },
+  {
+    "itemId": "7464b625b429d75ba1e84acc81d8c383",
+    "item": "catalog",
+    "trans": "n.[图情][计] 目录；登记\nvt.登记；为…编目录\nvi.编目录；按确定价格收入目录（等于catalogue）",
+    "phonetic": "['kætəlɒɡ]",
+    "tag": ""
+  },
+  {
+    "itemId": "abf2b02c57451a5ccf43c763351c461f",
+    "item": "catastrophic",
+    "trans": "adj. 灾难的；悲惨的；灾难性的，毁灭性的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e185f17d491358fde4eba11bda58d0f3",
+    "item": "caterpillar",
+    "trans": "n. [无脊椎] 毛虫；履带车 adj. 有履带装置的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a0d05bac92bfd53c51421eaacd1ec104",
+    "item": "cattle",
+    "trans": "n.牛；牲畜（骂人的话）；家畜；无价值的人\nn.(Cattle)人名；(意)卡特莱",
+    "phonetic": "['kæt(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "e4a31c9fe78b9bed00587849d9add993",
+    "item": "cavalier",
+    "trans": "n.骑士；武士；对女人献殷勤\nadj.傲慢的；漫不经心的；无忧无虑的\nn.(Cavalier)人名；(法)卡瓦利耶",
+    "phonetic": "[,kævə'lɪə]",
+    "tag": ""
+  },
+  {
+    "itemId": "6bbe9fbb79852a271ba5778fd06fa734",
+    "item": "centennial",
+    "trans": "adj. 一百年的\nn. 百年纪念",
+    "phonetic": "[sɛn'tɛnɪəl]",
+    "tag": ""
+  },
+  {
+    "itemId": "26ef15c38cf647aa554532d630c629ab",
+    "item": "chef",
+    "trans": "n. 厨师，大师傅\nn. (Chef)人名；(法)谢夫",
+    "phonetic": "[ʃɛf]",
+    "tag": ""
+  },
+  {
+    "itemId": "719023ed804218a1bc1aaf40cb6921d8",
+    "item": "chimney",
+    "trans": "n.烟囱",
+    "phonetic": "['tʃɪmnɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "7a3ad67f80532f86c4e372c6d90e9a4e",
+    "item": "chloramphenicol",
+    "trans": "n.  氯霉素",
+    "phonetic": "[,klɔːræm'fenɪkɒl]",
+    "tag": ""
+  },
+  {
+    "itemId": "10c9fce4a6354a3c74ddf3207d658ea1",
+    "item": "chlorophyll",
+    "trans": "n. [植][生化] 叶绿素",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d1a7a7a0d7d3d8179a5e98c2039fed1c",
+    "item": "chorus",
+    "trans": "n. 合唱队；齐声；歌舞队 vt. 合唱；异口同声地说 vi. 合唱；异口同声地说话 n. (Chorus)人名；(法)肖吕斯",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9e66da7689d4e789288d2dacc158bd55",
+    "item": "chronic",
+    "trans": "adj. 慢性的；长期的；习惯性的 \nn. (Chronic)人名；(英)克罗尼克",
+    "phonetic": "['krɒnɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "20a448109022a774d20a3d9d6f2e34c6",
+    "item": "churn",
+    "trans": "vi. 搅拌；搅动 \nvt. 搅拌；搅动 \nn. 搅乳器",
+    "phonetic": "[tʃɜːn]",
+    "tag": ""
+  },
+  {
+    "itemId": "7aa99e75060714fd07d5210edbf140fb",
+    "item": "cirrus",
+    "trans": "n. 藤蔓； \n西锐（飞机生成商）",
+    "phonetic": "['sɪrəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "733acafb28f2669800738783ea26b305",
+    "item": "clamp",
+    "trans": "vt. 夹紧，固定住 n. 夹钳，螺丝钳",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "4bfc960e8d65a7948a450d56edf9b159",
+    "item": "clerical",
+    "trans": "adj. 书记的；牧师的；办事员的 n. 牧师",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "1eacf41b15c22b057b57bf5e599c8ed0",
+    "item": "cling",
+    "trans": "vi. 坚持，墨守；紧贴；附着",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "64e4268f9b0dc2564c6425348155486f",
+    "item": "clot",
+    "trans": "vi. 凝结\nn. [生理] 凝块\nvt. 使凝结成块\nn. (Clot)人名；(法)克洛；(西)克洛特",
+    "phonetic": "[klɑt]",
+    "tag": ""
+  },
+  {
+    "itemId": "8edc97f89c004dd2568a14a6b7264f2e",
+    "item": "clout",
+    "trans": "n. 破布；敲打；影响力；势力\nvt. 给…打补钉；猛击\nn. (Clout)人名；(法)克卢",
+    "phonetic": "[klaʊt]",
+    "tag": ""
+  },
+  {
+    "itemId": "2e7dd11c30fd6661aa96f4b4fd2faa04",
+    "item": "coalition",
+    "trans": "n. 联合；结合，合并",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7aaa60081f4246d635b3d8ee6cc66aca",
+    "item": "coating",
+    "trans": "n.涂层；包衣；衣料\nv.给…穿上外衣；盖上（coat的ing形式）",
+    "phonetic": "['kəʊtɪŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "efe68b0e0c598d733a0b5effa4487a4f",
+    "item": "cockpit",
+    "trans": "n. 驾驶员座舱；战场",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4417589f45344c5f82a862502d93bf76",
+    "item": "coefficient",
+    "trans": "n. [数] 系数；率；协同因素 \nadj. 合作的；共同作用的",
+    "phonetic": "[ˌkəʊɪˈfɪʃnt]",
+    "tag": ""
+  },
+  {
+    "itemId": "58b064a8fd58e03bc8ef3c139bcf3c68",
+    "item": "cognition",
+    "trans": "n. 认识；知识；认识能力",
+    "phonetic": "[kɒg'nɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "447c87f1fa51c9e1789a850ec8e806a8",
+    "item": "colloquial",
+    "trans": "adj. 白话的；通俗的；口语体的",
+    "phonetic": "[kə'ləʊkwɪəl]",
+    "tag": ""
+  },
+  {
+    "itemId": "17e104a8f78ea0ae083aaaff66a5ef2c",
+    "item": "colonize",
+    "trans": "vt. 将…开拓为殖民地；移于殖民地；从他地非法把选民移入\nvi. 开拓殖民地；移居于殖民地",
+    "phonetic": "['kɑlənaɪz]",
+    "tag": ""
+  },
+  {
+    "itemId": "a37fb79d2b46741d19d17aa116db2710",
+    "item": "colony",
+    "trans": "n.殖民地；移民队；种群；动物栖息地",
+    "phonetic": "['kɒlənɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "f5700432c7a701790a2a2c18ff989a19",
+    "item": "combat",
+    "trans": "vt.反对；与…战斗\nvi.战斗；搏斗\nn.战斗；争论\nadj.战斗的；为…斗争的\nn.(Combat)人名；(法)孔巴",
+    "phonetic": "['kɒmbæt; 'kʌm-]",
+    "tag": ""
+  },
+  {
+    "itemId": "ce5487cb5b35121c2b7701e81b894629",
+    "item": "combustion",
+    "trans": "n. 燃烧，氧化；骚动",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "958256bc7766da6f2c580d81b0b4a9f4",
+    "item": "commission",
+    "trans": "n. 委员会；佣金；犯；委任；委任状 \nvt. 委任；使服役；委托制作",
+    "phonetic": "[kə'mɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "cc4c11ce44f48e69a796c5f4ea614b6f",
+    "item": "commodity",
+    "trans": "n. 商品，货物；日用品",
+    "phonetic": "[kəˈmɒdəti]",
+    "tag": ""
+  },
+  {
+    "itemId": "91951f05362cfa2eec7291f1280973b4",
+    "item": "communism",
+    "trans": "n.共产主义",
+    "phonetic": "['kɒmjʊnɪz(ə)m]",
+    "tag": ""
+  },
+  {
+    "itemId": "496682646f2ed1378f4249ddd9b327d2",
+    "item": "compensate",
+    "trans": "vi. 补偿，赔偿；抵消 vt. 补偿，赔偿；付报酬",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1b2406faeb31d22d8ef64321c5264230",
+    "item": "competitive",
+    "trans": "adj.竞争的；比赛的；求胜心切的",
+    "phonetic": "[kəm'petɪtɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "2b0fef15820213f464a84e4c70d9fb3a",
+    "item": "compliance",
+    "trans": "n. 顺从，服从；符合；屈从；可塑性",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "fbb12138ab6084f41179108acdb04e29",
+    "item": "comply",
+    "trans": "vi. 遵守；顺从，遵从；答应",
+    "phonetic": "[kəm'plaɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "4c2728b295ff0b6100e02e64e415cf41",
+    "item": "compositional",
+    "trans": "adj. 组成的；创作的；作曲的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c9c169ee60f4ee42ca066070b3fd7ac5",
+    "item": "comprehensible",
+    "trans": "adj. 可理解的",
+    "phonetic": "[kɒmprɪ'hensɪb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "7fce72fb379811990f3b6b51859ccdb4",
+    "item": "conceive",
+    "trans": "vt. 怀孕；构思；以为；持有 vi. 怀孕；设想；考虑",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "5dd13886143a512268f6e3be67f038e2",
+    "item": "concoct",
+    "trans": "vt. 捏造；混合而制；调合；图谋",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "378df5d3d1adf6fc5720a03b15a00563",
+    "item": "condescend",
+    "trans": "vi. 屈尊；俯就；（对某人）表现出优越感",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "53c34bb5aaddb1e599746ff3fdb796f2",
+    "item": "confer",
+    "trans": "vt. 授予；给予\nvi. 协商\nn. (Confer)人名；(英)康弗",
+    "phonetic": "[kən'fɜː]",
+    "tag": ""
+  },
+  {
+    "itemId": "bcad38bd6f88c4e07f7535ca1dc04002",
+    "item": "congruent",
+    "trans": "adj. 适合的，一致的；全等的；和谐的",
+    "phonetic": "[ˈkɒŋɡruənt]",
+    "tag": ""
+  },
+  {
+    "itemId": "8d0b879151ab2a14aa3c367fbf924b80",
+    "item": "conjecturable",
+    "trans": "adj. 可推测的，可猜想的",
+    "phonetic": "[kən'dʒektʃərəbl]",
+    "tag": ""
+  },
+  {
+    "itemId": "31a3a4f37d9adc9b5a94061768087528",
+    "item": "conscientious",
+    "trans": "adj. 认真的；尽责的；本着良心的；小心谨慎的",
+    "phonetic": "[ˌkɒnʃiˈenʃəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "1dd74ee6bdeeb79df398a5028ef61cda",
+    "item": "consciously",
+    "trans": "adv. 自觉地；有意识地",
+    "phonetic": "['kɑnʃəsli]",
+    "tag": ""
+  },
+  {
+    "itemId": "0b906cc576dab89ffd81253f8643de15",
+    "item": "consecrate",
+    "trans": "vt. 奉献；使神圣；供神用；献身于 \nadj. 神圣的；被献给神的",
+    "phonetic": "['kɒnsɪkreɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "3f0fe9ddd735beb04dff2d11a7ad5a0d",
+    "item": "consensus",
+    "trans": "n. 一致；舆论；合意",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6b89ada44560af862ac63da2b515380c",
+    "item": "conservative",
+    "trans": "adj. 保守的 n. 保守派，守旧者",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "493db5ac3f49ec334b94ca77c6d1756c",
+    "item": "conspire",
+    "trans": "vi. 共谋；协力 vt. [法] 密谋策划",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "02e8b89517263bf7a54c9b48e58ae1c8",
+    "item": "constellation",
+    "trans": "n. [天] 星座；星群；荟萃；兴奋丛",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "959d34d3f29f278ae1b5466c84c3af18",
+    "item": "constitute",
+    "trans": "vt. 组成，构成；建立；任命",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "00f91d33538bcd94c5a83722e8a89968",
+    "item": "consul",
+    "trans": "n. 领事；（古罗马的）两执政官之一\nn. (Consul)人名；(法)孔叙尔",
+    "phonetic": "['kɑnsl]",
+    "tag": ""
+  },
+  {
+    "itemId": "c8d4cbe009347b6d1678c79916e06572",
+    "item": "contaminate",
+    "trans": "vt. 污染，弄脏",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5a7a594c91b1d7c9bf9e457019004751",
+    "item": "contemplation",
+    "trans": "n.沉思；注视；意图",
+    "phonetic": "[,kɒntem'pleɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "393fc5b2eb2649c7c5e68adc674f2776",
+    "item": "contemporary",
+    "trans": "n. 同时代的人；同时期的东西 adj. 当代的；同时代的；属于同一时期的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7a4a82401af2377974fecc8d307df945",
+    "item": "contempt",
+    "trans": "n. 轻视，蔑视；耻辱",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e6e300499b96cbaa76ac5ce598c80a8f",
+    "item": "contender",
+    "trans": "n. 竞争者；争夺者",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "82e3a6b795a754bd8b47823ca5ab4915",
+    "item": "continent",
+    "trans": "n. 大陆，洲，陆地\nadj. 自制的，克制的",
+    "phonetic": "['kɒntɪnənt]",
+    "tag": ""
+  },
+  {
+    "itemId": "16c380277fd5d50d8942bccb0d0d1ffe",
+    "item": "continental",
+    "trans": "adj. 大陆的；大陆性的 n. 欧洲人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "688f02b5f98c65055111f41a34391fcc",
+    "item": "contradict",
+    "trans": "vt. 反驳；否定；与…矛盾；与…抵触 vi. 反驳；否认；发生矛盾",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "629f0553611ce462e55f80fc9d022893",
+    "item": "contributory",
+    "trans": "adj. 捐助的；贡献的；有助于…的 n. 捐助者；贡献人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0d75380e22e49c0d341236c48472f198",
+    "item": "controversial",
+    "trans": "adj. 有争议的；有争论的",
+    "phonetic": "[,kɑntrə'vɝʃl]",
+    "tag": ""
+  },
+  {
+    "itemId": "6c06595014909e77175ca32e8735b0a5",
+    "item": "conundrum",
+    "trans": "n. 难题；谜语",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b5562f1dccffb0f2485e2131dd836912",
+    "item": "convincible",
+    "trans": "adj. 可使信服的；可说服的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cc3edbca6c098f10e11a4f760a1c5040",
+    "item": "convulsion",
+    "trans": "n. [医] 惊厥；动乱；震撼；震动",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "44a1d67dd5fdb4a0c2007145673e9ee7",
+    "item": "coral reef",
+    "trans": "珊瑚礁",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "175c7b60d5380256b62b26a9060a0cac",
+    "item": "corruption",
+    "trans": "n. 贪污，腐败；堕落",
+    "phonetic": "[kə'rʌpʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "c8f750a94ad894b76aaa3a4f738fc452",
+    "item": "cosmetic",
+    "trans": "adj. 美容的；化妆用的 n. 化妆品；装饰品",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "dcdc8a8dad7f60e335e7c282a8f648de",
+    "item": "cosmic",
+    "trans": "adj. 宇宙的（等于cosmical）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b5d198c377347b0eca56f7ac1f2d1596",
+    "item": "cosmology",
+    "trans": "n. [天] 宇宙论，[天] 宇宙学",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cad744d5c0cd5aa9db81cce34fcb9f46",
+    "item": "council",
+    "trans": "n. 委员会；会议；理事会；地方议会；顾问班子\nn. (Council)人名；(英)康斯尔",
+    "phonetic": "['kaʊnsl]",
+    "tag": ""
+  },
+  {
+    "itemId": "9d621ec9e2815c59d0d089c6a1ddecd6",
+    "item": "covet",
+    "trans": "vt. 垂涎；觊觎 \nvi. 垂涎；觊觎",
+    "phonetic": "['kʌvɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "e41138d9f3e4bc1f9338194e899e26bf",
+    "item": "coyote",
+    "trans": "n. 一种产于北美大草原的小狼；引外国人从墨西哥偷渡进入美国的不法分子",
+    "phonetic": "[kaɪ'əʊtɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "a5a4386a9d210fb10f6e464d76f64535",
+    "item": "creditor",
+    "trans": "n. 债权人，贷方",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "baf3e611bca748191e5051ad733464dd",
+    "item": "creed",
+    "trans": "n. 信条，教义 n. (Creed)人名；(英)克里德",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2c4252791e5a15dd60cc247b230c73f4",
+    "item": "cretaceous",
+    "trans": "adj. 白垩纪的；似白垩的\nn. 白垩纪；白垩系",
+    "phonetic": "[krɪ'teʃəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "8d10c04b3a2818943389049b82659c75",
+    "item": "criticism",
+    "trans": "n. 批评；考证；苛求",
+    "phonetic": "['krɪtɪsɪz(ə)m]",
+    "tag": ""
+  },
+  {
+    "itemId": "81df17a3913dd15c9003c65082ebf71d",
+    "item": "crude",
+    "trans": "adj. 粗糙的；天然的，未加工的；粗鲁的 n. 原油；天然的物质",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4f3e4fa7f88bff93ec9a6ca8cd3fb346",
+    "item": "cube",
+    "trans": "n. 立方；立方体；骰子 vt. 使成立方形；使自乘二次；量…的体积 n. (Cube)人名；(瑞典、德)库贝",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1e50d4dee5d5f49b41e2f0cf90698db1",
+    "item": "culinary",
+    "trans": "adj. 厨房的；烹调用的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "8be120bb1c55dd77d778faf561f5c0ca",
+    "item": "cumulus",
+    "trans": "n.  积云；堆积；堆积物",
+    "phonetic": "['kjuːmjʊləs]",
+    "tag": ""
+  },
+  {
+    "itemId": "20dad36fee686f9016de6baf35798f44",
+    "item": "cuppa",
+    "trans": "n.一杯茶；一杯",
+    "phonetic": "['kʌpə]",
+    "tag": ""
+  },
+  {
+    "itemId": "1f73abe1244510b905a1c02dfce86917",
+    "item": "curator",
+    "trans": "n. 馆长；监护人；管理者",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "497435f74438b15daa15dd7cc1c4e945",
+    "item": "curb",
+    "trans": "n. 抑制；路边；勒马绳 \nvt. 控制；勒住",
+    "phonetic": "[kɜːb]",
+    "tag": ""
+  },
+  {
+    "itemId": "c896b0b6830f0e0188f22cb8e9644ed8",
+    "item": "curing",
+    "trans": "[化学] 固化；（肉、鱼等的）[食品] 腌制，调制；医治；食物加工法",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bf908ea3c4a6e7c1a33f96efce767ac1",
+    "item": "cyclone",
+    "trans": "n. 旋风；[气象] 气旋；飓风",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "78f34568e6213905ad4f05734fb716e0",
+    "item": "dainty",
+    "trans": "adj. 美味的；讲究的；秀丽的；挑剔的 n. 美味",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "97a1f69ac48975699fb81cf91c7d8aba",
+    "item": "dangle",
+    "trans": "vi. 摇晃地悬挂着\nvt. 使摇晃地悬挂\nn. (Dangle)人名；(法)当格勒",
+    "phonetic": "['dæŋɡl]",
+    "tag": ""
+  },
+  {
+    "itemId": "4f111c6457c526dbe68e6ca13232b057",
+    "item": "deadpan",
+    "trans": "adj. 面无表情的；不动声色的；故作严肃的 adv. 面无表情地；不动声色地；故作严肃地 v. 面无表情地表达、表演或行动 n. 毫无表情的脸；面无表情的人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9fe565dc4b3f80d9ce06996b9356ef5b",
+    "item": "debris",
+    "trans": "n.碎片，残骸\nn.(Debris)人名；(法)德布里",
+    "phonetic": "[ˈdeɪbri:]",
+    "tag": ""
+  },
+  {
+    "itemId": "563c6733c25c0d4fb764ed1586d8aedc",
+    "item": "deem",
+    "trans": "vt. 认为，视作；相信 vi. 认为，持某种看法；作某种评价 n. (Deem)人名；(英)迪姆",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "95eff577d744e679a07a650fcfea3e33",
+    "item": "deficience",
+    "trans": "n. 机能不全；缺乏；缺点（等于deficiency）",
+    "phonetic": "[di'fiʃəns]",
+    "tag": ""
+  },
+  {
+    "itemId": "f70aed3247ae62883227f41c6208ccc2",
+    "item": "deformity",
+    "trans": "n. 畸形；畸形的人或物；道德方面的缺陷",
+    "phonetic": "[dɪ'fɔrməti]",
+    "tag": ""
+  },
+  {
+    "itemId": "11682a1de5a26cdeaabfcf0fdefbbf04",
+    "item": "deity",
+    "trans": "n. 神；神性",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "162b57bccdfe3e8fc83a116214c500b8",
+    "item": "deject",
+    "trans": "v. 使沮丧，使灰心 adj. 沮丧的，情绪低落的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "675ffff102b00176135ddcbd8291d2f6",
+    "item": "deliberative",
+    "trans": "adj. 审议的；慎重的",
+    "phonetic": "[dɪ'lɪb(ə)rətɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "601df50cb87a0c8afa741d19096d914d",
+    "item": "delicacy",
+    "trans": "n. 美味；佳肴；微妙；精密；精美；敏锐，敏感；世故，圆滑",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "de8abd506cafb0ff1abd29fcfff6ad89",
+    "item": "delineate",
+    "trans": "vt. 描绘；描写；画…的轮廓",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "0a3074e1ea2798fbd352484c29670450",
+    "item": "delude",
+    "trans": "vt. 欺骗；哄骗；诱惑；【罕用】迷惑；逃避；使失望",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0ba9b3471ea4d09c632c48990fc03024",
+    "item": "demise",
+    "trans": "n. 死亡，终止；转让；传位 vt. 遗赠；禅让",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "590b771a8b4299342bc7a1bf706c798e",
+    "item": "demonstrated",
+    "trans": "演示",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bbab49edfd578c5ac640e39e77710ea4",
+    "item": "demote",
+    "trans": "vt. 使降级；使降职",
+    "phonetic": "[diːˈməʊt]",
+    "tag": ""
+  },
+  {
+    "itemId": "c7f3311257f4ab8b2c1113be72bbbb1b",
+    "item": "demure",
+    "trans": "adj. 端庄的；娴静的；严肃的；假装正直的 n. (Demure)人名；(法)德米尔",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a1caa784add8e0b657ab5e701fb4e4db",
+    "item": "department store",
+    "trans": "百货公司；百货商店",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "228047b385bd00fae20ac6633c7d3f0f",
+    "item": "depict",
+    "trans": "vt. 描述；描画",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "21478a794eb1c587766b9056cad67ddc",
+    "item": "deprive",
+    "trans": "vt. 使丧失，剥夺",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e49c5bf5261a3a041b1623df6f35b5d1",
+    "item": "desert",
+    "trans": "vt. 遗弃；放弃；逃跑\nvi. 遗弃；开小差；逃掉\nn. 沙漠；荒原；应得的赏罚\nadj. 沙漠的；荒凉的；不毛的",
+    "phonetic": "[(for v.) dɪˈzɝ​t; (for n.) 'dɛzɚt]",
+    "tag": ""
+  },
+  {
+    "itemId": "ea63260b7f1ab62cfe64f3a2e30aa956",
+    "item": "designate",
+    "trans": "vt. 指定；指派；标出；把…定名为 \nadj. 指定的；选定的",
+    "phonetic": "['dezɪgneɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "abf113ae440c5cf9a47616022c5b9d9f",
+    "item": "designated",
+    "trans": "adj. 指定的；特指的",
+    "phonetic": "['dɛzɪg,netɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "61830335852168941aadd0a6a073fb7f",
+    "item": "destined",
+    "trans": "adj. 注定的；命定的；去往…的 v. 注定（destine的过去式和过去分词）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f60db123b500dff33ec4b936b4b8027e",
+    "item": "detain",
+    "trans": "vt. 拘留；留住；耽搁",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "975c039ce50bb4ccad94430846151ede",
+    "item": "deterrence",
+    "trans": "n. 威慑；妨碍物；挽留的事物",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "819f650352c65616046aedcd082a4d62",
+    "item": "deterrent",
+    "trans": "adj. 遏制的，威慑的；制止的 n. 威慑；妨碍物；挽留的事物",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "29a00fa297a9d5b3a408bf5cd6018ec3",
+    "item": "detriment",
+    "trans": "n. 损害；伤害；损害物",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4068fb66fcef105b4d95d199db1b65ba",
+    "item": "detrimental",
+    "trans": "adj. 不利的；有害的 n. 有害的人（或物）；不受欢迎的求婚者",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6152945eec4c21764682bb5e6d3afc9f",
+    "item": "deviate",
+    "trans": "vi. 脱离；越轨\nvt. 使偏离",
+    "phonetic": "['divɪet]",
+    "tag": ""
+  },
+  {
+    "itemId": "41919173f2668023d553aab048479350",
+    "item": "devoid",
+    "trans": "adj. 缺乏的；全无的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "17664a943e8c5d9be949f8aae72f48c7",
+    "item": "devolution",
+    "trans": "n. 相传，转移；委付；依次；落下",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "f174dca1f05f05d95bef9d1bb02de763",
+    "item": "devotee",
+    "trans": "n. 信徒；爱好者",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4a0af1e7e2a87ac0265fcfd3398b3fb4",
+    "item": "diagram",
+    "trans": "n. 图表；图解 vt. 用图解法表示",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "15dd9e41911c2ba908cc0bb6a0b9ce97",
+    "item": "dialect",
+    "trans": "n. 方言，土话；同源语；行话；个人用语特征 \nadj. 方言的",
+    "phonetic": "['daɪəlekt]",
+    "tag": ""
+  },
+  {
+    "itemId": "74b660664d69994ed735f2c71eb09814",
+    "item": "diameter",
+    "trans": "n. 直径",
+    "phonetic": "[daɪ'æmɪtɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "90bff04ceabc5d2548ee6cdbec864704",
+    "item": "difference of squares",
+    "trans": "平方差",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "187a58b1eb285e6d49e36c8987d343f0",
+    "item": "diluted",
+    "trans": "adj. 稀释的；无力的 \nv. 稀释（dilute的过去分词）；使减低（效果）",
+    "phonetic": "[daɪ'ljuːtɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "b7c4388b77cc957b93079b86304c8a5c",
+    "item": "dimension",
+    "trans": "n. [数] 维；尺寸；次元；容积 vt. 标出尺寸 adj. 规格的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "648ee8e4f81433550e6ce922015ba5ae",
+    "item": "dinosaur",
+    "trans": "n. 恐龙；过时、落伍的人或事物",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7aea2d2d4865d7d8b7001a5f93605dfd",
+    "item": "diplomacy",
+    "trans": "n. 外交；外交手腕；交际手段",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5d22ff504426a076eae3158dd81e1aec",
+    "item": "dipsomaniac",
+    "trans": "n. 耽酒症患者",
+    "phonetic": "[,dɪpsəʊ'meɪnɪæk]",
+    "tag": ""
+  },
+  {
+    "itemId": "faa02573901d8fbbcf4faff3931ae044",
+    "item": "disarmament",
+    "trans": "n. 裁军",
+    "phonetic": "[dɪs'ɑrməmənt]",
+    "tag": ""
+  },
+  {
+    "itemId": "7871f22e046aa7ba3a021168ce310c9f",
+    "item": "discarded",
+    "trans": "v. 丢弃（discard的过去分词）\nadj. 丢弃的；废弃的",
+    "phonetic": "[dɪs'kɑrd]",
+    "tag": ""
+  },
+  {
+    "itemId": "2b5c98ee5e60f2aaec3409613fd29354",
+    "item": "discourse",
+    "trans": "n. 论述；谈话；演讲 vi. 演说；谈论；讲述 vt. 说出；演奏出",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "4b78c0c83047818ee03c106a12d525dc",
+    "item": "discreet",
+    "trans": "adj. 谨慎的；小心的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e9607949d8efc88299a19626e95ba896",
+    "item": "discursion",
+    "trans": "n. 漫谈离题",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e938c52db925d8415d8fecbc0b6e4ffa",
+    "item": "dismissive",
+    "trans": "adj. 轻蔑的，鄙视的，不加考虑的，不屑一顾的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a08188d13015dc3dea805e42427fd4b2",
+    "item": "dispersal",
+    "trans": "n. 分散；传播；散布；疏散；消失",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "dc87f4d51010eba9839095eef28d8aa9",
+    "item": "dispersion",
+    "trans": "n. 散布；[统计][数] 离差；驱散",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2649bda5d0b996e27d24a4ab6e034172",
+    "item": "dissertation",
+    "trans": "n. 论文，专题；学术演讲",
+    "phonetic": "['dɪsɚ'teʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "6c680cb5d939bf4438813f8cde5e64cf",
+    "item": "dissipate",
+    "trans": "vt. 浪费；使…消散 vi. 驱散；放荡",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "077e9c409b7145a1949f4104c813e9eb",
+    "item": "distillation",
+    "trans": "n. 精馏，蒸馏，净化；蒸馏法；精华，蒸馏物",
+    "phonetic": "[,dɪstl'eʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "8b1a11b0943d08376d38f181bb78c86b",
+    "item": "distort",
+    "trans": "vt. 扭曲；使失真；曲解 \nvi. 扭曲；变形",
+    "phonetic": "[dɪ'stɔːt]",
+    "tag": ""
+  },
+  {
+    "itemId": "153b6e7203771ff1ed2f38db51b4ae81",
+    "item": "ditto",
+    "trans": "n.同上；同上符号；很相似的人或物\nvt.重复；照抄\nadv.同上地\nadj.相似的\nn.(Ditto)人名；(法)迪托",
+    "phonetic": "['dɪtəʊ]",
+    "tag": ""
+  },
+  {
+    "itemId": "8607af734212cb66018ca267a4625b5c",
+    "item": "divergence",
+    "trans": "n. 分歧",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b335dbf08a0784a32941018f21207ef5",
+    "item": "divergent",
+    "trans": "adj. 相异的，分歧的；散开的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "8cc26347f0a97b3a8349603b687194ff",
+    "item": "division",
+    "trans": "n. [数] 除法；部门；分配；分割；师（军队）；赛区",
+    "phonetic": "[də'vɪʒən]",
+    "tag": ""
+  },
+  {
+    "itemId": "43bd4ad8e288fec4dc88b473a8cf0367",
+    "item": "domestic",
+    "trans": "adj. 国内的；家庭的；驯养的；一心只管家务的 n. 国货；佣人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e66ccd1f4a32ddbd065550888911ca29",
+    "item": "drainage",
+    "trans": "n. 排水；排水系统；污水；排水面积",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "f4e62b879b776b4c32811fa4dcc50c01",
+    "item": "drastic",
+    "trans": "adj. 激烈的；猛烈的 \nn. 烈性泻药",
+    "phonetic": "['dræstɪk; 'drɑː-]",
+    "tag": ""
+  },
+  {
+    "itemId": "f731c8f5b94be6e4cba16a0bd705fb84",
+    "item": "drawn",
+    "trans": "adj. 拔出的 v. 画，绘图（draw的过去分词）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "316eae7eaa9cee33a13e0eb8094c9b44",
+    "item": "drift",
+    "trans": "n. 漂流，漂移；趋势；漂流物 \nvi. 漂流，漂移；漂泊 \nvt. 使…漂流；使…受风吹积",
+    "phonetic": "[drɪft]",
+    "tag": ""
+  },
+  {
+    "itemId": "02d6d0926414d779b76d2a6b79885cfa",
+    "item": "drone",
+    "trans": "n. 雄蜂；嗡嗡的声音；懒惰者 n. 无人机（非正式） vi. 嗡嗡作声；混日子 vt. 低沉地说 n. n. (Drone)人名；(法)德罗纳",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c48a356d939f7f5dd7f4151a958b7fa2",
+    "item": "drool",
+    "trans": "vi. 流口水；胡说 vt. 从嘴淌下；散漫地说 n. 口水；梦话，胡说",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "84397f2ebce0ab3b7796ad49c3cea460",
+    "item": "droplet",
+    "trans": "n.小滴，微滴",
+    "phonetic": "['drɒplɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "dc378d2a74772d84bbe6f108affe6ebd",
+    "item": "drought",
+    "trans": "n. 干旱；缺乏 \nn. (Drought)人名；(英)德劳特",
+    "phonetic": "[draʊt]",
+    "tag": ""
+  },
+  {
+    "itemId": "7e2ae768c7fcc014a4c671660d5a1839",
+    "item": "drowsiness",
+    "trans": "n. 睡意；困倦；假寐",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6d062b8da7d1983b9b2bde8442e69410",
+    "item": "drudgery",
+    "trans": "n. 苦工，苦差事",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "07e64ff2da5d509572bede1fc351a13b",
+    "item": "dutifully",
+    "trans": "adv.忠实地；忠贞地",
+    "phonetic": "['dju:tɪfəlɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "11b54b3ef3c6fb48f0af681ab522a7a2",
+    "item": "dwarf",
+    "trans": "vi. 变矮小\nn. 侏儒，矮子\nvt. 使矮小\nadj. 矮小的",
+    "phonetic": "[dwɔrf]",
+    "tag": ""
+  },
+  {
+    "itemId": "985ee2f8e87ad40d483f30a1ab63b6a3",
+    "item": "earnestly",
+    "trans": "adv. 认真地；诚挚地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c2484300f81713610254f6b8ea487793",
+    "item": "echolocation",
+    "trans": "n. 回波定位；回声测距；回声定位能力（鲸和蝙蝠等所具备得一种机能）",
+    "phonetic": "[,ɛkolo'keʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "53395e0aca86af8f35b7867e499ffee9",
+    "item": "eclipse",
+    "trans": "vt. 使黯然失色；形成蚀 n. 日蚀，月蚀；黯然失色",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "185b4082acc5c5ba4bf55d6e98a6dae2",
+    "item": "ecology",
+    "trans": "n. 生态学；社会生态学",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "112dde8807616808826930f4ce216908",
+    "item": "economist",
+    "trans": "n. 经济学者；节俭的人",
+    "phonetic": "[ɪ'kɑnəmɪst]",
+    "tag": ""
+  },
+  {
+    "itemId": "e4ff19b70390cb9e30cf7eeff1b7176c",
+    "item": "ecstatic",
+    "trans": "adj. 狂喜的；入迷的 n. 狂喜的人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b33c81c1d36f3f9ae173cbac6eda37da",
+    "item": "edema",
+    "trans": "n. [病理] 水肿（等于oedema）；瘤腺体\nn. (Edema)人名；(乌干)埃德马\n[ 复数:edemas或edemata ]",
+    "phonetic": "[i'dimə]",
+    "tag": ""
+  },
+  {
+    "itemId": "a1fce68c5dabd747b23214facb6be4d6",
+    "item": "editorial",
+    "trans": "adj. 编辑的；社论的 n. 社论",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "759c5f8288bf8d8bf80fea05d3e4748a",
+    "item": "efficacy",
+    "trans": "n. 功效，效力",
+    "phonetic": "['ɛfɪkəsi]",
+    "tag": ""
+  },
+  {
+    "itemId": "469c9647c450b635aa377adaaf2347c4",
+    "item": "eke",
+    "trans": "vt. 竭力增补；勉强维持；竭力维持",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3580ac02ef4e5ee4f0810f2dceffd7ab",
+    "item": "eke out",
+    "trans": "v. 竭力维持；弥补…的不足",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "bb5f1662a5eca504b1acbe886a063099",
+    "item": "elk",
+    "trans": "n. 麋鹿；软鞣粗皮；驼鹿皮革 n. (Elk)人名；(芬)埃尔克",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a582fa5eb38eb6a0260e7b5e559a2a3b",
+    "item": "elliptical",
+    "trans": "adj. 椭圆的；省略的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "7807c14c4e1bb50e80208aa982b1d267",
+    "item": "emancipate",
+    "trans": "vt. 解放；释放",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "71c7b9ed65d28268515ccf5b3d066200",
+    "item": "embroid",
+    "trans": "",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "fa46aaa17ca1b7b824df88ef09911ceb",
+    "item": "embroider",
+    "trans": "vt. 刺绣；装饰；镶边\nvi. 绣花；刺绣",
+    "phonetic": "[ɪm'brɔɪdɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "8939b5c56a94d33ce3e9598a31b0a20c",
+    "item": "embryonic",
+    "trans": "adj.[胚] 胚胎的；似胚胎的",
+    "phonetic": "[,embrɪ'ɒnɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "cffd17151fa120eaa129c104b8067a3d",
+    "item": "empirical",
+    "trans": "adj. 经验主义的，完全根据经验的；实证的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9261cff63f07c197d8d8ba8e5046759b",
+    "item": "empowerment",
+    "trans": "n.许可，授权",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "78791a18bc319096eb7e5e431e4dcaca",
+    "item": "emulate",
+    "trans": "vt. 仿真；模仿；尽力赶上；同…竞争 n. 仿真；仿效",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "671e93e67d8e62ce8611015231d5aeb4",
+    "item": "endure",
+    "trans": "vt. 忍耐；容忍 \nvi. 忍耐；持续",
+    "phonetic": "[ɪn'djʊə; en-; -'djɔː]",
+    "tag": ""
+  },
+  {
+    "itemId": "2eb24f96ef96983bcb2128c35034a49a",
+    "item": "engender",
+    "trans": "vt. 使产生；造成 vi. 产生；引起",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "20dc14d0cebd3d3ed2b8714f31250f9e",
+    "item": "enigma",
+    "trans": "n. 谜，不可思议的东西",
+    "phonetic": "[ɪˈnɪɡmə]",
+    "tag": ""
+  },
+  {
+    "itemId": "2eca5298f632fb7713a863265c8ee789",
+    "item": "entail",
+    "trans": "vt. 使需要，必需；承担；遗传给；蕴含\nn. 引起；需要；继承",
+    "phonetic": "[ɪn'tel]",
+    "tag": ""
+  },
+  {
+    "itemId": "f54c357674eeefc1575de38ea8cecb55",
+    "item": "enumeration",
+    "trans": "n. 列举；[数] 计算；细目",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "10357b2ac3a3231175291d8ac820a53b",
+    "item": "envision",
+    "trans": "vt. 想象；预想",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "44635d119a85ab78b9ae0ecccb48660d",
+    "item": "enzyme",
+    "trans": "n. [生化] 酶",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "77ea42e52be6a3ae19b36567b5a66812",
+    "item": "ephemeral",
+    "trans": "adj. 短暂的；朝生暮死的 n. 只生存一天的事物",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1d83930be81a20fa05c99262bb635285",
+    "item": "equator",
+    "trans": "n. 赤道",
+    "phonetic": "[ɪ'kwetɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "dd0fbd70caa1b530d4160fe53a4949a3",
+    "item": "equatorial",
+    "trans": "adj. 赤道的，近赤道的；中纬线的\nn. 赤道仪",
+    "phonetic": "[,ɛkwə'tɔrɪəl]",
+    "tag": ""
+  },
+  {
+    "itemId": "205044e9f7987da23206413fb40d530a",
+    "item": "equilibrium",
+    "trans": "n. 均衡；平静；保持平衡的能力",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b721a5c27844800ed160fe09325c13b3",
+    "item": "equity",
+    "trans": "n. 公平，公正；衡平法；普通股；抵押资产的净值",
+    "phonetic": "['ekwɪtɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "c53cbd7dadc8fd8b925903cdb2471729",
+    "item": "escalating",
+    "trans": "v. 逐步上升（escalate的ing形式）\nadj. 逐步上涨的",
+    "phonetic": "['ɛskəletɪŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "d7d86ec96154b8b3a4fd35de39032b31",
+    "item": "essence",
+    "trans": "n. 本质，实质；精华；香精 n. (Essence)人名；(英)埃森丝",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6e050235badb0db1ec3337733d6c8ea8",
+    "item": "ethical",
+    "trans": "adj. 伦理的；道德的；凭处方出售的 \nn. 处方药",
+    "phonetic": "['eθɪk(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "edc423ef3ceb5acb6a7bcb78c2c44b6d",
+    "item": "ethnic",
+    "trans": "adj. 种族的；人种的",
+    "phonetic": "['eθnɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "76a1fa31094adf54eb7e3e646c0ff53b",
+    "item": "euclidean",
+    "trans": "adj. 欧几里德的；欧几里德几何学的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "51914151b29bf89fd7c6feb4248fedba",
+    "item": "euphemism",
+    "trans": "n. 委婉语；委婉说法",
+    "phonetic": "['juːfəmɪz(ə)m]",
+    "tag": ""
+  },
+  {
+    "itemId": "97ff79b884e76cfec8db17e7ad00ead1",
+    "item": "evasive",
+    "trans": "adj. 逃避的；托辞的；推托的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6047b47cadd47921229cf2a9ed24ebae",
+    "item": "evoke",
+    "trans": "vt. 引起，唤起；博得",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cef8cdde32ac2ad4f4356f082e9d7732",
+    "item": "exaggerate",
+    "trans": "vt. 使扩大；使增大 vi. 夸大；夸张",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "546964636a4110efcd497d25358471ae",
+    "item": "exasperate",
+    "trans": "vt. 恶化；使恼怒；激怒",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "557460d7e940a883f8686f4906ee4102",
+    "item": "exempt",
+    "trans": "vt. 免除；豁免 adj. 被免除的；被豁免的 n. 免税者；被免除义务者",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b9ce43811e95d3c772a294a87748b9da",
+    "item": "exhibit",
+    "trans": "vt. 展览；显示；提出（证据等）\nn. 展览品；证据；展示会\nvi. 展出；开展览会",
+    "phonetic": "[ɪɡ'zɪbɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "e1a5cdb03bec0cea525de548f8f302c8",
+    "item": "exhibition",
+    "trans": "n. 展览，显示；展览会；展览品",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d92af2f151a57ac6a1a1770e8f2b1c5b",
+    "item": "exonerate",
+    "trans": "vt. 使免罪",
+    "phonetic": "[ɪg'zɒnəreɪt; eg-]",
+    "tag": ""
+  },
+  {
+    "itemId": "fe9fac87b478967183f8180eb43ac2b5",
+    "item": "exotic",
+    "trans": "adj. 异国的；外来的；异国情调的",
+    "phonetic": "[ɪg'zɒtɪk; eg-]",
+    "tag": ""
+  },
+  {
+    "itemId": "88a1f75d24764d2d874fc0fd3aa7321e",
+    "item": "expedite",
+    "trans": "vt. 加快；促进；发出 adj. 畅通的；迅速的；方便的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3ad526017977e842bea69968b6b48cee",
+    "item": "exploit",
+    "trans": "n. 勋绩；功绩\nvt. 开发，开拓；剥削；开采",
+    "phonetic": "[ˈeksplɔɪt;ɪkˈsplɔɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "1a5e43c90d2d5432387d5a282dc4ccf3",
+    "item": "external",
+    "trans": "adj. 外部的；表面的；[药] 外用的；外国的；外面的 n. 外部；外观；外面",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "4c54ae1fa28165de23b077888394ded4",
+    "item": "exuberant",
+    "trans": "adj. 繁茂的；生气勃勃的，充溢的",
+    "phonetic": "[ɪg'z(j)uːb(ə)r(ə)nt; eg-]",
+    "tag": ""
+  },
+  {
+    "itemId": "a119928ed2a6bbd611fa60a3be8fe68b",
+    "item": "factorise",
+    "trans": "编制计算程序",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "629acaf6d153b34f1d4a21495f9a3906",
+    "item": "fair",
+    "trans": "adj. 公平的；美丽的，白皙的；[气象] 晴朗的 adv. 公平地；直接地；清楚地 vi. 转晴 n. 展览会；市集；美人 n. (Fair)人名；(英、芬)费尔",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "641fb380fe924d8eecdeb2e2f504f52a",
+    "item": "falsifiable",
+    "trans": "adj. 可以被检验的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "18de8a7237c6c2de88a09fea4ad1a38a",
+    "item": "fanatic",
+    "trans": "n. 狂热入迷者；盲信者；盲信 adj. 狂热的；盲信的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "431a15b117ade3e8b981d3c5d374061c",
+    "item": "fatally",
+    "trans": "adv. 致命地；命中注定地；不可避免地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ff89cde99383d9f2d29347b3d4b6ac44",
+    "item": "fateful",
+    "trans": "adj. 重大的；决定性的；宿命的",
+    "phonetic": "[ˈfeɪtfl]",
+    "tag": ""
+  },
+  {
+    "itemId": "7a90afff3d80284cef4e66b9873c8af3",
+    "item": "fauna",
+    "trans": "n. 动物群；[动] 动物区系 n. (Fauna)人名；(瑞典)福纳",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "722b2afe6c1d8f89102bdb1aba312494",
+    "item": "feat",
+    "trans": "n. 功绩，壮举；技艺表演 \nadj. 合适的；灵巧的",
+    "phonetic": "[fiːt]",
+    "tag": ""
+  },
+  {
+    "itemId": "7e483adba2553c5966caa62a749ab966",
+    "item": "fed up",
+    "trans": "感到厌烦的；忍无可忍",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "82e739cb9f39ed3679e27ca9181c5e41",
+    "item": "femininity",
+    "trans": "n. 温柔；柔弱性；女子本性",
+    "phonetic": "['fɛmə'nɪnəti]",
+    "tag": ""
+  },
+  {
+    "itemId": "f1fe44e8db7a5120cb8e256dd1b4a5a4",
+    "item": "fend",
+    "trans": "vt. 谋生；保护；挡开；供养 vi. 照料；供养；力争",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "85e79dcae000567653b82ea8a4fb170b",
+    "item": "ferry",
+    "trans": "n. 渡船；摆渡；渡口 \nvt. （乘渡船）渡过；用渡船运送；空运 \nvi. 摆渡；来往行驶 \nn. (Ferry)人名；(法、德、英、印尼)费里",
+    "phonetic": "[ˈferi]",
+    "tag": ""
+  },
+  {
+    "itemId": "bc05132a19711c8c5fd6e5d329145871",
+    "item": "figurative",
+    "trans": "adj. 比喻的；修饰丰富的；形容多的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "445d8137533a6208f21cb7b3d3866e84",
+    "item": "filet",
+    "trans": "n. 肉片；鱼片；（猪、牛等的）里脊\nn. (Filet)人名；(法)菲莱",
+    "phonetic": "[fɪ'le; 'fɪl,e]",
+    "tag": ""
+  },
+  {
+    "itemId": "c390508bc0a35d1e1a8818fb5788bce2",
+    "item": "fire hydrant",
+    "trans": "[安全] 消防栓；灭火龙头",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4c537b99577e602b4ec070e20a9069df",
+    "item": "fiscal",
+    "trans": "adj. 会计的，财政的；国库的\nn. (Fiscal)人名；(法)菲斯卡尔",
+    "phonetic": "['fɪskl]",
+    "tag": ""
+  },
+  {
+    "itemId": "de6de94ad9abf05fe37a362e9d39bd15",
+    "item": "fixated",
+    "trans": "adj. 念念不忘的；稳固关系的 \nv. 使固定下来；注视（fixate的过去分词）",
+    "phonetic": "[fik'seitid]",
+    "tag": ""
+  },
+  {
+    "itemId": "71674b82e318f5ea716f0277ee540951",
+    "item": "fizzle",
+    "trans": "vi. 失败；发嘶嘶声；萎靡 n. 失败；嘶嘶声",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2cb9a62ccfb3e718309a7fe7515f98de",
+    "item": "flabby",
+    "trans": "adj.松弛的；软弱的；没气力的；优柔寡断的",
+    "phonetic": "['flæbɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "19426cae9ef00d02cfc4b50e7557c534",
+    "item": "flame",
+    "trans": "n. 火焰；热情；光辉 v. 焚烧；泛红 n. (Flame)人名；(法)弗拉姆；(西)弗拉梅",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9cf29d102585c43a0b3be87b4d163dce",
+    "item": "flap",
+    "trans": "n. 拍打，拍打声；神经紧张；[航] 襟翼\nvi. 拍动；神经紧张；鼓翼而飞；（帽边等）垂下\nvt. 拍打；扔；拉下帽边；飘动",
+    "phonetic": "[flæp]",
+    "tag": ""
+  },
+  {
+    "itemId": "a15aa46ad294b5719ec57cc660a94d99",
+    "item": "flood",
+    "trans": "vt. 淹没；充满；溢出 vi. 涌出；涌进；为水淹没 n. 洪水；泛滥；一大批 n. (Flood)人名；(英)弗勒德；(瑞典、芬)弗洛德",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3996fc0053e5eead29ba487ef62e82ce",
+    "item": "flotilla",
+    "trans": "n. 小型船队；小舰队",
+    "phonetic": "[flə'tɪlə]",
+    "tag": ""
+  },
+  {
+    "itemId": "62fdb396b6707556dfed6e48ecfe0dd3",
+    "item": "flub",
+    "trans": "v. 搞糟，搞坏；犯错误 n. 搞糟的事情；错误，过失",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "598c2748238c127faae080a3bf972b69",
+    "item": "flutter",
+    "trans": "vi. 飘动；鼓翼；烦扰 vt. 拍；使焦急；使飘动 n. 摆动；鼓翼；烦扰",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cf47db34669e38ead7874182262c813d",
+    "item": "fodder",
+    "trans": "n. 饲料；素材 vt. 喂",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6d6332f500dfa5d10157869f97f48e39",
+    "item": "foible",
+    "trans": "n. 弱点；小缺点；癖好",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3080c15676be5ffe988697ac0d418b27",
+    "item": "folklore",
+    "trans": "n. 民俗学；民间传说；民间风俗",
+    "phonetic": "['fəʊklɔː]",
+    "tag": ""
+  },
+  {
+    "itemId": "4b1fb45a038da4d4eb3218668d54eb25",
+    "item": "forcibly",
+    "trans": "adv.用力地；强制地；有说服力地",
+    "phonetic": "['fɔːsɪblɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "f6ad7f4372790d60c9a6f34b3b7e4f83",
+    "item": "forebode",
+    "trans": "v. 预示；预感；预兆",
+    "phonetic": "[fɔː'bəʊd]",
+    "tag": ""
+  },
+  {
+    "itemId": "4888bd6d8504d2847ed18e40a74a4c75",
+    "item": "foreboding",
+    "trans": "n. 预感；先兆；预兆 \nadj. 预感的；不祥之兆的",
+    "phonetic": "[fɔː'bəʊdɪŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "f2d88b5b8f11ff7ed075a309333a4610",
+    "item": "foremost",
+    "trans": "adj. 最重要的；最先的 adv. 首先；居于首位地",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "917cebb14a55698fa0ec5d0ebf301ebb",
+    "item": "foreshadow",
+    "trans": "vt. 预示；成为…的前兆 n. 预兆",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ca82d7469af53c288459366b119a9380",
+    "item": "formalistic",
+    "trans": "adj. 形式主义的，呆板的",
+    "phonetic": "[fɔ:'mælistik]",
+    "tag": ""
+  },
+  {
+    "itemId": "15782a120d520dd986e52ecde1ca6d92",
+    "item": "forte",
+    "trans": "n. 长处；特长 \nadj. 强音的；响的 \nadv. 响亮地 \nn. (Forte)人名；(英、意、葡、法、德、西)福特",
+    "phonetic": "['fɔːteɪ; 'fɔːtɪ; fɔːt]",
+    "tag": ""
+  },
+  {
+    "itemId": "b8639a9db667970414fa6e015126f217",
+    "item": "forth",
+    "trans": "adv. 向前，向外；自…以后 n. (Forth)人名；(德)福特；(英)福思",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "24d1c8638b1d375dd49f488db015202b",
+    "item": "forthcoming",
+    "trans": "adj. 即将来临的 n. 来临",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "57f07a00bad2d9f746ec32cd528d20c2",
+    "item": "fortified",
+    "trans": "n. 强化酒（葡萄酒与白兰地或其他烈酒勾兑的混合酒，如Port酒）\nv. 筑防御工事于…（fortify的过去式）\nadj. 加强的",
+    "phonetic": "['fɔ:tifaid]",
+    "tag": ""
+  },
+  {
+    "itemId": "b8652e3423a5ba715a38acb9a942c93f",
+    "item": "fortissimo",
+    "trans": "adj. 极强的；非常嘹亮的 \nadv. 极强地；非常响亮地 \nn. 用极强音奏的音 \nn. (Fortissimo)人名；(意)福尔蒂西莫",
+    "phonetic": "[fɔː'tɪsɪməʊ]",
+    "tag": ""
+  },
+  {
+    "itemId": "f09d6196ee8f28aae28aa45a64b5bcae",
+    "item": "fossil",
+    "trans": "n. 化石；僵化的事物；顽固不化的人 adj. 化石的；陈腐的，守旧的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "83814b4a05042a5714ed6347cf60dcb9",
+    "item": "fracture",
+    "trans": "n. 破裂，断裂；[外科] 骨折\nvi. 破裂；折断\nvt. 使破裂",
+    "phonetic": "['fræktʃɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "a6c65b5dafdebedfd3ddbfaa4ec5779e",
+    "item": "frigid",
+    "trans": "adj. 寒冷的，严寒的；冷淡的",
+    "phonetic": "['frɪdʒɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "8d79ccace251574e2c77e644f473c109",
+    "item": "frugal",
+    "trans": "adj. 节俭的；朴素的；花钱少的",
+    "phonetic": "['fruːg(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "d0a8ff676d4fc30544f4fb3bbfafab46",
+    "item": "full stop",
+    "trans": "句号；[语] 句点",
+    "phonetic": "[full+stop]",
+    "tag": ""
+  },
+  {
+    "itemId": "196b3e80637d5754ea9de84d695ae205",
+    "item": "fungus",
+    "trans": "n. 真菌，霉菌；菌类",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "9d7f6faefd3943b8dd095097c14ed284",
+    "item": "furnace",
+    "trans": "n. 火炉，熔炉",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6127aa1d17c611e3c0b638bd3ee579b8",
+    "item": "fuse",
+    "trans": "vi. 融合；熔化，熔融 \nvt. 使融合；使熔化，使熔融 \nn. 保险丝，熔线；导火线，雷管 \nn. (Fuse)人名；(意)富塞；(法)菲斯",
+    "phonetic": "[fjuːz]",
+    "tag": ""
+  },
+  {
+    "itemId": "8eeb27c6bef2a69b7155df3f4a146b96",
+    "item": "gaffe",
+    "trans": "n. 失态；过失 n. (Gaffe)人名；(法)加夫",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7f3c701e63ac94042dc36fe26015938f",
+    "item": "gale",
+    "trans": "n. [气象] 大风，狂风；（突发的）一阵 n. (Gale)人名；(西、葡、塞)加莱；(缅)格礼；(英)盖尔",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ccaca2854785a744048c0f34bac15d3c",
+    "item": "gallbladder",
+    "trans": "n.[解剖] 胆囊",
+    "phonetic": "['ɡɔːl,blædə]",
+    "tag": ""
+  },
+  {
+    "itemId": "723a386b775f48026c31f733aea0bfce",
+    "item": "gape",
+    "trans": "vi. 裂开，张开；打呵欠 n. 裂口，张嘴；呵欠",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bd6592ccd0e76345ac41bfbe9a5b4829",
+    "item": "geography",
+    "trans": "n. 地理；地形",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "06f41519f4f18ad01b9694729a9bf47f",
+    "item": "geology",
+    "trans": "n. 地质学；地质情况",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6152211b15893661da16a93008d4f32f",
+    "item": "geometry",
+    "trans": "n. 几何学 几何结构",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "362654a408429bc9c0622d250220fa7f",
+    "item": "germination",
+    "trans": "n. 发芽；发生；伟晶作用",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "044bc7169982b2fd3492880fd3d20145",
+    "item": "gibberish",
+    "trans": "n. 乱语；快速而不清楚的言语",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "717b2095183dc05352b0e4a71b60d219",
+    "item": "globular",
+    "trans": "adj. 球状的；由小球形成的；闻名世界的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d85c152a2f23fb372ae4c75af60b799f",
+    "item": "glow worm",
+    "trans": "萤火虫",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "47838f3eb659f91cf434e2adf528b9cf",
+    "item": "gnat",
+    "trans": "n.[昆] 小昆虫；小烦扰\nn.(Gnat)人名；(英)纳特；(俄)格纳特",
+    "phonetic": "[næt]",
+    "tag": ""
+  },
+  {
+    "itemId": "9a1d34ced2d230e6c32dc07dc92ca951",
+    "item": "goggles",
+    "trans": "n. [安全] 护目镜；防护眼镜；瞪视（goggle的复数）\nv. 瞪大眼睛看；转动眼珠（goggle的三单形式）",
+    "phonetic": "['gɑglz]",
+    "tag": ""
+  },
+  {
+    "itemId": "254419298e6efd2ab011c9572e721a7c",
+    "item": "gown",
+    "trans": "n. 长袍，长外衣；礼服；睡袍；法衣 vt. 使穿睡衣",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3ff8b1b09bde6c5fce6e470a437ef021",
+    "item": "granite",
+    "trans": "n. 花岗岩；坚毅；冷酷无情",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "1bf93f740d8a14acd85c2fc97655b51b",
+    "item": "grassland",
+    "trans": "n. 草原；牧草地",
+    "phonetic": "['ɡræslænd]",
+    "tag": ""
+  },
+  {
+    "itemId": "63ec55f39fde990804e3eeb33c1b9443",
+    "item": "gratuitous",
+    "trans": "adj. 无理由的，无端的；免费的",
+    "phonetic": "[grə'tjuːɪtəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "89427e3ae65644ede67e1eeedbfa1ab0",
+    "item": "graze",
+    "trans": "vt. 放牧；擦伤 vi. 吃草；擦伤 n. 放牧；轻擦",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "08f40faa662c595c6fd4cca271840671",
+    "item": "greek",
+    "trans": "n. 希腊人；希腊语 adj. 希腊的；希腊人的，希腊语的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "bd6866c18e4b5b49080643cdea78bcbd",
+    "item": "grocery",
+    "trans": "n. 食品杂货店\n食品杂货",
+    "phonetic": "['ɡrosəri]",
+    "tag": ""
+  },
+  {
+    "itemId": "8353978e8aba6d2344d126495113ced7",
+    "item": "growl",
+    "trans": "vi. 咆哮着说 vt. 咆哮；（雷电，炮等）轰鸣 n. 咆哮声；吠声；不平",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "dab5d00a1e968aa391a3a1cb65c94869",
+    "item": "growth ring",
+    "trans": "n. [林] 年轮（树木的生长轮）",
+    "phonetic": "[growth+ring]",
+    "tag": ""
+  },
+  {
+    "itemId": "d778f5cbdbf95a648d60260b42f9b31b",
+    "item": "gruffly",
+    "trans": "adv. 粗暴地；粗声地；生硬地",
+    "phonetic": "[ˈɡrʌfli]",
+    "tag": ""
+  },
+  {
+    "itemId": "e61ce919ee02f90d245d8c5d1e181609",
+    "item": "hail",
+    "trans": "n. 冰雹；致敬；招呼；一阵 vt. 致敬；招呼；向...欢呼；猛发；使像下雹样落下（过去式hailed，过去分词hailed，现在分词hailing，第三人称单数hails） vi. 招呼；下雹 int. 万岁；欢迎 n. (Hail)人名；(阿拉伯、捷)海尔",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ca103fdd99c2eb302b59ce8742933d92",
+    "item": "handoff",
+    "trans": "n. 手递手传球（美国橄榄球）；传送 n. （Handoff）接力",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3bcea2944ee7d5a5ef9bbcb5e9c19cc7",
+    "item": "handrail",
+    "trans": "n. 扶手；（楼梯等的）栏杆",
+    "phonetic": "['hændrel]",
+    "tag": ""
+  },
+  {
+    "itemId": "db0ebafa48994c90512870a9f82d1feb",
+    "item": "happenstance",
+    "trans": "n. 意外事件，偶然事件，机遇，巧合",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "abceef99ddb9af1c465c7280733a92cc",
+    "item": "harassment",
+    "trans": "n. 骚扰；烦恼",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "7a6e29f350558e796ea6b2ca85bdaa65",
+    "item": "hassle",
+    "trans": "vt.找麻烦，搅扰；与…争辩；使…烦恼\nn.困难，麻烦；激战\nvi.争论，争辩\nn.(Hassle)人名；(瑞典)哈斯勒",
+    "phonetic": "['hæs(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "7953a967c7b9f72a67aec03ff03bbe58",
+    "item": "haste",
+    "trans": "n. 匆忙；急忙；轻率 vi. 匆忙；赶紧 vt. 赶快 n. (Haste)人名；(英)黑斯特；(法)阿斯特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "12c73dbf82272e6dfd69e05b0c10f7fa",
+    "item": "hasty",
+    "trans": "adj. 轻率的；匆忙的；草率的；懈怠的 n. (Hasty)人名；(英)黑斯蒂 [ 比较级 hastier 最高级 hastiest ]",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ec0ca6b050572ad4cad961b691fa49f7",
+    "item": "hatch",
+    "trans": "n. 孵化；舱口 vt. 孵；策划 vi. 孵化 n. (Hatch)人名；(西)阿奇；(英)哈奇",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "801703349b8906087844bb39a30790c1",
+    "item": "hazard",
+    "trans": "vt. 赌运气；冒…的危险，使遭受危险 n. 危险，冒险；冒险的事 n. (Hazard)人名；(法)阿扎尔；(英)哈泽德",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6a63d958d69d7dd98709fff8cfe0b196",
+    "item": "hazard assessment",
+    "trans": "[环境] 危害评价，灾害评估",
+    "phonetic": "[hazard+assessment]",
+    "tag": ""
+  },
+  {
+    "itemId": "4085e43d4dd4927f51c90a64783efeff",
+    "item": "head butt",
+    "trans": "用头撞击；头击，用脑袋撞",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "cc2376205f36de34d5f7819c80ab8982",
+    "item": "heed",
+    "trans": "vi. 注意，留心 n. 注意到；留心到 vt. 注意，留心 n. (Heed)人名；(瑞典)赫德",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "727ec225fe0c3a97000b35315f85a0bf",
+    "item": "helium",
+    "trans": "n. [化学] 氦（符号为He，2号元素）",
+    "phonetic": "[ˈhiːliəm]",
+    "tag": ""
+  },
+  {
+    "itemId": "e933ea4433a3c5a2c42394e19eb1d863",
+    "item": "hemisphere",
+    "trans": "n. 半球",
+    "phonetic": "['hɛmɪsfɪr]",
+    "tag": ""
+  },
+  {
+    "itemId": "8c788e0d69cde387702d5d563753b5f4",
+    "item": "heritage",
+    "trans": "n. 遗产；传统；继承物；继承权 n. (Heritage)人名；(英)赫里蒂奇",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "8f01a544241475159ddf23563de284ad",
+    "item": "hexagon",
+    "trans": "n. 六角形，六边形\nadj. 成六角的；成六边的",
+    "phonetic": "['hɛksəɡɑn]",
+    "tag": ""
+  },
+  {
+    "itemId": "bb71f7c0e786ab57bcb5cdc163155a2c",
+    "item": "hexagonal",
+    "trans": "adj. 六边的，六角形的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c54c02451c476915c5e79cedc7e5966a",
+    "item": "hinder",
+    "trans": "vi. 成为阻碍 \nvt. 阻碍；打扰 \nadj. 后面的 \nn. (Hinder)人名；(芬)欣德",
+    "phonetic": "['hɪndə]",
+    "tag": ""
+  },
+  {
+    "itemId": "bab0d46f280f9638a6f618792d5feb27",
+    "item": "hinge",
+    "trans": "n. 铰链，折叶；关键，转折点；枢要，中枢 \nv. 用铰链连接；依…为转移；给…安装铰链；（门等）装有蝶铰",
+    "phonetic": "[hɪn(d)ʒ]",
+    "tag": ""
+  },
+  {
+    "itemId": "f8229309f9ab3fa7c1c9030e5bf221f7",
+    "item": "homo sapien",
+    "trans": "智人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e767913d0c361101ac6147e5422c6334",
+    "item": "horde",
+    "trans": "n. 一大群，群；游牧部落",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "aae023fa4c42f634d357f79be1244d38",
+    "item": "hormone",
+    "trans": "n.   [生理] 激素,荷尔蒙",
+    "phonetic": "['hɔːməʊn]",
+    "tag": ""
+  },
+  {
+    "itemId": "7d2c5f5b917874dbe0c933362a0e201e",
+    "item": "horoscope",
+    "trans": "n. 占星术；星象；十二宫图",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "670c0dd9d9b424b5522e66858aecb3b4",
+    "item": "horticulture",
+    "trans": "n. 园艺，园艺学",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3abfb5113a681ebf1191217432594c9c",
+    "item": "hostility",
+    "trans": "n. 敌意；战争行动",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "924948b9520c3365191296b32ad79cb2",
+    "item": "houseboat",
+    "trans": "n. 游艇；居住船 \nvi. 居住在船上；乘居住船游览",
+    "phonetic": "['haʊsbəʊt]",
+    "tag": ""
+  },
+  {
+    "itemId": "fb30218326e62fe24ddca2be9a2a50f2",
+    "item": "humanity",
+    "trans": "n. 人类；人道；仁慈；人文学科",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "03792cdf17ecbabf8b928264ea751a40",
+    "item": "humble",
+    "trans": "adj. 谦逊的；简陋的；（级别或地位）低下的；不大的 \nvt. 使谦恭；轻松打败（尤指强大的对手）；低声下气",
+    "phonetic": "['hʌmbl]",
+    "tag": ""
+  },
+  {
+    "itemId": "db3d88650f3a1c5224bf9cf848c12e9e",
+    "item": "humidity",
+    "trans": "n. [气象] 湿度；湿气",
+    "phonetic": "[hju'mɪdəti]",
+    "tag": ""
+  },
+  {
+    "itemId": "ac9bd834fa21998f9fe57c3cc95edcd3",
+    "item": "hydrant",
+    "trans": "n. 消防栓；水龙头；给水栓",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3056f159f3af755e6b476f40c20592ad",
+    "item": "hydratation",
+    "trans": "水合作用",
+    "phonetic": "[hydratation]",
+    "tag": ""
+  },
+  {
+    "itemId": "1849a1fa5583bd82cb248d7c326e8aa6",
+    "item": "hydraulic",
+    "trans": "adj.液压的；水力的；水力学的",
+    "phonetic": "[haɪ'drɔːlɪk; haɪ'drɒlɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "4ddee6c1ca3d571e6291c17fec0b40fa",
+    "item": "hydrogen",
+    "trans": "n. [化学] 氢",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1dee0641bd95bf8fcc815564a3b987bf",
+    "item": "ideology",
+    "trans": "n. 意识形态；思想意识；观念学",
+    "phonetic": "[,aɪdɪ'ɒlədʒɪ; ɪd-]",
+    "tag": ""
+  },
+  {
+    "itemId": "c77540ff73c3ebfd9401035ba23ad08e",
+    "item": "illustrative",
+    "trans": "adj. 说明的；作例证的；解说的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c2bbd558179c8ae0811666479d7ecd6c",
+    "item": "imagery",
+    "trans": "n.像；意象；比喻；形象化",
+    "phonetic": "['ɪmɪdʒ(ə)rɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "49a61304d477e3a703ef05ff5f707561",
+    "item": "imbue",
+    "trans": "vt. 灌输；使感染；使渗透",
+    "phonetic": "[ɪm'bjuː]",
+    "tag": ""
+  },
+  {
+    "itemId": "183ded47a198d3bcdc1934fb9c6c31a8",
+    "item": "immunization",
+    "trans": "n. 免疫",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ddc7559bff457a55a4f9b7768df00d9d",
+    "item": "impede",
+    "trans": "vt. 阻碍；妨碍；阻止",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "0acb292559385cd18262f6ba2eed3788",
+    "item": "implore",
+    "trans": "vt. 恳求或乞求 vi. 恳求或乞求",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "87b5ef1b05e8e2320c0def4a93e58a6c",
+    "item": "inaugurate",
+    "trans": "vt. 创新；开辟；开创；举行开幕典礼；举行就职典礼",
+    "phonetic": "[ɪ'nɔɡjəret]",
+    "tag": ""
+  },
+  {
+    "itemId": "8aa0455fa6a203d5acdc124edb36e940",
+    "item": "incentive",
+    "trans": "n. 动机；刺激\nadj. 激励的；刺激的",
+    "phonetic": "[ɪn'sɛntɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "1dcddd9247f4892a846b3037b1d96af9",
+    "item": "incentivize",
+    "trans": "以物质刺激鼓励",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a958d009e435f3c39b59efb4acee5a1f",
+    "item": "incidence",
+    "trans": "n. 发生率；影响； 入射；影响范围",
+    "phonetic": "['ɪnsɪd(ə)ns]",
+    "tag": ""
+  },
+  {
+    "itemId": "424cf3dffd71618fe7915e4b8c1d049f",
+    "item": "inconceivable",
+    "trans": "adj. 不可思议的；难以置信的；不能想象的；非凡的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "60510874ed47e2c767d19af391c28a97",
+    "item": "indecision",
+    "trans": "n.优柔寡断；犹豫不决",
+    "phonetic": "[ɪndɪ'sɪʒ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "155b0f13eed4355b9a291bb46ac22802",
+    "item": "indefatigably",
+    "trans": "adv. 不厌倦地；不屈不挠地",
+    "phonetic": "[,ɪndɪ'fætɪgəbli]",
+    "tag": ""
+  },
+  {
+    "itemId": "df1a4960adfb58c74ea37e67d257335a",
+    "item": "indestructible",
+    "trans": "adj. 不可毁灭的，不能破坏的",
+    "phonetic": "[ɪndɪ'strʌktɪb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "52b619b691ca648ecb16421219a3811a",
+    "item": "indigenous",
+    "trans": "adj. 本土的；土著的；国产的；固有的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b5acd4cafdf4864eb5838ef797257cc0",
+    "item": "indispensable",
+    "trans": "adj. 不可缺少的；绝对必要的；责无旁贷的 n. 不可缺少之物；必不可少的人",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5d5d7a16f2d7207d63361da92f8e18e4",
+    "item": "individuality",
+    "trans": "n. 个性；个人；个人特征；个人的嗜好（通常复数）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4a4f84819768c71184a7de99fc0ded7f",
+    "item": "induce",
+    "trans": "vt. 诱导；引起；引诱；感应",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0a24ebbd4e2130f714eda695be8df9c3",
+    "item": "indulge",
+    "trans": "vt. 满足；纵容；使高兴；使沉迷于… \nvi. 沉溺；满足；放任",
+    "phonetic": "[ɪnˈdʌldʒ]",
+    "tag": ""
+  },
+  {
+    "itemId": "a790519b5487c8c9bce9a81f77d39b2e",
+    "item": "industrial",
+    "trans": "adj. 工业的，产业的；从事工业的；供工业用的；来自勤劳的 n. 工业股票；工业工人",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e85714a317a3796929db1008bdedf5d3",
+    "item": "infestation",
+    "trans": "n. 感染；侵扰",
+    "phonetic": "[,ɪnfe'steɪʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "95ced0abe4acb25d7a3a3ff4ea3911e2",
+    "item": "inhabit",
+    "trans": "vt. 栖息；居住于；占据 \nvi. （古）居住；栖息",
+    "phonetic": "[ɪn'hæbɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "529bebe52dc0debaaefa6206cd67b94e",
+    "item": "inhalation",
+    "trans": "n. 吸入；吸入药剂",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ebe295af08058f3678446c31995ba31d",
+    "item": "inhere",
+    "trans": "vi. 固有；生来即存在；本质上即属",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e03c8ce06ab4b6272d0804e82cd79864",
+    "item": "inherent",
+    "trans": "adj. 固有的；内在的；与生俱来的，遗传的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7d4c707965f8d1107e379776dbd980bf",
+    "item": "innate",
+    "trans": "adj. 先天的；固有的；与生俱来的",
+    "phonetic": "[ɪ'neɪt; 'ɪneɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "05d391914f5dffdd0d42f970e75a086c",
+    "item": "insinuate",
+    "trans": "vt. 暗示；使逐渐而巧妙地取得；使迂回地潜入 \nvi. 暗讽；说含沙射影的话",
+    "phonetic": "[ɪn'sɪnjʊeɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "c13f91aced90d1281681389f539715fe",
+    "item": "instigate",
+    "trans": "vt. 唆使；煽动；教唆；怂恿",
+    "phonetic": "['ɪnstɪgeɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "b36bccfe7232e74c8e781d274a616e73",
+    "item": "instill",
+    "trans": "vt. 徐徐滴入；逐渐灌输",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c8317f08f7ebf0250b568189e1b99027",
+    "item": "interfere",
+    "trans": "vi. 干涉；妨碍；打扰 vt. 冲突；介入",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2833d871de5c53e234fc90ce6716f162",
+    "item": "interior",
+    "trans": "n. 内部；本质 adj. 内部的；国内的；本质的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "7e41324b4fb8b4e6e540ffc462eb36cd",
+    "item": "interject",
+    "trans": "vt. 突然插入；插嘴",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1336dfd58fde053095b168e7a7fc38cd",
+    "item": "interrogate",
+    "trans": "vt. 审问；质问；[计] 询问 vi. 审问；质问",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "377a46fe7d73439e7174cc503d536638",
+    "item": "interrogation",
+    "trans": "n. 讯问；审问；[语] 疑问句",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9ee57b8384bb8b90a5eefc347f0d3fe7",
+    "item": "intertwine",
+    "trans": "vi. 纠缠；编结 vt. 缠绕；纠缠",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a4312f9d7022230e6b1a24fbc87de6d7",
+    "item": "intertwining",
+    "trans": "adj. 交织的\nv. 缠绕；使缠绕（intertwin的ing形式）",
+    "phonetic": "[intertwining]",
+    "tag": ""
+  },
+  {
+    "itemId": "92f710310ccaf46443a786b008f23d05",
+    "item": "intonation",
+    "trans": "n. 声调，语调；语音的抑扬",
+    "phonetic": "[,ɪntə'neʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "5dc37b3fb06983d22237c00d3ef936e5",
+    "item": "intricate",
+    "trans": "adj.复杂的；错综的，缠结的",
+    "phonetic": "['ɪntrɪkət]",
+    "tag": ""
+  },
+  {
+    "itemId": "0fd4c0121f79938318d3b83721e19592",
+    "item": "intrigue",
+    "trans": "n. 阴谋；诡计；复杂的事；私通 vt. 用诡计取得；激起...的兴趣 vi. 私通；密谋",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cf157a474468018757be9aa679383276",
+    "item": "invasion",
+    "trans": "n. 入侵，侵略；侵袭；侵犯",
+    "phonetic": "[ɪn'veʒn]",
+    "tag": ""
+  },
+  {
+    "itemId": "efca6d8661590a0635aceffcc5a48b90",
+    "item": "invitation",
+    "trans": "n. 邀请；引诱；请帖；邀请函",
+    "phonetic": "[ˌɪnvɪˈteɪʃn]",
+    "tag": ""
+  },
+  {
+    "itemId": "41de8a6e7f727a5675af7c6ed98dbc19",
+    "item": "iridescence",
+    "trans": "n.彩虹色",
+    "phonetic": "[,iri'desəns, 'aiəri-]",
+    "tag": ""
+  },
+  {
+    "itemId": "aed016bbdca9a376a0faece7498c835b",
+    "item": "iridescent",
+    "trans": "adj. 彩虹色的；闪光的",
+    "phonetic": "[,ɪrɪ'des(ə)nt]",
+    "tag": ""
+  },
+  {
+    "itemId": "d931fce7c565c252372414b44d27cb2d",
+    "item": "irrational",
+    "trans": "adj. 不合理的；无理性的；荒谬的 n. [数] 无理数",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0b8835548921ef7c8c70fddccd3a0c19",
+    "item": "irritate",
+    "trans": "vt. 刺激，使兴奋；激怒 vi. 引起恼怒，引起不愉快",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ff277771611107231583ffc7e1d1a528",
+    "item": "jeopardy",
+    "trans": "n. 危险；（被告处于被判罪或受处罚的）危险境地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4cec6602fd85a4f1a4dd552bbbb27504",
+    "item": "jeweler",
+    "trans": "n. 珠宝商；宝石匠；钟表匠；钟表商",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "920d6a6abbfb72afa32f61f82a4e8fd3",
+    "item": "jigsaw",
+    "trans": "n. 拼图玩具；线锯；镂花锯 vt. 用线锯锯",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "698c787e24186c37440c07efe1601cb4",
+    "item": "journalism",
+    "trans": "n. 新闻业，新闻工作；报章杂志",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b5ef9476a1cb9f3c33739a0b01058c1c",
+    "item": "judicial",
+    "trans": "adj. 公正的，明断的；法庭的；审判上的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "60842021da10465b9067a64c46402c69",
+    "item": "juggle",
+    "trans": "vi. 玩杂耍；欺骗；歪曲 vt. 歪曲；欺骗 n. 玩戏法；欺骗",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e2da0723a2a34ab0a3c3f384c6c260f6",
+    "item": "jurassic",
+    "trans": "adj. 侏罗系的；侏罗纪的\nn. 侏罗纪",
+    "phonetic": "[jurassic]",
+    "tag": ""
+  },
+  {
+    "itemId": "fb691a912e1234605588f1035d63565e",
+    "item": "kill time",
+    "trans": "消磨时间",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "844a1c0268acbbf4e7b100425169070b",
+    "item": "kilocalorie",
+    "trans": "n. [热] 千卡；[热] 大卡",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e2ef2bc8788bf12bc4fc6480b145f562",
+    "item": "kilojoule",
+    "trans": "n. 千焦耳（功的单位）",
+    "phonetic": "[kilojoule]",
+    "tag": ""
+  },
+  {
+    "itemId": "7dfd5bcc4475ce8968aca8e6dc3c8c50",
+    "item": "kinetic",
+    "trans": "adj. [力] 运动的；活跃的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d104900cb38dbb4f0b966819c3f8d747",
+    "item": "laboratory",
+    "trans": "n. 实验室，研究室",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1d215d714c7aa555ab829e87b76563e2",
+    "item": "lad",
+    "trans": "n. 少年，小伙子；家伙 \nn. (Lad)人名；(英、捷)拉德",
+    "phonetic": "[læd]",
+    "tag": ""
+  },
+  {
+    "itemId": "27f2ea7806047fc5379c5774ce11d40e",
+    "item": "largesse",
+    "trans": "n. 慷慨的赠与；慷慨赠与物（等于largess）",
+    "phonetic": "[lɑː'(d)ʒes]",
+    "tag": ""
+  },
+  {
+    "itemId": "de8f5955d658305ab1f97e026fe1249d",
+    "item": "lean",
+    "trans": "vi. 倾斜；倚靠；倾向；依赖 adj. 瘦的；贫乏的，歉收的 vt. 使倾斜 n. 瘦肉；倾斜；倾斜度 n. (Lean)人名；(西)莱安；(柬)连；(英)利恩",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "dec7188658bbc2dc8e2880976659d7f2",
+    "item": "lean back",
+    "trans": "向后倾斜",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "da62de62437473d5d1826f7b6fc2dee3",
+    "item": "legible",
+    "trans": "adj. 清晰的；易读的；易辨认的",
+    "phonetic": "['ledʒɪb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "f751be48b76ef797b0c41738d3536ed3",
+    "item": "legislation",
+    "trans": "n. 立法；法律",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "8a7057a0cd3a442c3ddb45f3cd3468cd",
+    "item": "legitimate",
+    "trans": "adj. 合法的；正当的；合理的；正统的 vt. 使合法；认为正当（等于legitimize）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bf466b89927a158262446eab96529519",
+    "item": "lenient",
+    "trans": "adj. 宽大的；仁慈的 n. (Lenient)人名；(法)勒尼安",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "f923461bb2aa0803a7026834c8e7ebb2",
+    "item": "lethargy",
+    "trans": "n. 昏睡；死气沉沉；嗜眠（症）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6f900482b44a73ebb72ca08ac30ab876",
+    "item": "levee",
+    "trans": "n. 堤坝（码头）；（旧时君主或显贵的）早晨接见\nvt. 为…筑堤\nn. (Levee)人名；(利比)莱维",
+    "phonetic": "['lɛvi]",
+    "tag": ""
+  },
+  {
+    "itemId": "f6d1d307d73de907de8cd06433347303",
+    "item": "levelheaded",
+    "trans": "adj. 稳健的，头脑冷静的；明智的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "604f8e2b2021adf39221f5dbbb0a7fab",
+    "item": "license",
+    "trans": "n.执照，许可证；特许\nvt.许可；特许；发许可证给",
+    "phonetic": "['laɪsns]",
+    "tag": ""
+  },
+  {
+    "itemId": "ed495e7c0987a4e4fb1bcf8392231e70",
+    "item": "likewise",
+    "trans": "adv. 同样地；也",
+    "phonetic": "['laɪkwaɪz]",
+    "tag": ""
+  },
+  {
+    "itemId": "8e060c4f31a03238ce97d04b5960cb6b",
+    "item": "limb",
+    "trans": "n. 肢，臂；分支；枝干 vt. 切断…的手足；从…上截下树枝 n. (Limb)人名；(朝)林；(英)利姆",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "184f3468700057dca806783d8c224fbe",
+    "item": "limbo",
+    "trans": "n.监狱；地狱的边境；放置丢弃物的场所；处于中间的或不定的状态\nn.(Limbo)人名；(纳米)林博",
+    "phonetic": "['lɪmbəʊ]",
+    "tag": ""
+  },
+  {
+    "itemId": "44afe85789930045a0d8bfb687f10ab7",
+    "item": "locust",
+    "trans": "n. [植保] 蝗虫，[昆] 蚱蜢",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b47e31720d3b80379bcfd92b3addd3f9",
+    "item": "long-haul",
+    "trans": "adj. 长途的；长运距的；长时间的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4dfbebbeafece0136d19cb506ecaa663",
+    "item": "longevity",
+    "trans": "n. 长寿，长命；寿命",
+    "phonetic": "[lɒn'dʒevɪtɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "4fd5bae0d3104f26eb86c6f87b66fb7c",
+    "item": "low right",
+    "trans": "右下",
+    "phonetic": "[low+right]",
+    "tag": ""
+  },
+  {
+    "itemId": "be4f511692a99d23b7e81bae60e41de3",
+    "item": "lower left",
+    "trans": "左下",
+    "phonetic": "[lower+left]",
+    "tag": ""
+  },
+  {
+    "itemId": "570afbe64d434c3adfc5488f7c78bbc1",
+    "item": "lucrative",
+    "trans": "adj.有利可图的，赚钱的；合算的",
+    "phonetic": "['luːkrətɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "9fd70d93fa03713c56fdb3f755046bae",
+    "item": "luge",
+    "trans": "n. 竞赛用的小型撬 \nvi. 坐小橇内滑雪 \nn. (Luge)人名；(德)卢格",
+    "phonetic": "[luːʒ; luːdʒ]",
+    "tag": ""
+  },
+  {
+    "itemId": "6359dd5ae0df586182a000d8f5e053bb",
+    "item": "lurch",
+    "trans": "v. 突然倾斜；（因震惊或惊恐等）心猛地一跳，胃猛地翻腾；蹒跚；突然改变（行为或态度）；见死不救；击败 n. 突然倾斜；失败，挫折；蹒跚 n. (Lurch) （美、德、加）卢尔希（人名）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3f0aaf6092a3d97cbd121fe0117dbe97",
+    "item": "luxembourg",
+    "trans": "n. 卢森堡（卢森堡公国首都）；卢森堡公国",
+    "phonetic": "[luxembourg]",
+    "tag": ""
+  },
+  {
+    "itemId": "5170817d73de24d7b734e6b8cdb24374",
+    "item": "magma",
+    "trans": "n. [地质] 岩浆；糊剂 n. (Magma)人名；(英)马格马",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "571708473f9043cb9c8ae3000ea16b6e",
+    "item": "maim",
+    "trans": "vt. 使残废 n. (Maim)人名；(意、罗)马伊姆",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "fa1280462454ca2aa57b4760413b9261",
+    "item": "managerial",
+    "trans": "adj. [管理] 管理的；经理的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "4f71499feceb6d269b53583dd9a3b7ad",
+    "item": "manpower",
+    "trans": "n. 人力；人力资源；劳动力",
+    "phonetic": "['mænpaʊɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "5d31bc55be82ddfc3f9112080459d433",
+    "item": "marijuana",
+    "trans": "n. 大麻；大麻毒品",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c2c071d575e5f3806dffa89180936671",
+    "item": "marital",
+    "trans": "adj. 婚姻的；夫妇间的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "8963b8d8032ac946d44b8c18534ae31c",
+    "item": "marrow",
+    "trans": "n. 髓，骨髓；精华；活力 \nn. (Marrow)人名；(英)马罗",
+    "phonetic": "[ˈmærəʊ]",
+    "tag": ""
+  },
+  {
+    "itemId": "32317d097c3ae705d7c424dd01b4376d",
+    "item": "masculinity",
+    "trans": "n. 男性；男子气；刚毅",
+    "phonetic": "[,mæskju'lɪnəti]",
+    "tag": ""
+  },
+  {
+    "itemId": "c1717faf1c519c9098e345154cb30f7a",
+    "item": "matriarch",
+    "trans": "n. 女家长；女统治者；女负责人；受人尊敬的妇女",
+    "phonetic": "[ˈmeɪtriɑːk]",
+    "tag": ""
+  },
+  {
+    "itemId": "94b0ceadcf21f0225a246eaf5eaa4bd8",
+    "item": "matriarchal",
+    "trans": "adj. 母系氏族的；女家长的",
+    "phonetic": "[ˌmeɪtriˈɑ:kl]",
+    "tag": ""
+  },
+  {
+    "itemId": "ec3bd1760caa1d70fe35190b48607a6d",
+    "item": "meager",
+    "trans": "adj. 贫乏的；瘦的 n. 兆",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ad74a6e912050442904d1d15457be2c2",
+    "item": "meander",
+    "trans": "n. 漫步；曲流（常用复数）\nvt. 漫步；蜿蜒缓慢流动\nvi. 漫步；漫谈",
+    "phonetic": "[mɪ'ændɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "5c5d013f5230a41af8673583c0c97c88",
+    "item": "measurable",
+    "trans": "adj.可测量的；重要的；重大的",
+    "phonetic": "['meʒ(ə)rəb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "6515f77306f994e9644284b4c8fe9195",
+    "item": "melodious",
+    "trans": "adj. 悦耳的；旋律优美的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d2b7d6ad969611d96f9a2f3d031fecee",
+    "item": "metabolism",
+    "trans": "n. [生理] 新陈代谢",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "7e0e1676d2edff1b9c02d96352f325b3",
+    "item": "meteorology",
+    "trans": "n. 气象状态，气象学",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "54ee3c21edf494b6708a2b2278c31f8d",
+    "item": "metropolitan",
+    "trans": "adj. 大都市的；大主教辖区的；宗主国的 n. 大城市人；大主教；宗主国的公民",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "2973864525b85f4cdf1925cb3503bf60",
+    "item": "midair",
+    "trans": "n. 半空中",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "52f275c6b3aff1fea632016d3909ac30",
+    "item": "midge",
+    "trans": "n. 蚊，蠓等小虫",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f58818fe526ec2f4ff2b2a8fa54ef990",
+    "item": "mignon",
+    "trans": "adj. 可爱的，小巧玲珑的\nn. (Mignon)人名；(法)米尼翁",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "8120e8765e2eecdf2bbdb07127c2727b",
+    "item": "milieu",
+    "trans": "n. 环境；周围；出身背景",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "845b0fed5c5371bc70c664874064a338",
+    "item": "millennium",
+    "trans": "n. 千年期，千禧年；一千年，千年纪念；太平盛世，黄金时代",
+    "phonetic": "[məˈlɛniəm]",
+    "tag": ""
+  },
+  {
+    "itemId": "ee6df44c971633aee93132ab573ad192",
+    "item": "millimeter",
+    "trans": "n. [计量] 毫米",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "54f8899cf4ab4d51c2ea950bca35e23a",
+    "item": "mime",
+    "trans": "n. 哑剧；小丑；滑稽戏 vi. 摸拟表演 vt. 摸拟表演 n. (Mime)人名；(塞)米梅",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3a391235fc61cb8f5d20ae209fadae53",
+    "item": "miniature",
+    "trans": "adj.微型的，小规模的\nn.缩图；微型画；微型图画绘画术\nvt.是…的缩影",
+    "phonetic": "['mɪnɪtʃə]",
+    "tag": ""
+  },
+  {
+    "itemId": "561326d5a0bf415ba9bbf5a663d8483d",
+    "item": "minion",
+    "trans": "n. 宠儿；宠臣；部下；奴才；受人崇拜者 adj. [古语、罕用语]精致的；优雅的；娇美的；漂亮的 n. 小黄人（卡通角色）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4471810e5f9f0cc6565d4e3b6695f8b3",
+    "item": "mishap",
+    "trans": "n. 灾祸；不幸事故；晦气",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "0667b9530eee81a912cb6718e23ca42d",
+    "item": "mitigate",
+    "trans": "vt. 使缓和，使减轻 \nvi. 减轻，缓和下来",
+    "phonetic": "['mɪtɪgeɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "930eb4184ceb0cda854ef23ef04da4ce",
+    "item": "mitigation",
+    "trans": "n. 减轻；缓和；平静",
+    "phonetic": "[,mɪtɪ'ɡeʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "1d8c3e1ed6669f8772cadc085df1f8f4",
+    "item": "monarch",
+    "trans": "n. 君主，帝王；最高统治者",
+    "phonetic": "['mɑnɚk]",
+    "tag": ""
+  },
+  {
+    "itemId": "722d09c760fb18eb42949e263700c089",
+    "item": "monetary",
+    "trans": "adj. 货币的；财政的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "40492804fd1e6b8a04ca00784ef175d9",
+    "item": "monolithic",
+    "trans": "adj. 整体的；巨石的，庞大的；完全统一的 n. 单块集成电路，单片电路",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "dc8d617dcba9cf391cb68fa04296f403",
+    "item": "moot",
+    "trans": "adj. 无实际意义的；未决议的 \nvt. 提出…供讨论 \nn. 大会；辩论会；假设案件 \nn. (Moot)人名；(英)穆特",
+    "phonetic": "[muːt]",
+    "tag": ""
+  },
+  {
+    "itemId": "13b027027b090b3dd9695ff2ada44f7c",
+    "item": "moron",
+    "trans": "n. 傻瓜；痴愚者；笨人 \nn. (Moron)人名；(英)莫伦；(法、意、葡、匈)莫龙",
+    "phonetic": "['mɔːrɒn]",
+    "tag": ""
+  },
+  {
+    "itemId": "aa0dd75dc8508ad27e30505da5c9d2bf",
+    "item": "mosaic",
+    "trans": "adj. 摩西的；拼成的；嵌花式的 n. 马赛克；镶嵌；镶嵌细工",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "470c1e340c605f6bb4b57a1f5f6568de",
+    "item": "moth",
+    "trans": "n.蛾；蛀虫",
+    "phonetic": "[mɒθ]",
+    "tag": ""
+  },
+  {
+    "itemId": "59cc9f3bb6cadba2ecbfca871ab1036c",
+    "item": "mourning",
+    "trans": "n. 哀痛；服丧 \nv. 哀伤；为…哀悼（mourn的ing形式）",
+    "phonetic": "['mɔːnɪŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "24048bccf5e9e37e3bac05617d58bfac",
+    "item": "mule",
+    "trans": "n. 骡；倔强之人，顽固的人；杂交种动物 n. (Mule)人名；(意)穆莱；(英)米尔",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c74bb06520163b0ba622654eaa00b605",
+    "item": "multilingualism",
+    "trans": "n. 多语制；多语言",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ffd8eb9aeb0239dd9185d881671d50d7",
+    "item": "mumble",
+    "trans": "vt. 含糊地说；抿着嘴嚼 \nvi. 含糊地说话 \nn. 含糊的话；咕噜",
+    "phonetic": "[ˈmʌmbl]",
+    "tag": ""
+  },
+  {
+    "itemId": "1f65b905781ca5666745d61f351d1433",
+    "item": "munch",
+    "trans": "vt.用力咀嚼；大声咀嚼\nvi.用力咀嚼；大声咀嚼\nn.用力的咀嚼\nn.(Munch)人名；(挪、丹、瑞典)蒙克；(西)蒙奇；(法)曼什；(英)芒奇",
+    "phonetic": "[mʌn(t)ʃ]",
+    "tag": ""
+  },
+  {
+    "itemId": "0e38635113188af0c0fa1d2b355262d4",
+    "item": "municipalities",
+    "trans": "n.市民，自治市；市政公债（municipality复数形式）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "2862918970cfe9be907a239ba1509441",
+    "item": "mural",
+    "trans": "adj. 墙壁的 n. 壁画；（美）壁饰",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "40398671e0410b97bea7f11de3b72516",
+    "item": "musk",
+    "trans": "n. 麝香；麝香鹿；麝香香味",
+    "phonetic": "[mʌsk]",
+    "tag": ""
+  },
+  {
+    "itemId": "15bdaaf6beabdd00c92aed7e5c9920b8",
+    "item": "mutter",
+    "trans": "vi. 咕哝；喃喃自语 vt. 咕哝；抱怨地说；低声含糊地说 n. 咕哝；喃喃低语 n. (Mutter)人名；(法)米泰；(德、匈、西)穆特；(英)马特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "5630f97330d5f7c8f12145eee204fd2c",
+    "item": "mutual",
+    "trans": "adj. 共同的；相互的，彼此的",
+    "phonetic": "['mjutʃuəl]",
+    "tag": ""
+  },
+  {
+    "itemId": "69e1147ca0507eff373e43acbc20c323",
+    "item": "mutual agreement",
+    "trans": "双方协定",
+    "phonetic": "[mutual+agreement]",
+    "tag": ""
+  },
+  {
+    "itemId": "6000403e7f7c6d5143fece21cb7b1c76",
+    "item": "mysterious",
+    "trans": "adj. 神秘的；不可思议的；难解的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1140fb7d20a0026a5f5ae264df1f4805",
+    "item": "mythological",
+    "trans": "adj. 神话的；神话学的；虚构的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4dd34e71d375d57e783b16f67394ae05",
+    "item": "narrative",
+    "trans": "n. 叙述；故事；讲述 adj. 叙事的，叙述的；叙事体的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6902ee8074a1e44e8a78584b7dd985a6",
+    "item": "navicular",
+    "trans": "adj.  舟状的，船状的 \nn. 舟骨",
+    "phonetic": "[nə'vɪkjʊlə]",
+    "tag": ""
+  },
+  {
+    "itemId": "b0e31cd1c4133321ec817d4750c5e199",
+    "item": "necessity",
+    "trans": "n. 需要；必然性；必需品",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "14f151518ec8597a752ae9ed4263c3e6",
+    "item": "nectar",
+    "trans": "n. [植] 花蜜；甘露；神酒；任何美味的饮料 n. (Nectar)人名；(罗)内克塔尔",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d4f93d03ba304db44881ef3b75d4f824",
+    "item": "nestle",
+    "trans": "vi. 舒适地坐定；偎依；半隐半现地处于\nvt. 抱；安置",
+    "phonetic": "['nɛsl]",
+    "tag": ""
+  },
+  {
+    "itemId": "02a85d2d710c6b0802e85d20abe86e10",
+    "item": "neuron",
+    "trans": "n. [解剖] 神经元，神经单位",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6696c5a457eadbff3e3cb3530bad921e",
+    "item": "nevertheless",
+    "trans": "adv. 然而，不过；虽然如此 conj. 然而，不过",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "0a0c2cb2de7a0ab0b9ffa191e4025ab4",
+    "item": "newlywed",
+    "trans": "adj. 新婚的 n. 新婚夫妇",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a2b8598e1d6fc951427dcf2b529c2cb1",
+    "item": "nexus",
+    "trans": "n.关系；连结，连系",
+    "phonetic": "['neksəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "b31005762e8c3905e98f65aa2f91d94d",
+    "item": "nitrogen",
+    "trans": "n. [化学] 氮",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a1dd2c98ec164ee8d9109fe999f985ff",
+    "item": "nutrients",
+    "trans": "营养盐 [食品] 营养素",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "8016d5a6ee798e32d50d2ac500dbf4f0",
+    "item": "nutrition",
+    "trans": "n. 营养，营养学；营养品",
+    "phonetic": "[nu'trɪʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "609a6ae9826e3cef87ee0a241b4b5ab5",
+    "item": "oases",
+    "trans": "n. 绿洲（oasis的复数形式）",
+    "phonetic": "[əu'eisis, 'əuəsi:z]",
+    "tag": ""
+  },
+  {
+    "itemId": "2cbd3593544ec1ed3a5d9c07e942b785",
+    "item": "obfuscation",
+    "trans": "n. 困惑；模糊；昏迷",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9babc30a8eab6a85af33faef2f66d5fb",
+    "item": "object",
+    "trans": "n. 目标；物体；客体；宾语\nvt. 提出…作为反对的理由\nvi. 反对；拒绝",
+    "phonetic": "['ɑbdʒɛkt]",
+    "tag": ""
+  },
+  {
+    "itemId": "146e7775f96b81a02b56bd8f1ccaeec7",
+    "item": "objective",
+    "trans": "adj. 客观的；目标的；宾格的 \nn. 目的；目标； 物镜；宾格",
+    "phonetic": "[əb'dʒektɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "fdc70f89ccfd42d05fe60c53ea9db818",
+    "item": "oblivious",
+    "trans": "adj. 遗忘的；健忘的；不注意的；不知道的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4a517d8400d1081bf6a3021c7e769a33",
+    "item": "ocean floor",
+    "trans": "洋底，大洋底；[海洋] 海底",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a47c62509dceb9625b6c50b96a515f6b",
+    "item": "oenologist",
+    "trans": "n. 酿酒学家；酒类学家",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5f5003518e0c4bec47b25cec4e2dab3d",
+    "item": "offhand",
+    "trans": "adj. 随便的；即时的；无准备的；即席的 \nadv. 随便地；即席地；即时地",
+    "phonetic": "['ɔfhænd; 'ɔ:-]",
+    "tag": ""
+  },
+  {
+    "itemId": "e1e2b98ad67a002ad05d5a9b346c235a",
+    "item": "offspring",
+    "trans": "n. 后代，子孙；产物",
+    "phonetic": "['ɔfsprɪŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "47180c21a9c583c89c4cae85fad48270",
+    "item": "ointment",
+    "trans": "n. 药膏；[药] 油膏",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c3b75ba8cb4ad18197833749422348e2",
+    "item": "omniscience",
+    "trans": "n. 全知；上帝；全知者；无限的知识",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0899db1a420e14e29612b69dd2ca5a90",
+    "item": "onset",
+    "trans": "n. 开始，着手；发作；攻击，进攻",
+    "phonetic": "['ɒnset]",
+    "tag": ""
+  },
+  {
+    "itemId": "8c12bdc9c5e6587a4d48e14311829d81",
+    "item": "ophthalmologist",
+    "trans": "n.眼科医师",
+    "phonetic": "[,ɒfθæl'mɒlədʒɪst]",
+    "tag": ""
+  },
+  {
+    "itemId": "ba25105de6ca83ea264638236fab0ddd",
+    "item": "ophthalmology",
+    "trans": "n. [眼科] 眼科学",
+    "phonetic": "[,ɑfθæl'mɑlədʒi]",
+    "tag": ""
+  },
+  {
+    "itemId": "bd5e1c37fe0cc129d59beb81b5987369",
+    "item": "opt",
+    "trans": "vi. 选择",
+    "phonetic": "[ɑpt]",
+    "tag": ""
+  },
+  {
+    "itemId": "f2ca067db5c74062d442949333bf511e",
+    "item": "opus",
+    "trans": "n. 作品",
+    "phonetic": "[ˈəʊpəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "f7c74da8860bdc28d292f74772c04dbc",
+    "item": "ordeal",
+    "trans": "n. 折磨；严酷的考验；痛苦的经验",
+    "phonetic": "[ɔːˈdiːl; ˈɔːdiːl]",
+    "tag": ""
+  },
+  {
+    "itemId": "0944bfe82df2d3c16b841efe2c40098d",
+    "item": "ore",
+    "trans": "n. 矿；矿石 n. (Ore)人名；(意、瑞典)奥雷；(英)奥尔",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "71c948ecb42a95a4e4a67a6786fff650",
+    "item": "origin",
+    "trans": "n. 起源；原点；出身；开端",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "adc85e70ed8966978dcb0df9ab7f353b",
+    "item": "originate",
+    "trans": "vt. 引起；创作 vi. 发源；发生；起航",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "893825aab89e84e9b844d7c46f05cf25",
+    "item": "ornithologist",
+    "trans": "n. 鸟类学者",
+    "phonetic": "[ornithologist]",
+    "tag": ""
+  },
+  {
+    "itemId": "1a369dc9a962436c0c951f6841b97d10",
+    "item": "outpace",
+    "trans": "vt. 赶过；超过…速度",
+    "phonetic": "[,aʊt'pes]",
+    "tag": ""
+  },
+  {
+    "itemId": "7b2a70b767227f28f5da2b471050e0c4",
+    "item": "oval",
+    "trans": "adj. 椭圆的；卵形的\nn. 椭圆形；卵形\nn. (Oval)人名；(法)奥瓦尔",
+    "phonetic": "['ovl]",
+    "tag": ""
+  },
+  {
+    "itemId": "c9d53fa7f77804b6d7633b601043d583",
+    "item": "pacific",
+    "trans": "adj. 和平的；温和的；平静的\nn. 太平洋\nadj. 太平洋的",
+    "phonetic": "[pə'sɪfɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "5523da054513df1d14ce73f4eab30925",
+    "item": "palate",
+    "trans": "n. 味觉；上颚；趣味",
+    "phonetic": "['pælət]",
+    "tag": ""
+  },
+  {
+    "itemId": "9ae97a532326851b9dee34b9acb3d3b4",
+    "item": "pale",
+    "trans": "adj. 苍白的；无力的；暗淡的 n. 前哨；栅栏；范围 vt. 使失色；使变苍白；用栅栏围 vi. 失色；变苍白；变得暗淡 n. (Pale)人名；(塞)帕莱",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6b0b754454e9a350a4a0095756c7889f",
+    "item": "parachuting",
+    "trans": "n. [航] 跳伞；空降\nv. [航] 跳伞（parachute的ing形式）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "9ac3e7123cfa193dcd25dd0b49af3fea",
+    "item": "paradigm",
+    "trans": "n. 范例；词形变化表",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9624f649d99aad457b1e3c744a2a5c64",
+    "item": "paradox",
+    "trans": "n. 悖论，反论；似非而是的论点；自相矛盾的人或事",
+    "phonetic": "['pærədɒks]",
+    "tag": ""
+  },
+  {
+    "itemId": "dc0e5b201fa76b5cb3f07d68eb2847fa",
+    "item": "paranoid",
+    "trans": "adj. 类似妄想狂的；属于偏执狂的 \nn. 患妄想狂的人；偏执狂患者",
+    "phonetic": "['pærənɒɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "90f4c928fa06ecb8a173e48c283938ad",
+    "item": "parasitic",
+    "trans": "adj. 寄生的（等于parasitical）",
+    "phonetic": "[pærə'sɪtɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "5b3cf11608370ad7a568925bb0a2d675",
+    "item": "parch",
+    "trans": "vt. 烤，烘；使干透 vi. 焦干；烤干",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bb9d493db7e23df303e6421fa37d410a",
+    "item": "parching",
+    "trans": "adj. 焦干似的；烘烤似的 \nv. 变干枯（parch的ing形式）",
+    "phonetic": "['pa:tʃiŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "67fe4c67656adb217d6e9baf1e0fc45e",
+    "item": "pathogen",
+    "trans": "n.病原体；病菌",
+    "phonetic": "['pæθədʒ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "cedb9b0e6669e9f3a35c3d053db10e89",
+    "item": "patrol",
+    "trans": "n. 巡逻；巡逻队；侦察队 vt. 巡逻；巡查 vi. 巡逻；巡查",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "cd1bc699578f4276aa99941c4308e6ec",
+    "item": "pave",
+    "trans": "vt. 铺设；安排；作铺设之用 \nn. (Pave)人名；(西、塞)帕韦",
+    "phonetic": "[peɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "13610cfe2c037d8e0ef6b9c2e5f7bf49",
+    "item": "pavement",
+    "trans": "n. 人行道 路面",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d85f8041663e6386bba0c1972f8462d6",
+    "item": "peasant",
+    "trans": "n. 农民；乡下人",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "92ec6166479b95a22c0897454cc0458b",
+    "item": "peculiar",
+    "trans": "adj. 特殊的；独特的；奇怪的；罕见的 \nn. 特权；特有财产",
+    "phonetic": "[pɪ'kjuːlɪə]",
+    "tag": ""
+  },
+  {
+    "itemId": "fd6821a69fb471e9324bd18b20cf3b24",
+    "item": "peek",
+    "trans": "n. 偷看；一瞥，看一眼 vi. 窥视，偷看 n. (Peek)人名；(英)皮克",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "4dce314ee1ee11526301b3c00d59f0ce",
+    "item": "peg",
+    "trans": "n. 钉子；帐篷短桩；晾衣夹子；琴栓；（桶）孔塞；赛位（分配给参赛者钓鱼或射击的位置）；（非正式）人的腿；（尤指汇率的）限度；（非正式）摩托车的脚蹬；（烈酒的）计量；少量威士忌；（非正式，尤指棒球中）尽力的一掷 v. 用夹子夹住；使工资、价格等与……挂钩；视为；（在克里比奇牌戏中）用得分枚计分；（在钓鱼或射击比赛中）给参赛者分配赛位；限定（价格等）；（非正式）归类；（非正式，尤指棒球中）用力低低地扔（球）；疾行；孜孜不倦地做某事 adj. 越往下端越细的 n. (Peg) （美）佩格（人名）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "548b396718239125d03dde3f907797c6",
+    "item": "penchant",
+    "trans": "n. 嗜好；倾向",
+    "phonetic": "[ˈpɒŋʃɒŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "489d8a96adb600ed846e1aea2584c3f4",
+    "item": "pendulum",
+    "trans": "n. 钟摆；摇锤；摇摆不定的事态",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b4af398d2b98f6c9c58979ee93594462",
+    "item": "pentagon",
+    "trans": "n. 五角形",
+    "phonetic": "['pɛntəɡɑn]",
+    "tag": ""
+  },
+  {
+    "itemId": "2e9151f0c6a10168aa2dbf979c0183c6",
+    "item": "penthouse",
+    "trans": "n. 阁楼；顶层公寓，屋顶房间",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "27aabef45df980b47940fe7e2f6fa253",
+    "item": "perceptual",
+    "trans": "adj. 知觉的；感知的；有知觉的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b0b1f6bc3d4d84c10d288eb709680e59",
+    "item": "perfect square",
+    "trans": "[数] 完全平方",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3dab7a1227866271d222f2034f977a44",
+    "item": "perimeter",
+    "trans": "n. 周长；周界；[眼科] 视野计",
+    "phonetic": "[pə'rɪmɪtɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "104c99814d92bf826ecd878b018a7c60",
+    "item": "period",
+    "trans": "n. 周期，期间；时期；月经；课时；（语法学）句点，句号\nadj. 某一时代的",
+    "phonetic": "['pɪrɪəd]",
+    "tag": ""
+  },
+  {
+    "itemId": "0bc2cc39a4fcc5c0b72ce8f491106859",
+    "item": "perpendicular",
+    "trans": "adj. 垂直的，正交的；直立的；陡峭的\nn. 垂线；垂直的位置",
+    "phonetic": "['pɝpən'dɪkjəlɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "fd0c7f6c35954dfe78aa4c34c32df0a2",
+    "item": "perpetrate",
+    "trans": "vt. 犯（罪）；做（恶）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e9a97dd59a90c6c25584e55faa2eb368",
+    "item": "perpetual",
+    "trans": "adj. 永久的；不断的；四季开花的；无期限的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9b13a15051fdc7efdc27ca9d0b14d890",
+    "item": "personnel",
+    "trans": "n. 人事部门；全体人员 adj. 人员的；有关人事的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "f8d41cab752dd183dc106a6e8e7398f5",
+    "item": "perspiration",
+    "trans": "n. 汗水；流汗；努力",
+    "phonetic": "[pɜːspɪ'reɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "759aa6b39096679b86199b437400b110",
+    "item": "pertain",
+    "trans": "vi. 属于；关于；适合",
+    "phonetic": "[pə'teɪn]",
+    "tag": ""
+  },
+  {
+    "itemId": "7c490a42a34252ff6810ee66a325b44a",
+    "item": "pester",
+    "trans": "vt. 纠缠，烦扰；使烦恼 \nn. (Pester)人名；(德)佩斯特",
+    "phonetic": "['pestə]",
+    "tag": ""
+  },
+  {
+    "itemId": "fd04c659dfc5120dbd8da63cc48efdae",
+    "item": "peter out",
+    "trans": "v. 逐渐消失；逐渐减少",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1044ce164cb4c7af44199f21ea8008df",
+    "item": "pharmaceutical",
+    "trans": "adj. 制药（学）的 n. 药物",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5f42e2b532ed6e4a0a6575c6b529b84e",
+    "item": "pharmacist",
+    "trans": "n. 药剂师",
+    "phonetic": "['fɑrməsɪst]",
+    "tag": ""
+  },
+  {
+    "itemId": "47b89c5feb976585ecf8f30bbfb50848",
+    "item": "philanthropist",
+    "trans": "n. 慈善家，博爱主义者；乐善好施的人",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "dfe8ee6321fc483d7ce0633b47caa79b",
+    "item": "philosophical",
+    "trans": "adj. 哲学的（等于philosophic）；冷静的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "52f88f0e399b071aa31ba7c24bfa7cd0",
+    "item": "pile",
+    "trans": "n.堆；大量；建筑群\nvt.累积；打桩于\nvi.挤；堆积；积累\nn.(Pile)人名；(西)皮莱；(英)派尔",
+    "phonetic": "[paɪl]",
+    "tag": ""
+  },
+  {
+    "itemId": "2f679ca24f940a6b07fe397d8cd6a8d1",
+    "item": "pillage",
+    "trans": "v. （尤指在战争中）掠夺，抢劫 n. （尤指在战争中）掠夺，抢劫；掠夺物",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "518156e2b86977e51d42e6dc03485eb1",
+    "item": "pirate",
+    "trans": "n.海盗；盗版；侵犯专利权者\nvt.掠夺；翻印；剽窃\nvi.做海盗；从事劫掠",
+    "phonetic": "[ˈpaɪərət]",
+    "tag": ""
+  },
+  {
+    "itemId": "358a079b9794bd6ce7f29f13f4204ab3",
+    "item": "plagued",
+    "trans": "v. 困扰（plague的过去分词）；折磨",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d25573c5efaa9a044017158ca978635a",
+    "item": "plainness",
+    "trans": "n. 明白；平坦；正直；平坦度",
+    "phonetic": "['pleinnis]",
+    "tag": ""
+  },
+  {
+    "itemId": "5f8ac4c3883adb1bc207ce76971cc0f0",
+    "item": "plateau",
+    "trans": "n. 高原；稳定水平；托盘；平顶女帽 vi. 达到平衡；达到稳定时期",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "164dc8d58a27d917ba71dc4499019efd",
+    "item": "plight",
+    "trans": "n. 困境；境况；誓约\nvt. 保证；约定",
+    "phonetic": "[plaɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "19ff93ea624415801c452a62b333eabf",
+    "item": "plop",
+    "trans": "n. 扑通声；掉下的声音 \nvt. 把…沉重地放下 \nvi. 扑通落下 \nadv. 扑通一声地；突然地；出其不意 \nn. (Plop)人名；(罗)普洛普",
+    "phonetic": "[plɒp]",
+    "tag": ""
+  },
+  {
+    "itemId": "afffdc50ae0ff306f8a2f7395e9e48bf",
+    "item": "pluto",
+    "trans": "n. 冥王；冥王星",
+    "phonetic": "[pluto]",
+    "tag": ""
+  },
+  {
+    "itemId": "df3c48f6bb98a02c7825c0a99e9f2ac9",
+    "item": "podium",
+    "trans": "n.乐队指挥台；矮墙；墩座墙",
+    "phonetic": "['pəʊdɪəm]",
+    "tag": ""
+  },
+  {
+    "itemId": "2cfd8345a86d195f1a2195603070b5b5",
+    "item": "politician",
+    "trans": "n. 政治家，政客",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ae410391caebefcc243f6eeb9b5e5d59",
+    "item": "polymorphic",
+    "trans": "adj. [生物] 多态的；[生物] 多形的；多形态的；[化学] 多晶形的（等于 polymorphous）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6398305a40776d946f78c4c2de65b406",
+    "item": "pore",
+    "trans": "vi. 细想；凝视；熟读 \nn. 气孔；小孔 \nvt. 使注视 \nn. (Pore)人名；(西、芬、加纳、法)波雷",
+    "phonetic": "[pɔː]",
+    "tag": ""
+  },
+  {
+    "itemId": "03970e5e448b61031ecf30ad6a20c0a4",
+    "item": "portentously",
+    "trans": "adv. 不祥地；有预兆地；盛气凌人地，自负地",
+    "phonetic": "[pɔ:'tentəsli]",
+    "tag": ""
+  },
+  {
+    "itemId": "369798be693aaef64770dbb923fb09d0",
+    "item": "portfolio",
+    "trans": "n. 公文包；文件夹；证券投资组合；部长职务",
+    "phonetic": "[pɔrt'folɪo]",
+    "tag": ""
+  },
+  {
+    "itemId": "9c48fab662d20b524b331db86cdecaea",
+    "item": "portraiture",
+    "trans": "n. 肖像画；肖像绘制；人像摄影",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "79299f75bc5d7fb9cb7b41f9a116f6a6",
+    "item": "portray",
+    "trans": "vt. 描绘；扮演",
+    "phonetic": "[pɔr'tre]",
+    "tag": ""
+  },
+  {
+    "itemId": "684f8a300a54fcb0e45a1d8a1093c667",
+    "item": "potent",
+    "trans": "adj. 有效的；强有力的，有权势的；有说服力的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "52d1ad61298a63630ca65fc917b78680",
+    "item": "poultry",
+    "trans": "n. 家禽\n家禽肉",
+    "phonetic": "['poltri]",
+    "tag": ""
+  },
+  {
+    "itemId": "bae47471ad84c69e7e6fa94b041b1d21",
+    "item": "pounce",
+    "trans": "vi. 突袭，猛扑\nvt. 扑过去抓住\nn. 猛扑，爪",
+    "phonetic": "[paʊns]",
+    "tag": ""
+  },
+  {
+    "itemId": "1f6e7fad1faa19a8f4167fa7acd15769",
+    "item": "practitioner",
+    "trans": "n. 开业者，从业者，执业医生",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e5e9edd4e46a7c59d497d9bd14b53026",
+    "item": "pragmatic",
+    "trans": "adj. 实际的；实用主义的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "228ea60f47b4f3eaaa341ff033cc91bf",
+    "item": "precipitation",
+    "trans": "n. [化学] 沉淀，[化学] 沉淀物；降水；冰雹；坠落；鲁莽",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "abca38a571330e190cf8d98334f1a7d4",
+    "item": "predate",
+    "trans": "vt. 在日期上早于（先于）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ced0e275e55c6fa7c650566b41c6ca50",
+    "item": "predecessor",
+    "trans": "n. 前任，前辈",
+    "phonetic": "['prɛdəsɛsɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "893ddaa513698138e3c2a4038fa59166",
+    "item": "predicament",
+    "trans": "n. 窘况，困境；状态",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9763233c9429e7bc254a97a33ac9699f",
+    "item": "predictor",
+    "trans": "n.[气象] 预报器；预言者",
+    "phonetic": "[pri'diktə]",
+    "tag": ""
+  },
+  {
+    "itemId": "15788c12f0332c8db8a1277cfef04b60",
+    "item": "predilection",
+    "trans": "n.偏爱，嗜好",
+    "phonetic": "[,prɛdl'ɛkʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "28e93177635d519a935a08fb1d295a6b",
+    "item": "predominant",
+    "trans": "adj. 主要的；卓越的；支配的；有力的；有影响的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "982562fe1eb0fc22c20553fceb0be6a8",
+    "item": "preliminary",
+    "trans": "n. 准备；预赛；初步措施 adj. 初步的；开始的；预备的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "39a5558478df232d688ed05fb17782d3",
+    "item": "preliminary bibliography",
+    "trans": "",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1b32ae8a73387b26fb7d94c7f9495fb9",
+    "item": "premise",
+    "trans": "vt. 引出，预先提出；作为…的前提 n. 前提；上述各项；房屋连地基 vi. 作出前提",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "5df9325cfc6174cd1eb063c2a39d0d67",
+    "item": "prescribe",
+    "trans": "vi. 规定；开药方 vt. 规定；开处方",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "dc1f0d47ed0048de1aff7a9dfbf5ca82",
+    "item": "prescriptive",
+    "trans": "adj. 规定的，规范的；指定的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "7584b67a49517cda8950e16454c54dd0",
+    "item": "preserver",
+    "trans": "n. 保护者，保护人；保护剂，防腐剂；储藏柜",
+    "phonetic": "[preserver]",
+    "tag": ""
+  },
+  {
+    "itemId": "9b96567eded0a141afd094954544c6e0",
+    "item": "prestigious",
+    "trans": "adj. 有名望的；享有声望的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "290899832bb2443a8890c072aaf5ed11",
+    "item": "presume",
+    "trans": "vt. 假定；推测；擅自；意味着 \nvi. 相信；擅自行为",
+    "phonetic": "[prɪ'zjuːm]",
+    "tag": ""
+  },
+  {
+    "itemId": "cfb85c1cad35d8a0696972f2375e84d0",
+    "item": "prevail",
+    "trans": "vi.盛行，流行；战胜，获胜",
+    "phonetic": "[prɪ'veɪl]",
+    "tag": ""
+  },
+  {
+    "itemId": "a168fdc3888e8687171f76d63da122ee",
+    "item": "prevailing",
+    "trans": "adj. 流行的；一般的，最普通的；占优势的；盛行很广的 v. 盛行，流行（prevail的现在分词形式）；获胜",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "85883cb4d8f6ae0e9b638dd4137252b9",
+    "item": "prevalent",
+    "trans": "adj. 流行的；普遍的，广传的",
+    "phonetic": "[ˈprevələnt]",
+    "tag": ""
+  },
+  {
+    "itemId": "8bdff95a4927ef22e623758deceb469f",
+    "item": "priest",
+    "trans": "n. 牧师；神父；教士 vt. 使成为神职人员；任命…为祭司 n. (Priest)人名；(英、德)普里斯特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6f24df601bf6d7519be05485850d30f1",
+    "item": "prime time",
+    "trans": "黄金时间",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "9922f94220471771af199d904dff5177",
+    "item": "proaction",
+    "trans": "先发制人 \n前瞻",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5299f5b35cade1cb5f9f2338b72b7de4",
+    "item": "proactive",
+    "trans": "adj.前摄的（前一活动中的因素对后一活动造成影响的）；有前瞻性的，先行一步的；积极主动的",
+    "phonetic": "[prəʊ'æktɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "432d7a0687d2722c5ee291160a6c256b",
+    "item": "procure",
+    "trans": "vt. 获得，取得；导致 vi. 取得",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a76e13552790053628abd7f5ddc017e0",
+    "item": "progression",
+    "trans": "n. 前进；连续",
+    "phonetic": "[prə'greʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "5c85b67b328e16f74b2a3b9f8fb98326",
+    "item": "proliferation",
+    "trans": "n. 增殖，扩散；分芽繁殖",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "fe5915b781fc59747d2c7a7ee6c3cd48",
+    "item": "prolific",
+    "trans": "adj. 多产的；丰富的",
+    "phonetic": "[prə'lɪfɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "68458e7b959c54fdce5392b242d273b2",
+    "item": "promptly",
+    "trans": "adv. 迅速地；立即地；敏捷地",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "f98875d3282e22f9bc18e73b6feaaa8f",
+    "item": "propagating",
+    "trans": "adj. 传播的；繁殖的 v. 传播（propagate的ing形式）；繁殖",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bf6f9b6d7611eb1f6412f081f7b170cc",
+    "item": "propagation",
+    "trans": "n. 传播；繁殖；增殖",
+    "phonetic": "[,prɑpə'geʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "b91842dfd5b713cbbdea98a31fdff3c4",
+    "item": "propel",
+    "trans": "vt. 推进；驱使；激励；驱策",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "dd5b62a33092cf9aa7b595ca5e313c0b",
+    "item": "proponents",
+    "trans": "n. 支持者；建议者（proponent的复数） \nProponents: 建议者  支持者  倡议者",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "23c24b53210597417107cc87247383fb",
+    "item": "proposition",
+    "trans": "n.[数] 命题；提议；主题；议题\nvt.向…提议；向…求欢",
+    "phonetic": "[prɒpə'zɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "37baf729e8c7b3446891ef21b67555d4",
+    "item": "propulsion",
+    "trans": "n. 推进；推进力",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cba7138fb9d3e07db8842afc68576db1",
+    "item": "prospective",
+    "trans": "adj. 未来的；预期的 n. 预期；展望",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "84b87d5867e3ac64a3b4ed1a7710d699",
+    "item": "prosperous",
+    "trans": "adj. 繁荣的；兴旺的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "464abf715335bfd9c18468c422b1e156",
+    "item": "provincial",
+    "trans": "adj. 省的；地方性的；偏狭的\nn. 粗野的人；乡下人；外地人",
+    "phonetic": "[prə'vɪnʃl]",
+    "tag": ""
+  },
+  {
+    "itemId": "fa89aa1359a4c837383f27143c68bce7",
+    "item": "provision",
+    "trans": "n. 规定；条款；准备； 供应品 \nvt. 供给…食物及必需品",
+    "phonetic": "[prə'vɪʒ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "017299a69884075e8217724fa7909cbc",
+    "item": "proximity",
+    "trans": "n. 接近，[数]邻近；接近；接近度，距离；亲近",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "083fde0b75d65f33d7c3ab495d716386",
+    "item": "pseudo",
+    "trans": "n. 伪君子；假冒的人 adj. 冒充的，假的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ebff2877c7103d439b543a026c1f49f8",
+    "item": "psychiatry",
+    "trans": "n. 精神病学；精神病治疗法",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "61cabc2f53ac6e66fccdcf20acca531c",
+    "item": "psychological",
+    "trans": "adj. 心理的；心理学的；精神上的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a4abee3a4cc2eaefb0984180d2615cf6",
+    "item": "psychology",
+    "trans": "n. 心理学；心理状态",
+    "phonetic": "[saɪ'kɑlədʒi]",
+    "tag": ""
+  },
+  {
+    "itemId": "c73b5475a987d4a2772ec214f6819b0c",
+    "item": "pterosaur",
+    "trans": "n.翼龙",
+    "phonetic": "['terəsɔː]",
+    "tag": ""
+  },
+  {
+    "itemId": "d8ee7c7d7dee986dedaf9be7670a1a8d",
+    "item": "pun",
+    "trans": "vi. 说双关语；说俏皮话 \nn. 双关语；俏皮话 \nvt. 捣实敲打 \nn. (Pun)人名；(柬)本；(泰)汶",
+    "phonetic": "[pʌn]",
+    "tag": ""
+  },
+  {
+    "itemId": "ce2ce0d78c0329b46d740da414f607b9",
+    "item": "purveyor",
+    "trans": "n. 承办商；伙食承办商；供应粮食者；供应货物或提供服务的人或公司",
+    "phonetic": "[pə'veɪə(r); pɜː'veɪə(r)]",
+    "tag": ""
+  },
+  {
+    "itemId": "95bac1d58a143075af0c6c36d40764b0",
+    "item": "pyramid",
+    "trans": "n. 金字塔；角锥体\nvi. 渐增；上涨；成金字塔状\nvt. 使…渐增；使…上涨；使…成金字塔状",
+    "phonetic": "['pɪrəmɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "8a3d01cde250bcdb98330f1e6aed5f44",
+    "item": "quadratic function",
+    "trans": "[数] 二次函数",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "9dcdf3f97e9dcd14a0d83ad03a287266",
+    "item": "qualifier",
+    "trans": "n. 限定词，[语] 限定语；取得资格的人；修饰语",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3404231951406ff645377ef92fbf5d86",
+    "item": "quantitative",
+    "trans": "adj. 定量的；量的，数量的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "5426da46c8be885bead80d818e787b99",
+    "item": "quarantine",
+    "trans": "n.检疫隔离期；隔离；检疫；检疫区，隔离区\nv.对（动物或人）进行检疫隔离",
+    "phonetic": "[ˈkwɒrəntiːn]",
+    "tag": ""
+  },
+  {
+    "itemId": "4374790b575bde187fac8953cae7a727",
+    "item": "quarries",
+    "trans": "n. 采石场；猎物（quarry的复数）\nv. 采石；搜寻（quarry的三单形式）",
+    "phonetic": "[quarries]",
+    "tag": ""
+  },
+  {
+    "itemId": "0b76cef9859ad4356739b88c8a6fa03d",
+    "item": "quarry",
+    "trans": "n. 采石场；猎物；来源\nvt. 挖出；努力挖掘\nvi. 费力地找\nn. (Quarry)人名；(英)夸里",
+    "phonetic": "['kwɒrɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "0f9e072d1189874695fa87ebf1a31ac4",
+    "item": "quartet",
+    "trans": "n. 四重奏；四重唱；四件一套",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f034f21919b092745517c5cced471e77",
+    "item": "quay",
+    "trans": "n. 码头 \nn. (Quay)人名；(英、德、葡、荷)夸伊",
+    "phonetic": "[kiː]",
+    "tag": ""
+  },
+  {
+    "itemId": "97af5e29ac5e1148b6e2ee6259e208de",
+    "item": "radiative",
+    "trans": "adj. 辐射的；放射的；发光的；放热的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e26b56cfbbb67614def8184a17178ff0",
+    "item": "radical",
+    "trans": "adj. 激进的；根本的；彻底的 n. 基础；激进分子；[物化] 原子团；[数] 根数",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b475a80bc3f789ccf2228f5c6c28e2ed",
+    "item": "radically",
+    "trans": "adv. 根本上；彻底地；以激进的方式",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "992187b6932d59328048b532b4edbfc8",
+    "item": "radioactive",
+    "trans": "adj. [核] 放射性的；有辐射的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "54d114d2f4b5ea9d219aad4f98465b8f",
+    "item": "radius",
+    "trans": "n. 半径，半径范围；[解剖] 桡骨；辐射光线；有效航程\nn. (Radius)人名；(意、印尼)拉迪乌斯；(英)雷迪厄斯；(法)拉迪于斯",
+    "phonetic": "['redɪəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "322116f2db814759ff204f2658d019fe",
+    "item": "raise the profile",
+    "trans": "提高声望",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ae9507434aef366f0b6cd5f4fb6704d9",
+    "item": "rake",
+    "trans": "n. 耙子，靶状物；浪子； 倾斜度（尤指剧院舞台）；（切割工具的）前刀面；客车车厢 v. 用耙子耙；扫射 ；搜寻；（树枝或手指甲）刮擦；（用耙子）耙松；（船桅或烟囱）向船尾倾斜；确定（尤指舞台的）倾斜度 n. (Rake) （美、印）雷克 （人名）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2e066b56b6fe96182fcd1e67d504eeab",
+    "item": "rammer",
+    "trans": "n. 撞者；捣槌；装填器 \nn. (Rammer)人名；(德、匈)拉默",
+    "phonetic": "['ræmə]",
+    "tag": ""
+  },
+  {
+    "itemId": "1fea257a6ab93962d427cc3cbc81d1d2",
+    "item": "rampant",
+    "trans": "adj. 猖獗的；蔓延的；狂暴的；奔放的 n. (Rampant)人名；(法)朗庞",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "27ff84a7248bb1d47b4389d072aa2a84",
+    "item": "ramshackle",
+    "trans": "adj. 摇晃的；放荡的",
+    "phonetic": "['ræmʃæk(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "c88438f51d6fc27d2780ddb964c654ad",
+    "item": "rash",
+    "trans": "adj. 轻率的；鲁莽的；不顾后果的 n. [皮肤] 皮疹；突然大量出现的事物 n. (Rash)人名；(英、以、阿拉伯)拉什",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "f0efd868691d548329d4c3a0a00c5bfe",
+    "item": "ravel",
+    "trans": "vt. 弄清；解开；使纠缠 vi. 散开；缠结 n. 纠结；错综复杂的一团 n. (Ravel)人名；(法)拉威尔",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4f61bfc46271331f90bf7346aa5ae748",
+    "item": "ravioli",
+    "trans": "n. （意）略有馅的水饺 n. (Ravioli)人名；(意)拉维奥利",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0562ccd51e93a96b4ccc3ff2e44bb983",
+    "item": "reaping",
+    "trans": "v. 收割，获得（reap的ing形式）",
+    "phonetic": "[reaping]",
+    "tag": ""
+  },
+  {
+    "itemId": "56e05a089318c66f985b5612dd7ef3c5",
+    "item": "rear-end",
+    "trans": "adj. 在尾端的 n. 后端",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1f31b9e10ebb5895f4c61a6c927d6cb6",
+    "item": "rearward",
+    "trans": "adj. 在后面的；向后面的 adv. 在后面；向后面 n. （诗、文）后部",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "63428f20c2fe254bb3e16f0644a45b9b",
+    "item": "rebuke",
+    "trans": "vt. 指责，非难；制止；使相形见绌 \nn. 非难，指责；谴责，鞭策",
+    "phonetic": "[rɪ'bjuːk]",
+    "tag": ""
+  },
+  {
+    "itemId": "bb60a490afcc260655a7d7d317cdd83f",
+    "item": "recession",
+    "trans": "n. 衰退；不景气；后退；凹处",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2c2dbeaf558d4ec94135a57002e20b20",
+    "item": "recipe",
+    "trans": "n. 食谱；[临床] 处方；秘诀；烹饪法",
+    "phonetic": "['rɛsəpi]",
+    "tag": ""
+  },
+  {
+    "itemId": "c7016ad36ece39d22f0bf89e6f587c1e",
+    "item": "reckless",
+    "trans": "adj. 鲁莽的，不顾后果的；粗心大意的 n. (Reckless)人名；(英)雷克利斯",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2caa494ab42a70c0ced6b273c99ad41a",
+    "item": "reconciliation",
+    "trans": "n. 和解；调和；和谐；甘愿",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "2044a1d8c68656f741e8860108211260",
+    "item": "rectangle",
+    "trans": "n. 矩形；长方形",
+    "phonetic": "['rɛktæŋɡl]",
+    "tag": ""
+  },
+  {
+    "itemId": "ab71810df0baac7a712fbff669db67dc",
+    "item": "rectify",
+    "trans": "vt. 改正；精馏；整流",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a338e25135855ee8851480d146ed857e",
+    "item": "redact",
+    "trans": "vt. 编辑；编写",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d4c0bd5c50b576819cb20a0450ba5c6e",
+    "item": "redden",
+    "trans": "v. （使）变红；（人）脸红，害羞；（眼睛）哭红 n. (Redden) （美）雷登（人名）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a85167c78621c9b23a1530f950e12d61",
+    "item": "refectory",
+    "trans": "n. 食堂；（修道院，学院等处的）餐厅",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "fbaae810bc86182a18f5b6765d027531",
+    "item": "regime",
+    "trans": "n.政权，政体；社会制度；管理体制",
+    "phonetic": "[reɪ'ʒiːm]",
+    "tag": ""
+  },
+  {
+    "itemId": "a63f7d66be095d73094f2d1b9ebc53bb",
+    "item": "regimen",
+    "trans": "n. [医] 养生法；生活规则；政体；支配",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "65b115d9a44602b5de53290b62a0462e",
+    "item": "reign",
+    "trans": "vi. 统治；支配；盛行；君临 n. 统治；统治时期；支配",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "0ea15a6db6a318ff253b5d811f98f732",
+    "item": "reimbursement",
+    "trans": "n. 退还，偿还；赔偿",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b23409cbe7c6e74b122f03161e31518e",
+    "item": "rejuvenation",
+    "trans": "n. [地质][水文] 回春，返老还童；复壮，恢复活力",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "7f99d0b4d132dc9384192c4c4f5e1adb",
+    "item": "reluctant",
+    "trans": "adj. 不情愿的；勉强的；顽抗的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5225aad8f9733cabaf20bbb347dcabfc",
+    "item": "remediation",
+    "trans": "n. 补救；矫正；补习",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7f72e77cab26b23a705ffa34cc84a82c",
+    "item": "remedy",
+    "trans": "vt. 补救；治疗；纠正 \nn. 补救；治疗；赔偿",
+    "phonetic": "['remɪdɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "1dc27d9d13897764fa6215038de04e5e",
+    "item": "remit",
+    "trans": "vt. 宽恕；免除；减轻；传送；使恢复原状 vi. 汇款；缓和 n. 移交的事物",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b814ccb09e23ecd2942c26dd98f26661",
+    "item": "remnant",
+    "trans": "n. 剩余 \nadj. 剩余的 \nn. (Remnant)人名；(英)雷姆南特",
+    "phonetic": "['remnənt]",
+    "tag": ""
+  },
+  {
+    "itemId": "4593a2ba3301576e32e254781e061847",
+    "item": "renaissance",
+    "trans": "n. 新生；再生；复活",
+    "phonetic": "[ˈrenəsɑ:ns; ˌrɛnəˈsɑns]",
+    "tag": ""
+  },
+  {
+    "itemId": "3f06c773b2cc8b60cd93b0b7ba849184",
+    "item": "renovation",
+    "trans": "n. 革新；修理；恢复活力",
+    "phonetic": "[,rɛnə'veʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "d43c291fee7037faa394e4426b41451c",
+    "item": "renown",
+    "trans": "n. 声誉；名望 vt. 使有声望",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "81ed5d78157b3236ab8f94ed12935dba",
+    "item": "renowned",
+    "trans": "adj. 著名的；有声望的 v. 使有声誉（renown的过去分词）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "91c088dfc1d127026ebf1d6d9df74fd8",
+    "item": "repeat",
+    "trans": "vt. 重复；复制；背诵 n. 重复；副本 vi. 重做；重复发生",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "97a00b22fc7610aa991b19cfbfe83d51",
+    "item": "repetition",
+    "trans": "n. 重复；背诵；副本",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3251177579ef9f5b2b7a193b4309aaf1",
+    "item": "reptile",
+    "trans": "adj. 爬虫类的；卑鄙的\nn. 爬行动物；卑鄙的人",
+    "phonetic": "['rɛptaɪl]",
+    "tag": ""
+  },
+  {
+    "itemId": "8c2e8d8938bcf20889b8e3d06a2f945b",
+    "item": "reputable",
+    "trans": "adj. 声誉好的；受尊敬的；卓越的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5ab807d80ed23ebcd6fe30e510f01323",
+    "item": "reservoir",
+    "trans": "n. 水库；蓄水池",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3158d6858d08d4efbb1b75ce1adaed82",
+    "item": "residue",
+    "trans": "n. 残渣；剩余；滤渣",
+    "phonetic": "['rezɪdjuː]",
+    "tag": ""
+  },
+  {
+    "itemId": "9c7b318b47ebb8c28a71bff0d7452c56",
+    "item": "resort",
+    "trans": "n. 凭借，手段；度假胜地；常去之地 \nvi. 求助，诉诸；常去；采取某手段或方法",
+    "phonetic": "[rɪ'zɔːt]",
+    "tag": ""
+  },
+  {
+    "itemId": "c2df22b13552520d5d0f775f33780154",
+    "item": "retribution",
+    "trans": "n. 报应；惩罚；报答；报偿",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2c09ad920900c6a25ab314e7d4203c4a",
+    "item": "retrieval",
+    "trans": "n. 检索；恢复；取回；拯救",
+    "phonetic": "[rɪ'trivl]",
+    "tag": ""
+  },
+  {
+    "itemId": "4ce4a7237ce32318159fb55a57791b38",
+    "item": "revenue",
+    "trans": "n. 税收收入；财政收入；收益",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4c85cab51d96407c72fd4b018cd34344",
+    "item": "rhetoric",
+    "trans": "n. 修辞，修辞学；华丽的词藻 \nadj. 花言巧语的",
+    "phonetic": "['retərɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "c6e6cad06644dfb46fabedfa394cf2d4",
+    "item": "rhinoceros",
+    "trans": "n.[脊椎] 犀牛",
+    "phonetic": "[raɪ'nɒs(ə)rəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "f0b7ca0e8c9acad5e1028e09ac3a0453",
+    "item": "ribbon",
+    "trans": "n.带；缎带；（勋章等的）绶带；带状物；勋表\nvi.形成带状\nvt.把…撕成条带；用缎带装饰",
+    "phonetic": "['rɪbən]",
+    "tag": ""
+  },
+  {
+    "itemId": "1a3c2fedd230e4b42a36fb11f865dbf5",
+    "item": "ridge",
+    "trans": "n. 山脊；山脉；屋脊 \nvt. 使成脊状；作垄 \nvi. 成脊状 \nn. (Ridge)人名；(英)里奇",
+    "phonetic": "[rɪdʒ]",
+    "tag": ""
+  },
+  {
+    "itemId": "8b11e53ac5a4243381ae2257b38a6e70",
+    "item": "riparian",
+    "trans": "adj. 河边的；水滨的 n. 河边居民；河岸拥有人",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5e07a4da8912650834cc64ea4de68afc",
+    "item": "ripple",
+    "trans": "n.波纹；涟漪；[物] 涟波\nvi.起潺潺声\nvt.在…上形成波痕\nn.(Ripple)人名；(英)里普尔",
+    "phonetic": "['rɪp(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "8fe30d183ce82c60a75ae2a699b9e1ef",
+    "item": "ritual",
+    "trans": "n.仪式；惯例；礼制\nadj.仪式的；例行的；礼节性的",
+    "phonetic": "['rɪtʃʊəl]",
+    "tag": ""
+  },
+  {
+    "itemId": "2bac66b998f2876e2be44268a0259d97",
+    "item": "rivet",
+    "trans": "n. 铆钉 vt. 铆接；固定；（把目光、注意力等）集中于 n. (Rivet)人名；(法)里韦；(英、西)里韦特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d1323b26bceb644c457c1e3e1d662f9c",
+    "item": "roster",
+    "trans": "n. 花名册；执勤人员表；逐项登记表",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1bafd5e11254e9c3f8e1f88dd4fc6e40",
+    "item": "rub",
+    "trans": "vt. 擦；摩擦；惹怒 \nvi. 擦；摩擦；擦破 \nn. 摩擦；障碍；磨损处 \nn. (Rub)人名；(捷)鲁布",
+    "phonetic": "[rʌb]",
+    "tag": ""
+  },
+  {
+    "itemId": "bd31dbf2c884251babe93ae4d7f020a5",
+    "item": "rubber",
+    "trans": "n. 橡胶；橡皮；合成橡胶；按摩师；避孕套\nadj. 橡胶制成的\nvt. 涂橡胶于；用橡胶制造\nvi. 扭转脖子看；好奇地引颈而望\nn. (Rubber)人名；(西)鲁韦尔",
+    "phonetic": "['rʌbɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "ba5cfe95dbbc835568b4943ead44df76",
+    "item": "rug",
+    "trans": "n. 小地毯；毛皮地毯；男子假发 \nn. (Rug)人名；(塞)鲁格",
+    "phonetic": "[rʌɡ]",
+    "tag": ""
+  },
+  {
+    "itemId": "4ce867a8a5dd4da73233d5c1cb963118",
+    "item": "rumble",
+    "trans": "vt. 使隆隆响；低沉地说 \nvi. 隆隆作响 \nn. 隆隆声；抱怨声 \nn. (Rumble)人名；(英)朗布尔",
+    "phonetic": "['rʌmb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "e6fceaffbdfcd211ae8f94963981ba6b",
+    "item": "rustic",
+    "trans": "adj. 乡村的；纯朴的；粗野的；手工粗糙的 n. 乡下人；乡巴佬",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f399828f696349335e3cca5b83048291",
+    "item": "saffron",
+    "trans": "n. 藏红花；橙黄色\nadj. 藏红花色的，橘黄色的",
+    "phonetic": "['sæfrən]",
+    "tag": ""
+  },
+  {
+    "itemId": "71a9f0c62a3791c9d30bd5e13f25ed69",
+    "item": "salient",
+    "trans": "adj. 显著的；突出的；跳跃的 n. 凸角；突出部分 n. (Salient)人名；(西)萨连特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e09cc1b8a10665b451a94ef5a2a6f821",
+    "item": "salivate",
+    "trans": "vt. 使流涎；使过量分泌唾液 vi. 分泌唾液；流口水",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "5cf5f2759e5eb420c87c92120c7f7ae9",
+    "item": "salvage",
+    "trans": "n. 打捞；海上救助；抢救财货；救难的奖金 vt. 抢救；海上救助 n. (Salvage)人名；(法)萨尔瓦热",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6fd6f2b5770a1a1373116b3ebb290603",
+    "item": "sap",
+    "trans": "n. [植] 树液；精力，元气；活力；坑道 vt. 使衰竭，使伤元气；挖掘以破坏基础 vi. 挖坑道 n. (Sap)人名；(柬)萨；(越)插",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a365039633e0e341ceed9b043c7df34c",
+    "item": "satellite",
+    "trans": "n. 卫星；人造卫星；随从；卫星国家",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "33cdb4a81cdf151b152053435a7ef049",
+    "item": "scad",
+    "trans": "n. 竹荚鱼；许多",
+    "phonetic": "[skæd]",
+    "tag": ""
+  },
+  {
+    "itemId": "4a82de53f9caa88bfcd397cd42de3d4a",
+    "item": "scatter",
+    "trans": "vi. 分散，散开；散射 vt. 使散射；使散开，使分散；使散播，使撒播 n. 分散；散播，撒播",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c98d8c231b6d52d420adeffb708c48f4",
+    "item": "sceptical",
+    "trans": "adj. 怀疑的；怀疑论的；习惯怀疑的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7ead8a2bac162ba7b684dcb73c48c03a",
+    "item": "schema",
+    "trans": "n. [计][心理] 模式；计划；图解；概要",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b79716e1b2ab15f8f606ee4ba67f43a2",
+    "item": "scheme",
+    "trans": "n. 计划；组合；体制；诡计 vi. 搞阴谋；拟订计划 vt. 计划；策划 n. (Scheme)人名；(瑞典)谢默",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3c153d4ce604b09610020e73c577a9af",
+    "item": "scientific notation",
+    "trans": "科学记数法",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "0a400faf565e729f15274da059d5d7d1",
+    "item": "scrape",
+    "trans": "v. 用工具刮；刮掉；擦伤；挖坑；刮出刺耳声；朝后拢头发；不入调地演奏小提琴；在面包上薄涂一层（黄油）；勉强维持；险胜；将就；（艰难地）凑集；节俭；用程序从网上下载（数据） n. 刮掉；擦痕；刮擦声；地面空洞处；薄涂在面包上的黄油；鞠躬；困境；刮宫",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ee961421336f930a2b27381e380e18ad",
+    "item": "scribble",
+    "trans": "n.潦草写成的东西；潦草的写法；杂文\nvt.乱写；滥写；潦草地书写\nvi.乱写；乱涂",
+    "phonetic": "['skrɪb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "4590aab6d26f7629aed223df08a60d6a",
+    "item": "scrub",
+    "trans": "n. 矮树；洗擦；擦洗者；矮小的人（或物） vt. 用力擦洗；使净化 vi. 擦洗；进行手臂消毒 adj. 矮小的；临时凑合的；次等的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b823c0a0276f6e2fc32ad922cb72ec24",
+    "item": "scrutiny",
+    "trans": "n. 详细审查；监视；细看；选票复查",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4bf5ac3cb844e3a6c2504d093bf976e8",
+    "item": "sculpture",
+    "trans": "n. 雕塑；雕刻；刻蚀\nvt. 雕塑；雕刻；刻蚀\nvi. 从事雕刻",
+    "phonetic": "['skʌlptʃɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "1e977c91d461a4b5e5b0356754bf519f",
+    "item": "scurry",
+    "trans": "n. 急跑；短距离赛跑（或赛马） \nvi. 急赶；急跑 \nvt. 急赶",
+    "phonetic": "['skʌrɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "51b386eeed0c951a8897c9ed0ce5b3ff",
+    "item": "seasonality",
+    "trans": "n. 季节性",
+    "phonetic": "[seasonality]",
+    "tag": ""
+  },
+  {
+    "itemId": "8a8953abe8f167e1096df4dc824da151",
+    "item": "secular",
+    "trans": "adj. 世俗的；长期的；现世的；不朽的 n. 修道院外的教士，(对宗教家而言的) 俗人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b764ee7f0ea29f9505e135b6cdeeab4c",
+    "item": "sedentary",
+    "trans": "adj. 久坐的；坐惯的；定栖的；静坐的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "64c808f9e339a6cd6ce1a5abbf9fbb71",
+    "item": "sediment",
+    "trans": "n. 沉积；沉淀物",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d0e255cc80551977ea6afe96b8f6e21b",
+    "item": "seduce",
+    "trans": "vt. 引诱；诱惑；诱奸；怂恿",
+    "phonetic": "[sɪ'djuːs]",
+    "tag": ""
+  },
+  {
+    "itemId": "80de46e675bf2768c0e7bfd488d1df58",
+    "item": "seizure",
+    "trans": "n. 没收；夺取；捕获；（疾病的）突然发作",
+    "phonetic": "['siːʒə]",
+    "tag": ""
+  },
+  {
+    "itemId": "638a9b51b7c2064a76ddb38a6d6db8b8",
+    "item": "seminar",
+    "trans": "n. 讨论会，研讨班",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "13a2a51a8ee9d2cb0ab95b25e5c5c655",
+    "item": "senate",
+    "trans": "n. 参议院，上院；（古罗马的）元老院",
+    "phonetic": "['sɛnət]",
+    "tag": ""
+  },
+  {
+    "itemId": "0d0d5ae85c9e3b9cfd905f87219bb961",
+    "item": "severely",
+    "trans": "adv. 严重地；严格地，严厉地；纯朴地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "4b903a9a6862062666470cb314402281",
+    "item": "sewage",
+    "trans": "n. 污水；下水道；污物",
+    "phonetic": "['suːɪdʒ]",
+    "tag": ""
+  },
+  {
+    "itemId": "a326c69de8ab8f488c269a6e1bbeb205",
+    "item": "shatter",
+    "trans": "vt. 粉碎；打碎；破坏；破掉；使散开 vi. 粉碎；损坏；落叶 n. 碎片；乱七八糟的状态",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "c795d8ca70c66cded98cfbeaa2205f3b",
+    "item": "shed",
+    "trans": "vt. 流出；摆脱；散发；倾吐 vi. 流出；脱落；散布 n. 小屋，棚；分水岭",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "fbc6a79d28958830e36872670257cdea",
+    "item": "shoelace",
+    "trans": "n. 鞋带",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "05a016692d34d0c8bafb02e2a5c4e01d",
+    "item": "shortfall",
+    "trans": "n.差额；缺少",
+    "phonetic": "['ʃɔːtfɔːl]",
+    "tag": ""
+  },
+  {
+    "itemId": "3fadba8f2b38c5484f9c6505080a091c",
+    "item": "shovel",
+    "trans": "n. 铁铲；一铲的量；铲车 vt. 铲除；用铲挖；把…胡乱塞入 vi. 铲",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3b5934baa71d2be3fd2946587ad480e7",
+    "item": "shrill",
+    "trans": "adj. 尖锐的；刺耳的 adv. 尖锐地 vi. 尖声喊叫 vt. 尖声喊出 n. 尖叫声",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a421db3fe79f99ad12dd7d21f831e15d",
+    "item": "sideline",
+    "trans": "n. 副业；球场边线；局外人的观点 vt. 迫使退出 adj. 倾斜的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "75059c258915d3816022378a7cc7ed04",
+    "item": "silo",
+    "trans": "n. 筒仓；青贮窖；飞弹发射井 vt. 把…存入青贮窖；把…储存在筒仓内 n. (Silo)人名；(意、西、芬、瑞典)西洛",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "43d4c2b8a728d3d78ed7bc9263ac18b3",
+    "item": "silt",
+    "trans": "n. 淤泥，泥沙；煤粉；残渣\nvi. 淤塞，充塞；为淤泥堵塞\nvt. 使淤塞；充塞",
+    "phonetic": "[sɪlt]",
+    "tag": ""
+  },
+  {
+    "itemId": "0f6c6896caf219eacfe87d32ae9bf600",
+    "item": "simulate",
+    "trans": "vt. 模仿；假装；冒充 \nadj. 模仿的；假装的",
+    "phonetic": "['sɪmjʊleɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "57546f983d2f5d67802c9f7fb7cc7462",
+    "item": "simulator",
+    "trans": "n. 模拟器；假装者，模拟者",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "07c1681840a78a1ef463e66b995ed1ee",
+    "item": "simultaneously",
+    "trans": "adv. 同时地",
+    "phonetic": "[,sɪml'teɪnɪəslɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "9aa5319f05c41edd3611327c2a98e811",
+    "item": "skive",
+    "trans": "vt. 把…割成薄片；削匀；研磨 vi. 逃避责任；匆匆而去",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "e6adc7c300366fad624fd4c6678835c2",
+    "item": "sleek",
+    "trans": "adj. 圆滑的；井然有序的 vt. 使…光滑；掩盖 vi. 打扮整洁；滑动",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "41de5ba8105043379e32ec4ad0923e5d",
+    "item": "slog",
+    "trans": "vt. 猛击；步履艰难地行 vi. 猛击；顽强行进 n. 苦干；跋涉",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1431bd320d91fb43c4e5ec8fc1ab968e",
+    "item": "slouch",
+    "trans": "n. 下垂；笨拙的人，懒散的人；懒散的样子 vi. 没精打采地站；耷拉 vt. 使下垂",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cdf132e217814ada7900f26a5692d701",
+    "item": "slump",
+    "trans": "vi. 下降，衰落；倒下；大幅度下降，暴跌 \nvt. 使降低；使衰落；使倒下 \nn. 衰退；暴跌；消沉",
+    "phonetic": "[slʌmp]",
+    "tag": ""
+  },
+  {
+    "itemId": "0f038e1b385aae802b05015cac310c71",
+    "item": "sly",
+    "trans": "adj. 狡猾的；淘气的；诡密的 \nn. (Sly)人名；(英)斯莱",
+    "phonetic": "[slaɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "a25dc95a17faf52b6eadde289766e754",
+    "item": "smelt",
+    "trans": "vt. 熔炼，冶炼；精炼 n. 香鱼；胡瓜鱼 vi. 熔炼，精炼 v. 闻（smell的过去式和过去分词）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "42b327c64742d873e67805846d1b67ac",
+    "item": "snarl",
+    "trans": "n. 咆哮；怒骂；混乱 vi. 咆哮；怒骂；缠结 vt. 搞乱；咆哮着说；使…缠结",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "9a6b5c429061325a159c161f3fcbe4a8",
+    "item": "snicker",
+    "trans": "v. 偷笑，窃笑；（马）嘶鸣 n. 窃笑，吃吃地笑；马嘶声 n. (Snicker) （美、芬）斯尼克（人名）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "24699d508d1faa69d3a0b7c9b64759cc",
+    "item": "snort",
+    "trans": "vi. 轻蔑或愤怒地发出哼声；喷出蒸汽声 vt. 喷出；发哼声；吸毒品 n. 喷鼻息；一小杯酒",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f6613444bdca742b65177b53285e13f9",
+    "item": "socialism",
+    "trans": "n.社会主义",
+    "phonetic": "['səʊʃəlɪz(ə)m]",
+    "tag": ""
+  },
+  {
+    "itemId": "ff305bebe26f2d8e162ffc2bdd0a5760",
+    "item": "sociology",
+    "trans": "n. 社会学；群体生态学",
+    "phonetic": "[,sosɪ'ɑlədʒi]",
+    "tag": ""
+  },
+  {
+    "itemId": "e543715b2a6d75d5b35f84de510a56e4",
+    "item": "sojourner",
+    "trans": "n. 寄居者；旅居者 n. (Sojourner)人名；(英)索杰纳",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c3cb8c1c0ff1b407eeaf6c6e62e9d881",
+    "item": "solemn",
+    "trans": "adj. 庄严的，严肃的；隆重的，郑重的",
+    "phonetic": "[ˈsɒləm]",
+    "tag": ""
+  },
+  {
+    "itemId": "6a45e31a5756093e5f5fa2866b860ef1",
+    "item": "solvent",
+    "trans": "adj. 有偿付能力的；有溶解力的\nn. 溶剂；解决方法",
+    "phonetic": "['sɑlvənt]",
+    "tag": ""
+  },
+  {
+    "itemId": "0b7d7058830d48424884f707b3c1aa81",
+    "item": "somnolence",
+    "trans": "n. 困倦；想睡；嗜眠症",
+    "phonetic": "['sɔmnələns]",
+    "tag": ""
+  },
+  {
+    "itemId": "555c9e2096c854be2e6b6feb5166cc9d",
+    "item": "soot",
+    "trans": "n. 煤烟，烟灰 vt. 用煤烟熏黑；以煤烟弄脏",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "497b27e5a43eb6e9828176dcea529980",
+    "item": "soviet",
+    "trans": "adj. 苏联的；苏维埃的；委员会的 n. 苏维埃（代表会议）；委员会；代表会议",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "16267e7f7e5bb39cd95c51dd9223eb7f",
+    "item": "spectator",
+    "trans": "n. 观众；旁观者",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a1d9e8689c654a62cbddf48cc282446a",
+    "item": "spectrum",
+    "trans": "n. 光谱；频谱；范围；余象",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c2c4aea37943ee7876ec4408e877b650",
+    "item": "speculate",
+    "trans": "vi. 推测；投机；思索 \nvt. 推断",
+    "phonetic": "[ˈspekjuleɪt]",
+    "tag": ""
+  },
+  {
+    "itemId": "7b34d9c1627a84bf34b9c4f3e44f5188",
+    "item": "spiritualism",
+    "trans": "n. 灵性；唯心论；招魂说",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3245dac37ab309e3bb0bb2dcec58c346",
+    "item": "splurge",
+    "trans": "vi.挥霍；卖弄\nn.挥霍；炫耀\nvt.挥霍；夸耀",
+    "phonetic": "[splɜːdʒ]",
+    "tag": ""
+  },
+  {
+    "itemId": "98a761076ec7ad0b34799a36ecf31d34",
+    "item": "sporadic",
+    "trans": "adj. 零星的；分散的；不定时发生的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3e2ceae566fbbdbbf04cc6050afc60ad",
+    "item": "sprinkle",
+    "trans": "n. 撒，洒；少量 vt. 洒；微雨；散置 vi. 洒，撒；下稀疏小雨；喷撒",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "85648b2de51ad224a59f301ab52cf638",
+    "item": "sprung",
+    "trans": "adj. 装有弹簧的 \nv. 蹦跳；弹起（spring的过去式） \nn. (Sprung)人名；(德、匈)施普龙",
+    "phonetic": "[sprʌŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "045d9c963d5137add5e57df2d7ba372f",
+    "item": "squabble",
+    "trans": "vi. 发生口角；大声争吵 vt. 弄乱（排好的铅字） n. 争吵；口角",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1c562a1a4711ec756ab0fb3ad273b024",
+    "item": "squint",
+    "trans": "vi. 眯眼看；斜视；窥视；偏移 vt. 使斜眼；眯眼看 n. 斜视；斜孔小窗；一瞥 adj. 斜视的；斜的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "352cb10b2ab363131878bef754c810b4",
+    "item": "squire",
+    "trans": "n. 乡绅；侍从；大地主；地方法官 \nvt. 随侍；护卫 \nn. (Squire)人名；(英)斯夸尔",
+    "phonetic": "[skwaɪə]",
+    "tag": ""
+  },
+  {
+    "itemId": "1ff4af3c98b6e2a15a59b30e5dd85b88",
+    "item": "stab",
+    "trans": "vt. 刺；刺伤；戳；刺穿；直入 \nvi. 刺；刺伤；戳；刺痛 \nn. 刺；戳；尝试；突发的一阵 \nn. (Stab)人名；(泰)萨达",
+    "phonetic": "[stæb]",
+    "tag": ""
+  },
+  {
+    "itemId": "69d8bd03913d3eacf363d8817f346786",
+    "item": "stagger",
+    "trans": "vt. 蹒跚；使交错；使犹豫 vi. 蹒跚；犹豫 n. 蹒跚；交错安排 adj. 交错的；错开的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "48ea3716db77b6db3317b81294fdf531",
+    "item": "stalk",
+    "trans": "n. （植物的）茎，秆；（支持叶子、果实和花的）梗，柄；追踪；高视阔步 vt. 追踪，潜近；高视阔步 vi. 高视阔步地走；潜近，偷偷接近",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "47e4909f892814d4179139c71d7604ce",
+    "item": "stamp",
+    "trans": "n. 邮票；印记；标志；跺脚 \nvt. 铭记；标出；盖章于…；贴邮票于…；用脚踩踏 \nvi. 跺脚；捣碎；毁掉 \nn. (Stamp)人名；(德)施坦普；(英)斯坦普",
+    "phonetic": "[stæmp]",
+    "tag": ""
+  },
+  {
+    "itemId": "f17bca8a8f1592a5fdae381d8019b51e",
+    "item": "stance",
+    "trans": "n. 立场；姿态；位置；准备击球姿势",
+    "phonetic": "[stɑːns; stæns]",
+    "tag": ""
+  },
+  {
+    "itemId": "c38f6d29c38a4a4e5b2507b349d1fc9f",
+    "item": "staple",
+    "trans": "n. 主要产品；订书钉；主题；主食 adj. 主要的，大宗生产的；常用的；纺织纤维的 vt. 把…分级；钉住",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6cb98586652c2a236b27dd0a1fdd9741",
+    "item": "startle",
+    "trans": "vt. 使吓一跳；使惊奇 vi. 惊吓；惊跳；惊奇 n. 惊愕；惊恐",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "07bae6fcc661dbfa2a360662c5995ddb",
+    "item": "startling",
+    "trans": "adj. 令人吃惊的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6776d5e46dd1453b652755916f1ac61b",
+    "item": "statue",
+    "trans": "n. 雕像，塑像 vt. 以雕像装饰",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "8f00eadc3fdb9d186a838d157c2c2fb0",
+    "item": "statutory",
+    "trans": "adj. 法定的；法令的；可依法惩处的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a711b1f87c61c5a957bfcad7971029d6",
+    "item": "stave off",
+    "trans": "避开；延缓",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cbfa8c281415f385491064c216639db4",
+    "item": "stereoscopic",
+    "trans": "adj.立体的；体视镜的；有立体感的",
+    "phonetic": "[,sterɪəʊ'skɒpɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "269cdf6a49b283f2949d6f0d3da03d19",
+    "item": "stern",
+    "trans": "adj. 严厉的；坚定的；严峻的；认真的 n. 船尾；末端；（幽默）（人的）臀部 n. (Stern) （英、以、法、瑞典、西）斯特恩（人名）",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a3aa1e9201ae55a7df6789ec165b6a1f",
+    "item": "stewardship",
+    "trans": "n. 管理工作；管事人的职位及职责",
+    "phonetic": "['stuɚdʃɪp]",
+    "tag": ""
+  },
+  {
+    "itemId": "a950a15d7e6f5f59c2db2276e957f1d2",
+    "item": "stickler",
+    "trans": "n. 坚持细节的人；顽固的人；费解的事物 n. (Stickler)人名；(德)施蒂克勒；(英、瑞典)斯蒂克勒",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "db8e11e0d7cb468981e99f8dabbf5a52",
+    "item": "stimulus",
+    "trans": "n. 刺激；激励；刺激物",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "06bf7d45736d5b15e6c44bb91ddd4413",
+    "item": "stipend",
+    "trans": "n. 奖学金；固定薪金；定期津贴；养老金",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "29efc20ee0e80cc545456bcb2d51cd45",
+    "item": "stirring",
+    "trans": "adj. 激动人心的；活跃的，活泼的；忙碌的 v. 激起（stir的ing形式）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "fa652e0630bc3fc83e3e6c63975972ff",
+    "item": "stitch",
+    "trans": "n. 针脚，线迹；一针 vt. 缝，缝合 vi. 缝，缝合",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3c3cd30cfdbe48ca8504ec19e91e910d",
+    "item": "stomp",
+    "trans": "vt.跺脚，重踩；践踏\nn.跺脚，重踩；顿足爵士舞",
+    "phonetic": "[stɒmp]",
+    "tag": ""
+  },
+  {
+    "itemId": "4df6449fc6ba056fddd0914b6a6def97",
+    "item": "stoop",
+    "trans": "vi. 弯腰；屈服；堕落 \nn. 弯腰，屈背；屈服 \nvt. 辱没，堕落；俯曲 \nn. (Stoop)人名；(法、荷、葡)斯托普",
+    "phonetic": "[stuːp]",
+    "tag": ""
+  },
+  {
+    "itemId": "bb8e54ca03e0ed6d1f739b8a6470b118",
+    "item": "strain",
+    "trans": "n. 张力；拉紧；负担；扭伤；血缘 vi. 拉紧；尽力 vt. 拉紧；滥用；滤去；竭力 n. (Strain)人名；(英)斯特兰 n. （植物、动物的）品种；种类",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "50ea415ef779d394e3c925b64f800110",
+    "item": "strap",
+    "trans": "vt. 用带捆绑；用皮条抽打；约束\nn. 带；皮带；磨刀皮带；鞭打\nvi. 精力旺盛地工作；受束缚",
+    "phonetic": "[stræp]",
+    "tag": ""
+  },
+  {
+    "itemId": "2c80105adccf6ed8c508ef13f8c70587",
+    "item": "strife",
+    "trans": "n. 冲突；争吵；不和",
+    "phonetic": "[straɪf]",
+    "tag": ""
+  },
+  {
+    "itemId": "193bc1d3ffabb9094f0d0c74dea73b95",
+    "item": "stripe",
+    "trans": "n. 条纹，斑纹；种类\nvt. 加条纹于…",
+    "phonetic": "[straɪp]",
+    "tag": ""
+  },
+  {
+    "itemId": "442233db17c6596b97dc2c7ba3e4e107",
+    "item": "stroll",
+    "trans": "n. 漫步；闲逛；巡回演出 \nvi. 散步；闲逛；巡回演出 \nvt. 散步；闲逛",
+    "phonetic": "[strəʊl]",
+    "tag": ""
+  },
+  {
+    "itemId": "572db5b886b7d1279da1f9c2eff09c80",
+    "item": "stumble",
+    "trans": "vi.踌躇，蹒跚；失足；犯错\nvt.使…困惑；使…绊倒\nn.绊倒；蹒跚而行",
+    "phonetic": "['stʌmb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "3e94a18ae822990d43ccdcf2365a863c",
+    "item": "stunt",
+    "trans": "n. 噱头，手腕；绝技 vt. 阻碍…的正常生长或发展 vi. 表演特技；作惊人表演 n. (Stunt)人名；(英)斯坦特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "24e23a9df1a426113b9a7e30f96a9330",
+    "item": "stutter",
+    "trans": "vi. 结结巴巴地说话 n. 口吃，结巴 vt. 结结巴巴地说出",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3be5465e1e36dfccb31092ebf2d701e4",
+    "item": "subconsciously",
+    "trans": "adv. 潜意识地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "391754f006a07276263486c72712515b",
+    "item": "subjective",
+    "trans": "adj.   主观的;个人的;自觉的",
+    "phonetic": "[səb'dʒektɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "ed542c2986a89b200410a549b80f9a18",
+    "item": "subside",
+    "trans": "vi. 平息；减弱；沉淀；坐下",
+    "phonetic": "[səb'saɪd]",
+    "tag": ""
+  },
+  {
+    "itemId": "0faeeb759ac459097a52eaf188a7581b",
+    "item": "subsidise",
+    "trans": "vi. 消退；下沉；平息 vt. 资助（等于subsidize）；给...补助金",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "412aecbbe1fa79df15f415f53bbfabdd",
+    "item": "subsidize",
+    "trans": "vt. 资助；给与奖助金；向…行贿 \nSubsidize: 资助  补助  补贴",
+    "phonetic": "[ˈsʌbsɪdaɪz]",
+    "tag": ""
+  },
+  {
+    "itemId": "ae9d1a33356eea491bfdf10b5d348f3d",
+    "item": "substantial",
+    "trans": "adj. 大量的；实质的；内容充实的 n. 本质；重要材料",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d615ecbc52668a506ce30e03adb976fd",
+    "item": "subversive",
+    "trans": "adj. 破坏性的；从事颠覆的 \nn. 危险分子；颠覆分子",
+    "phonetic": "[səb'vɜːsɪv]",
+    "tag": ""
+  },
+  {
+    "itemId": "b0d91e27512472d3f031bcad474c097d",
+    "item": "succinctly",
+    "trans": "adv. 简洁地；简便地",
+    "phonetic": "[sək'siŋktli]",
+    "tag": ""
+  },
+  {
+    "itemId": "68d77e7406021bcf9d1fc71e84b04e75",
+    "item": "succour",
+    "trans": "n. 救援物品 \nvt. 救助",
+    "phonetic": "[ˈsʌkə(r)]",
+    "tag": ""
+  },
+  {
+    "itemId": "6183ef4e20463467163d4a7b4a1e5e49",
+    "item": "suction",
+    "trans": "n. 吸；吸力；抽吸",
+    "phonetic": "['sʌkʃən]",
+    "tag": ""
+  },
+  {
+    "itemId": "48ec55e1c18df9ad6502d5285b4bfd0d",
+    "item": "suffice",
+    "trans": "vt. 使满足；足够…用；合格 vi. 足够；有能力",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "721625a969e5db3947aeb075ec275e6b",
+    "item": "sundial",
+    "trans": "n. 日晷，日规；羽扇豆（产于美国东部）",
+    "phonetic": "['sʌn'daɪəl]",
+    "tag": ""
+  },
+  {
+    "itemId": "3bf3615070c784456613b0b7e4b74ecb",
+    "item": "superstition",
+    "trans": "n. 迷信",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "ee474854dc26bfda934b6ccf244b8b2f",
+    "item": "supplant",
+    "trans": "vt. 代替；排挤掉",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "c7008d406f631816bceeba2d19f9abef",
+    "item": "supplement",
+    "trans": "vt. 增补，补充 n. 增补，补充；补充物；增刊，副刊",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "06fe72d5ab60bc2f1741e4ce73a11284",
+    "item": "surfer",
+    "trans": "n. 冲浪运动员，乘冲浪板冲浪的人",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bb73a9fba4f5b8ba643d15ed043bc732",
+    "item": "surmise",
+    "trans": "vt. 猜测；推测 \nvi. 猜测；认为 \nn. 推测；猜度",
+    "phonetic": "[sə'maɪz]",
+    "tag": ""
+  },
+  {
+    "itemId": "fe2cff705794598c42f94e20c50922a6",
+    "item": "surpass",
+    "trans": "vt. 超越；胜过，优于；非…所能办到或理解",
+    "phonetic": "[sə'pɑːs]",
+    "tag": ""
+  },
+  {
+    "itemId": "9fba902cc9223d5e5cea2372622ed2b5",
+    "item": "suspense",
+    "trans": "n. 悬念；悬疑；焦虑；悬而不决",
+    "phonetic": "[sə'spɛns]",
+    "tag": ""
+  },
+  {
+    "itemId": "fd3d15f02823be194a676a2979191df7",
+    "item": "swarm",
+    "trans": "vi. 挤满；成群浮游；云集 n. 蜂群；一大群 vt. 挤满；爬",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bb94f0ffecc3403526109da7932d9ed4",
+    "item": "swathe",
+    "trans": "vt. 包围；紧绑；裹 n. 带子，绷带；包装品",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "f60ef0929a89e9c0359a80cf9ac7ca29",
+    "item": "syllable",
+    "trans": "n. 音节\nvt. 划分音节\nvi. 按音节发音；讲话",
+    "phonetic": "['sɪləb(ə)l]",
+    "tag": ""
+  },
+  {
+    "itemId": "bc0fa1a951e9e3eeca17ca147ffbd3b1",
+    "item": "syllables",
+    "trans": "n. [语] 音节（syllable的复数）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "22aa7ed6257ef8f37cb92d1717861e05",
+    "item": "syllabus",
+    "trans": "n. 教学大纲，摘要；课程表",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3881db6e0900bf00075ea301f4784104",
+    "item": "symbolize",
+    "trans": "vt. 象征；用符号表现 vi. 采用象征；使用符号；作为…的象征",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b02a35c0943123e4f4db1f79d291480e",
+    "item": "symmetry",
+    "trans": "n. 对称（性）；整齐，匀称",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "4725874b7387091c124fb630aa2f74f4",
+    "item": "symphony",
+    "trans": "n. 交响乐；谐声，和声",
+    "phonetic": "['sɪmfəni]",
+    "tag": ""
+  },
+  {
+    "itemId": "dc15c9b86656052635346591667bcd30",
+    "item": "synchronize",
+    "trans": "vt. 使……合拍；使……同步 vi. 同步；同时发生",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "07d8231f11c8e615cd55d16f3a339a7e",
+    "item": "synergy",
+    "trans": "n. 协同；协同作用；增效",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "e94710568c6de7a5d8dbe9a37818811b",
+    "item": "synonym",
+    "trans": "n. 同义词；同义字",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "8a9d6aaca70a0ad276c382ab72bd7406",
+    "item": "synonymous",
+    "trans": "adj. 同义的；同义词的；同义突变的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b6794b0b77f54c5001cb46b2c72ede43",
+    "item": "synopsis",
+    "trans": "n. 概要，大纲",
+    "phonetic": "[sɪ'nɑpsɪs]",
+    "tag": ""
+  },
+  {
+    "itemId": "7edb1cc4673f6e22d0ef19114bdcb0ff",
+    "item": "synthesis",
+    "trans": "n. 综合，[化学] 合成；综合体",
+    "phonetic": "['sɪnθəsɪs]",
+    "tag": ""
+  },
+  {
+    "itemId": "b700788ea51d6ddaa22f08d193f1fafc",
+    "item": "tactor",
+    "trans": "n. [动] 触器",
+    "phonetic": "[tactor]",
+    "tag": ""
+  },
+  {
+    "itemId": "3e0fb09dcc790f06ad42c3a25095dc5b",
+    "item": "tantalizing",
+    "trans": "adj.撩人的；逗引性的；干着急的\nv.惹弄；逗弄人（tantalize的ing形式）",
+    "phonetic": "['tæntəlaɪzɪŋ]",
+    "tag": ""
+  },
+  {
+    "itemId": "cd7ccc4349630234df5ba57fe260c563",
+    "item": "taunt",
+    "trans": "n.嘲弄；讥讽\nvt.奚落；逗弄\nadj.很高的",
+    "phonetic": "[tɔːnt]",
+    "tag": ""
+  },
+  {
+    "itemId": "e551cf88dd47aa2773c1c7e990d01d05",
+    "item": "taxonomy",
+    "trans": "n. 分类学；分类法",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "df973898e2275a614bc590f7a61e8737",
+    "item": "temperamental",
+    "trans": "adj. 喜怒无常的；性情的；易兴奋的",
+    "phonetic": "['tɛmprə'mɛntl]",
+    "tag": ""
+  },
+  {
+    "itemId": "b2d8c5236600819ae7a7efea3a713d9a",
+    "item": "temperate",
+    "trans": "adj. 温和的；适度的；有节制的",
+    "phonetic": "[ˈtɛmpərɪt; temˈpərit]",
+    "tag": ""
+  },
+  {
+    "itemId": "f71978550351e7a6a309f4efa5490398",
+    "item": "temptation",
+    "trans": "n. 引诱；诱惑物",
+    "phonetic": "[tem(p)'teɪʃ(ə)n]",
+    "tag": ""
+  },
+  {
+    "itemId": "44f828a9b3041411738ca0ce9c922d7c",
+    "item": "tenet",
+    "trans": "n. 原则；信条；教义 n. (Tenet)人名；(法)特内；(英)特尼特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "25daceb6550dfe5b4f84e0219ddd9b88",
+    "item": "tenure",
+    "trans": "n. 任期；占有 \nvt. 授予…终身职位",
+    "phonetic": "['tenjə]",
+    "tag": ""
+  },
+  {
+    "itemId": "18c7098d14656d2a74110ac73aba715b",
+    "item": "terrestrial",
+    "trans": "adj.地球的；陆地的，[生物] 陆生的；人间的\nn.陆地生物；地球上的人",
+    "phonetic": "[tə'restrɪəl]",
+    "tag": ""
+  },
+  {
+    "itemId": "9c39cb0b42ec944f6f5aa0c96543d865",
+    "item": "testament",
+    "trans": "n. [法] 遗嘱；圣约；确实的证明",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "76fa78a3fce8c61e2a12429011eb3042",
+    "item": "tetany",
+    "trans": "n. 手足抽搐；强直",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "8ec5ef589fe9d4014e8724880f99d9af",
+    "item": "the Arctic Ocean",
+    "trans": "n.北冰洋",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "072903fb8bcb0ec58786961c9b6a5f3b",
+    "item": "thermodynamics",
+    "trans": "n. 热力学",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "df5830c6914b67c8a2352fc50a3edf4e",
+    "item": "thermometer",
+    "trans": "n. 温度计；体温计",
+    "phonetic": "[θɚ'mɑmɪtɚ]",
+    "tag": ""
+  },
+  {
+    "itemId": "ade340022acb1564e325ee2a597af4ab",
+    "item": "thorough",
+    "trans": "adj. 彻底的；十分的；周密的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "2859d1a1878de032cc6cf481ca5b9539",
+    "item": "thrust",
+    "trans": "n. [力] 推力；刺 vt. 插；插入；推挤 vi. 插入；用向某人刺去；猛然或用力推",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "d8a69c94ab86ef773b63e070003fdaca",
+    "item": "tidal",
+    "trans": "adj. 潮汐的；潮的，有关潮水的；定时涨落的 n. (Tidal)人名；(瑞典)蒂达尔",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "43d279797afe6e107ce4e67c250676fd",
+    "item": "tie the knot",
+    "trans": "结婚",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "fe90d93fea6a9d179213ba2599d63dcc",
+    "item": "tome",
+    "trans": "n. 册；大本书 \nn. (Tome)人名；(西、塞)托梅",
+    "phonetic": "[təʊm]",
+    "tag": ""
+  },
+  {
+    "itemId": "12bc207f4a241430e5c63af0eaf1f107",
+    "item": "topography",
+    "trans": "n. 地势；地形学；地志",
+    "phonetic": "[tə'pɒgrəfɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "674aaabf096aa26b60c98effaee1c214",
+    "item": "topology",
+    "trans": "n. 拓扑学",
+    "phonetic": "[tə'pɒlədʒɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "a0e96a04b4c831019a088b0701e29c69",
+    "item": "tout",
+    "trans": "vt. 兜售；招徕；刺探赛马情报 vi. 兜售；招徕顾客；拉选票 n. 侦查者；兜售者 n. (Tout)人名；(英)陶特",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "7a4a496d940e5b525884ec3470a16f9f",
+    "item": "trajectory",
+    "trans": "n. [物] 轨道，轨线；[航][军] 弹道",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "801f4687d26987100aeaaf0a4a6ccbc4",
+    "item": "tranquility",
+    "trans": "n. 宁静；平静",
+    "phonetic": "[tranquility]",
+    "tag": ""
+  },
+  {
+    "itemId": "9de69e18fd77f0bddf1a49c64e02d21a",
+    "item": "transcribe",
+    "trans": "vt. 转录；抄写",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "b86ad89cf8e1e8552e9d619ccfa3637b",
+    "item": "transfer",
+    "trans": "n. 转让；转移；传递；过户\nvi. 转让；转学；换车\nvt. 使转移；调任",
+    "phonetic": "[træns'fɝ]",
+    "tag": ""
+  },
+  {
+    "itemId": "bb8931c0f5c50538ed27a425cdc60023",
+    "item": "transform",
+    "trans": "vt. 改变，使…变形；转换\nvi. 变换，改变；转化",
+    "phonetic": "[træns'fɔrm]",
+    "tag": ""
+  },
+  {
+    "itemId": "7f3426b9c07923ef3ece4fc9e7ff6f7c",
+    "item": "transmission",
+    "trans": "n. 传动装置， 变速器；传递；传送；播送",
+    "phonetic": "[trænz'mɪʃ(ə)n; trɑːnz-; -ns-]",
+    "tag": ""
+  },
+  {
+    "itemId": "c97ef348e04a61ccce070626c0cdcdff",
+    "item": "transpose",
+    "trans": "vt. 调换；移项；颠倒顺序 \nvi. 进行变换 \nn. 转置阵",
+    "phonetic": "[træns'pəʊz; trɑːns-; -nz-]",
+    "tag": ""
+  },
+  {
+    "itemId": "6b51f1635d3579bf60a9d02e14b13fa1",
+    "item": "traumatic",
+    "trans": "adj. （心理）创伤的 adj. （生理）外伤的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "bbeaa4d171e57206b63e75970e87742d",
+    "item": "treadmill",
+    "trans": "n. 踏车，跑步机；单调的工作",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "038ac16700d0a49cba16bd68008ace82",
+    "item": "treaties",
+    "trans": "n. 条约；协定问题（treaty的复数）",
+    "phonetic": "[tri:tiz]",
+    "tag": ""
+  },
+  {
+    "itemId": "9eb74ee2b5273c008c92e4415888408a",
+    "item": "trickery",
+    "trans": "n. 欺骗；诡计；奸计",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "cbf07340e961a4578704cf7375b1b173",
+    "item": "troop",
+    "trans": "n. 军队；组；群；多数 \nvi. 群集；成群而行；结队 \nvt. 把（骑兵）编成骑兵连",
+    "phonetic": "[truːp]",
+    "tag": ""
+  },
+  {
+    "itemId": "050402c4ca91356e3ef3e0112a1e1c10",
+    "item": "trout",
+    "trans": "n. 鳟鱼，鲑鱼",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ec8be1e776c80b7e111a43bb0f206ddf",
+    "item": "tsunami",
+    "trans": "n. 海啸",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "bf1026b8931595789545534b6fc1e789",
+    "item": "tsunamis",
+    "trans": "n. 海啸；津波（tsunami的复数）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "adb5b40a191329813db218626206b3c2",
+    "item": "tulip",
+    "trans": "n. 郁金香",
+    "phonetic": "['tʊlɪp]",
+    "tag": ""
+  },
+  {
+    "itemId": "0031bb67a686e8c4dc2eb9152edb1ad0",
+    "item": "turbine",
+    "trans": "n. [动力] 涡轮；[动力] 涡轮机",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "689728f43a7514f03fc742672b55ff0e",
+    "item": "turboprop",
+    "trans": "n. [航] 涡轮螺桨发动机；涡轮螺旋桨飞机",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "20eec04d11084833519b53efce9e666b",
+    "item": "twirl",
+    "trans": "v. （使）旋转，转动；使轻快地转动；（用手指）缠绕，捻弄 n. 转动，旋转（一周）；螺旋形曲线；旋转的东西",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "a9ef036abebd033dc01a9453f6edd422",
+    "item": "ubiquitous",
+    "trans": "adj.普遍存在的；无所不在的",
+    "phonetic": "[juː'bɪkwɪtəs]",
+    "tag": ""
+  },
+  {
+    "itemId": "1487680c01cca23dbb5397e9d95b4374",
+    "item": "unabashedly",
+    "trans": "adv. 不害臊地；不怕羞地",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "2ca0a85e99b6bb2e234ba3a9256ee8e0",
+    "item": "unanimous",
+    "trans": "adj.全体一致的；意见一致的；无异议的",
+    "phonetic": "[juː'nænɪməs]",
+    "tag": ""
+  },
+  {
+    "itemId": "424aa29d75a6216f0c1a91585e2c8cc5",
+    "item": "undergo",
+    "trans": "vt. 经历，经受；忍受",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3ed0c04982cf3444a73155226c5e6fb0",
+    "item": "undermine",
+    "trans": "vt. 破坏，渐渐破坏；挖掘地基",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6dad988dd0ae636f257c8808c55f0de8",
+    "item": "undreamt",
+    "trans": "梦想不到的\n意外的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "ee54f13668c81785a913a6266c5aab07",
+    "item": "unhindered",
+    "trans": "adj. 不受妨碍的，不受阻碍的",
+    "phonetic": "[ʌn'hɪndɚd]",
+    "tag": ""
+  },
+  {
+    "itemId": "72a5aef833ffc8b6a2fcd0284415c516",
+    "item": "unidentifiable",
+    "trans": "adj. 无法辨认的；无法鉴定的",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b339af7acaeb29d7fddd1eadbcc6014a",
+    "item": "unrivaled",
+    "trans": "adj. 无敌的；至高无上的；无比的",
+    "phonetic": "[,ʌn'raivəld]",
+    "tag": ""
+  },
+  {
+    "itemId": "22a3455879fdc390ce86f0c37f70cb36",
+    "item": "untamed",
+    "trans": "adj. 不能抑制的；难控驭的；未驯服的",
+    "phonetic": "[ʌn'teɪmd]",
+    "tag": ""
+  },
+  {
+    "itemId": "1727f74e53187e28f2a52e5d86bf627d",
+    "item": "upper left",
+    "trans": "左上角",
+    "phonetic": "[upper+left]",
+    "tag": ""
+  },
+  {
+    "itemId": "e590291205443f50d1593cd7bceba2d5",
+    "item": "urge",
+    "trans": "vt. 力劝，催促；驱策，推进 \nn. 强烈的欲望，迫切要求；推动力 \nvi. 强烈要求",
+    "phonetic": "['ɜːdʒ]",
+    "tag": ""
+  },
+  {
+    "itemId": "5bc2d82b688173efba42fd0507cb57d2",
+    "item": "valentine",
+    "trans": "n. 情人；情人节礼物",
+    "phonetic": "['væləntaɪn]",
+    "tag": ""
+  },
+  {
+    "itemId": "035c84892b27f62dc30e8c9caa61097a",
+    "item": "vanilla",
+    "trans": "n. 香子兰，香草 adj. 香草味的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "8dee7892532233dc8cf932bb82dba219",
+    "item": "vehicular",
+    "trans": "adj. 车辆的；作为媒介的；用车辆运载的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "458ed853e5faf1bee438895a2a468051",
+    "item": "venomous",
+    "trans": "adj. 有毒的；恶毒的；分泌毒液的；怨恨的",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "3872ed535a9f90c82614a7aa467a5df2",
+    "item": "verdict",
+    "trans": "n. 结论；裁定",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "0918d07c4ed757bc2bd32a241c82185e",
+    "item": "vernacular",
+    "trans": "adj. 本国的；地方的；用本地语写成的 n. 本地话，方言；动植物的俗名",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "6957c65eb4f3c1a76927175d50eeb411",
+    "item": "versatility",
+    "trans": "n.多功能性；多才多艺；用途广泛",
+    "phonetic": "[,vɜːsə'tɪləti:]",
+    "tag": ""
+  },
+  {
+    "itemId": "35bde3865b218df6e5ea0726de81c2d8",
+    "item": "vibrant",
+    "trans": "adj. 振动的；充满生气的；响亮的；战栗的 n. (Vibrant)人名；(德)维布兰特",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "b8f01e95a623a3a6bc457e26967c5a01",
+    "item": "vice-chancellor",
+    "trans": "n. 大学副校长；副大法官",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "da569416ad5bf8abe6c6bad49a249d2a",
+    "item": "vicinity",
+    "trans": "n. 邻近，附近；近处",
+    "phonetic": "[vəˈsɪnəti]",
+    "tag": ""
+  },
+  {
+    "itemId": "a7f7c84ee2b0ae93a89d1fe16a6d9ccb",
+    "item": "vicious",
+    "trans": "adj. 恶毒的；恶意的；堕落的；有错误的；品性不端的；剧烈的 n. (Vicious)人名；(英)维舍斯",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "d17806b5a5db9728514402ed2c95a474",
+    "item": "vicious circle",
+    "trans": "[医] 恶性循环；循环论证法",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "6806f9c086039c8e0518c8c6bacceb9f",
+    "item": "viper",
+    "trans": "n. 毒蛇；毒如蛇蝎的人，阴险的人 \nn. (Viper)人名；(瑞典)维佩尔",
+    "phonetic": "['vaɪpə]",
+    "tag": ""
+  },
+  {
+    "itemId": "3e4c7c167ccd951257c70c67b51dbbd3",
+    "item": "virgo",
+    "trans": "n. 处女座；维尔格铬镍钨 n. (Virgo)人名；(英)弗戈",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "00c584c3f1d187e6f60c38d79b0f3215",
+    "item": "virtuoso",
+    "trans": "n. 艺术品鉴赏家；古董收藏家；艺术大师\nadj. 行家里手的；艺术爱好者的\nn. (Virtuoso)人名；(意、葡)维尔托索",
+    "phonetic": "[,vɝtʃu'oso]",
+    "tag": ""
+  },
+  {
+    "itemId": "2897910ad6dec207f29d53b095d51aac",
+    "item": "voluntary",
+    "trans": "adj. 自愿的；志愿的；自发的；故意的 n. 志愿者；自愿行动",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "15f0cc30b833fc38b6b5b13faabf7034",
+    "item": "wade",
+    "trans": "vi. 跋涉 vt. 涉水；费力行走 n. 跋涉；可涉水而过的地方",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "56b860ce7ac04de7bce71bf9acc8ec2f",
+    "item": "wag",
+    "trans": "vt. 摇摆；摇动；饶舌 \nvi. 摆动；喋喋不休；蹒跚而行 \nn. 摇摆；爱说笑打趣的人",
+    "phonetic": "[wæg]",
+    "tag": ""
+  },
+  {
+    "itemId": "2b3eb3ff8591997680f9c81ed23ac684",
+    "item": "waggle",
+    "trans": "vi. 摇摆；不停地来回摇动 vt. 摆动；来回摇动 n. 摇摆；摆动",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "3c4ad651dd28f6251fbd59e4431b900c",
+    "item": "warfare",
+    "trans": "n. 战争；冲突",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "30aba88e4c57b2b21c41d3c2d33a103f",
+    "item": "wary",
+    "trans": "adj.谨慎的；机警的；惟恐的；考虑周到的",
+    "phonetic": "['weərɪ]",
+    "tag": ""
+  },
+  {
+    "itemId": "1fba5c2217fb41cc1f945c492f0dbaa0",
+    "item": "whereas",
+    "trans": "conj. 然而；鉴于；反之",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "333974e030a1fe02a1714d1561e9d837",
+    "item": "wick",
+    "trans": "n. 灯芯，蜡烛心\nvt. 依靠毛细作用带走\nn. (Wick)人名；(英)威克；(德、匈、捷、柬)维克",
+    "phonetic": "[wɪk]",
+    "tag": ""
+  },
+  {
+    "itemId": "d2c6df2f3b37a2ac4cea27baef77cde9",
+    "item": "wither",
+    "trans": "vt. 使凋谢；使畏缩；使衰弱 \nvi. 枯萎；凋谢；衰弱 \nn. (Wither)人名；(英)威瑟",
+    "phonetic": "['wɪðə]",
+    "tag": ""
+  },
+  {
+    "itemId": "c93a816a4712b34279ea9a9b45b84f36",
+    "item": "written",
+    "trans": "adj. 书面的，成文的；文字的 v. 写（write的过去分词）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "98a451c3b63a3f4fa6d6c593e4292e58",
+    "item": "wrought-iron",
+    "trans": "熟铁",
+    "phonetic": "",
+    "tag": ""
+  },
+  {
+    "itemId": "1a498add3b0176cd87c7b09e114c6d72",
+    "item": "zigzag",
+    "trans": "adj. 曲折的；锯齿形的；之字形的 vt. 使成之字形；使曲折行进 vi. 曲折行进；作之字形行进 n. 之字形；Z字形 adv. 曲折地；之字形地；Z字形地",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "8f96ed4478421f8733adcebd0520652a",
+    "item": "zigzagging",
+    "trans": "n. 之字形运动；锯齿形运动 v. 成之字形（zigzag现在分词）",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "276b8f0662daa1f983792f6e716c0cde",
+    "item": "zircon",
+    "trans": "n. [矿物] 锆石",
+    "phonetic": "[]",
+    "tag": ""
+  },
+  {
+    "itemId": "a342733fc3a88f68d79f9eef2d949d37",
+    "item": "zoological",
+    "trans": "adj. 动物学的；关于动物的",
+    "phonetic": "[]",
+    "tag": ""
+  }
+]

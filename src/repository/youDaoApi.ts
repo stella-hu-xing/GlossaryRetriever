@@ -1,11 +1,11 @@
-import axios from "./util/axios";
+import axios from "../util/axios";
 import md5Hex from "md5-hex";
-import { config } from "./config";
+import { config } from "../config";
 import { stringify } from "querystring";
+
 /**
  *  reference: https://github.com/HighSkySky/yd-word-book/blob/master/src/api.ts
  */
-
 export const login = async () => {
   const decode = (str: string): string =>
     Buffer.from(str, "base64").toString("binary");
@@ -36,7 +36,8 @@ export const login = async () => {
     },
     { username, password }
   );
-  return axios({
+
+  const result = await axios({
     method: "POST",
     url: "https://logindict.youdao.com/login/acc/login",
     maxRedirects: 0,
@@ -51,11 +52,22 @@ export const login = async () => {
     data: stringify(formData),
     timeout: 4000,
   });
+
+  const { headers } = result;
+  if (!headers["set-cookie"]) {
+    throw new Error(
+      `login fail, pleace check your email or pwaaword current and try again`
+    );
+  }
+  return result;
 };
 
-export const getAll = async () => {
+export const getAllWords = async (total?: number) => {
+  const limit = total ? `?limit=${total}` : "";
+  const url = `http://dict.youdao.com/wordbook/webapi/words${limit}`;
   return axios({
     method: "GET",
-    url: "http://dict.youdao.com/wordbook/webapi/words",
+    url,
+    timeout: 6000,
   });
 };
