@@ -27,8 +27,7 @@ export const login = async () => {
       tp: "urstoken",
       cf: 7,
       fr: 1,
-      ru:
-        "http://dict.youdao.com/wordbook/wordlist?keyfrom=login_from_dict2.index",
+      ru: "http://dict.youdao.com/wordbook/wordlist?keyfrom=login_from_dict2.index",
       product: "DICT",
       type: 1,
       um: true,

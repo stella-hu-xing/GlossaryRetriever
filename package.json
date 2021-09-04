@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch-server": "nodemon --watch 'src/**/*' -e ts,tsx --exec ts-node ./src/localServer.ts"
+    "watch-server": "nodemon --watch 'src/**/*' -e ts,tsx --exec ts-node ./src/localServer.ts",
+    "lint": "eslint",
+    "format": "yarn prettier --write ."
   },
   "repository": {
     "type": "git",
@@ -26,11 +28,16 @@
     "mkdirp": "^0.5.1"
   },
   "devDependencies": {
+    "@types/cookie": "^0.3.3",
     "@types/koa": "^2.11.3",
     "@types/koa-router": "^7.4.0",
-    "nodemon": "^2.0.3",
     "@types/mkdirp": "^0.5.2",
-    "@types/cookie": "^0.3.3",
+    "@typescript-eslint/eslint-plugin": "^4.30.0",
+    "@typescript-eslint/parser": "^4.30.0",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^2.0.3",
+    "prettier": "2.3.2",
     "ts-node": "^8.10.1",
     "typescript": "^3.8.3"
   }

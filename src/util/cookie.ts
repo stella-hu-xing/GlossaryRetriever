@@ -20,57 +20,53 @@ export const parseCookies = (cookieStrings: string[]): CustomCookies =>
     return customCookies;
   }, {} as CustomCookies);
 
-export const {
-  loadCookies,
-  saveCookies,
-  removeCookies,
-  cleanCookies,
-} = (() => {
-  let cookies: CustomCookies;
+export const { loadCookies, saveCookies, removeCookies, cleanCookies } =
+  (() => {
+    let cookies: CustomCookies;
 
-  const load = async () => {
-    if (!cookies) {
-      await promisify(mkdirp)(cookieCachePath);
-      try {
-        const cookieString = await promisify(fs.readFile)(cookieCache, {
-          encoding: "utf8",
-        });
-        if (cookieString) {
-          cookies = JSON.parse(cookieString);
+    const load = async () => {
+      if (!cookies) {
+        await promisify(mkdirp)(cookieCachePath);
+        try {
+          const cookieString = await promisify(fs.readFile)(cookieCache, {
+            encoding: "utf8",
+          });
+          if (cookieString) {
+            cookies = JSON.parse(cookieString);
+          }
+        } catch (error) {
+          cookies = {};
         }
-      } catch (error) {
-        cookies = {};
       }
-    }
-    return cookies;
-  };
+      return cookies;
+    };
 
-  const save = async (cookieStrings: string[]) => {
-    const parasedCookies = parseCookies(cookieStrings);
-    const nowCookies = await load();
-    cookies = Object.assign({}, nowCookies, parasedCookies);
-    await promisify(fs.writeFile)(cookieCache, JSON.stringify(cookies));
-  };
+    const save = async (cookieStrings: string[]) => {
+      const parasedCookies = parseCookies(cookieStrings);
+      const nowCookies = await load();
+      cookies = Object.assign({}, nowCookies, parasedCookies);
+      await promisify(fs.writeFile)(cookieCache, JSON.stringify(cookies));
+    };
 
-  const remove = async (cookieNames: string[]) => {
-    cookieNames.forEach((name) => {
-      cookies[name] = undefined;
-    });
-    await promisify(fs.writeFile)(cookieCache, JSON.stringify(cookies));
-  };
+    const remove = async (cookieNames: string[]) => {
+      cookieNames.forEach((name) => {
+        cookies[name] = undefined;
+      });
+      await promisify(fs.writeFile)(cookieCache, JSON.stringify(cookies));
+    };
 
-  const clean = async () => {
-    cookies = {};
-    await promisify(fs.writeFile)(cookieCache, JSON.stringify(cookies));
-  };
+    const clean = async () => {
+      cookies = {};
+      await promisify(fs.writeFile)(cookieCache, JSON.stringify(cookies));
+    };
 
-  return {
-    loadCookies: load,
-    saveCookies: save,
-    removeCookies: remove,
-    cleanCookies: clean,
-  };
-})();
+    return {
+      loadCookies: load,
+      saveCookies: save,
+      removeCookies: remove,
+      cleanCookies: clean,
+    };
+  })();
 
 export const cookiesToString = async () => {
   const cookies = await loadCookies();
