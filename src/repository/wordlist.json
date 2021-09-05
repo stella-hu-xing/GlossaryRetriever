@@ -1,19 +1,9 @@
 [
   {
-    "itemId": "c10966f79b5a345a3cde9d0f1dcead20",
-    "item": "Aesop",
-    "trans": "n. 伊索（希腊寓言作者）"
-  },
-  {
     "itemId": "f48ff1c84b2dfe52e775091812b162ad",
     "item": "Antarctica",
     "trans": "n. 南极洲",
     "phonetic": "[æn'tɑːktɪkə]"
-  },
-  {
-    "itemId": "c7ab548ba5796b7e47c0123f521ecec6",
-    "item": "Augustus",
-    "trans": "n. 奥古斯都（男子名）"
   },
   {
     "itemId": "cb1e78137614174f69ed2be1a1733fab",
@@ -22,19 +12,9 @@
     "phonetic": "[ˈɒstrɪə]"
   },
   {
-    "itemId": "42842724f9274aac73f7afc7938b216e",
-    "item": "Celtic",
-    "trans": "adj. 凯尔特人的；凯尔特语的 n. 凯尔特语（等于Keltic）"
-  },
-  {
     "itemId": "097658ebd9b3944ee80ca26f03856195",
     "item": "Centaurus",
     "trans": "n. [天] 半人马座"
-  },
-  {
-    "itemId": "47ef3d1ed6a88d5ba9cabfc69e0eef63",
-    "item": "Churchill",
-    "trans": "n. 邱吉尔（英国政治家及作家）"
   },
   {
     "itemId": "cf4b04c7d3a78f7fcdb7b4e2e20390f2",
@@ -57,11 +37,6 @@
     "item": "Hungarian",
     "trans": "adj. 匈牙利的；匈牙利语的 \nn. 匈牙利人；匈牙利语",
     "phonetic": "[hʌŋ'ɡεəriən]"
-  },
-  {
-    "itemId": "c327d943eacfb8fab2570e1e468c10cf",
-    "item": "Ingeborg",
-    "trans": "n. (Ingeborg)人名；(挪、丹、瑞典)英厄堡；(德)英格博格；(英)英格堡"
   },
   {
     "itemId": "060b8f62653bae56fe8144389f9908db",
@@ -103,26 +78,10 @@
     "phonetic": "['nɛptjun]"
   },
   {
-    "itemId": "41a871432b2417dd62c406465c2141d3",
-    "item": "Oman",
-    "trans": "n. 阿曼（西南亚国家）",
-    "phonetic": "[əu'mɑ:n]"
-  },
-  {
-    "itemId": "ba68d8441ee504272baf4033fd4a4fe4",
-    "item": "Pavlov",
-    "trans": "n. 巴甫洛夫（苏联生理学家和实验心理学家，全名为Ivan Petrovich）"
-  },
-  {
     "itemId": "6bbca34a5d69a0ea73f83e166bf9cbcf",
     "item": "Puritan",
     "trans": "adj.清教徒的\nn.清教徒",
     "phonetic": "['pjʊərɪt(ə)n]"
-  },
-  {
-    "itemId": "8df3ab2a36eea30941b8bc930b79cad2",
-    "item": "Quebec",
-    "trans": "n. 魁北克（加拿大港市省名）"
   },
   {
     "itemId": "956905916bb480599659c1c580e52e80",
@@ -333,12 +292,6 @@
     "phonetic": "[ə'miːlɪəreɪt]"
   },
   {
-    "itemId": "508a2980b359eebc4e1fe2bafb253dc4",
-    "item": "ampicillin",
-    "trans": "n.  氨苄青霉素，氨比西林",
-    "phonetic": "[,æmpɪ'sɪlɪn]"
-  },
-  {
     "itemId": "d4d3f512617ae7a7adbdf7cfb1e1bd05",
     "item": "amulet",
     "trans": "n. 护身符，避邪物",
@@ -543,11 +496,6 @@
     "trans": "adj. 大气的，大气层的"
   },
   {
-    "itemId": "f1ee62b4776d9a0cd708700f39f1266d",
-    "item": "attendance register",
-    "trans": ""
-  },
-  {
     "itemId": "a5fc7e5366a74e2eea51f51aa4145194",
     "item": "autobiography",
     "trans": "n. 自传；自传文学"
@@ -690,11 +638,6 @@
     "itemId": "0df26db9e222407ee6b35df2ac4cf0d3",
     "item": "botanic",
     "trans": "adj. 植物的；植物学的"
-  },
-  {
-    "itemId": "3f6ced170eb04e7e600bf8193f7923b8",
-    "item": "bottomary",
-    "trans": ""
   },
   {
     "itemId": "e4065d7d2e842ec58503164389561422",
@@ -853,7 +796,7 @@
   {
     "itemId": "7a3ad67f80532f86c4e372c6d90e9a4e",
     "item": "chloramphenicol",
-    "trans": "n.  氯霉素",
+    "trans": "n. 氯霉素",
     "phonetic": "[,klɔːræm'fenɪkɒl]"
   },
   {
