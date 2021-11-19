@@ -5,6 +5,7 @@
 
 .cache
 src/repository/wordlist.json
+.serverless
 
 # User-specific files
 *.rsuser
