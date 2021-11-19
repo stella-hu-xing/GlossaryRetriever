@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch-server": "nodemon --watch 'src/**/*' -e ts,tsx --exec ts-node ./src/localServer.ts",
     "lint": "eslint",
-    "format": "yarn prettier --write ."
+    "format": "yarn prettier --write .",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
