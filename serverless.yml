@@ -10,6 +10,8 @@ provider:
 functions:
   glossary-reminder:
     handler: dist/handler.handler
+    name: glossary-reminder
+    memorySize: 256
     events:
       # Invoke Lambda function every minute
       - schedule: rate(30 minute)
