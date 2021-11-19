@@ -4,17 +4,12 @@ frameworkVersion: "2 || 3"
 
 provider:
   name: aws
-  runtime: nodejs12.x
+  runtime: nodejs16.x
   lambdaHashingVersion: 20201221
 
 functions:
-  rateHandler:
-    handler: handler.run
+  glossary-reminder:
+    handler: dist/handler.handler
     events:
       # Invoke Lambda function every minute
       - schedule: rate(30 minute)
-  cronHandler:
-    handler: handler.run
-    events:
-      # Invoke Lambda function every 2nd minute from Mon-Fri
-      - schedule: cron(0/2 * ? * MON-FRI *)

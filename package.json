@@ -1,5 +1,5 @@
 {
-  "name": "glossary-retriever",
+  "name": "glossary-reminder",
   "version": "1.0.0",
   "description": "A simple youdao dictionary glossary notebook retriever",
   "main": "index.js",
@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch-server": "nodemon --watch 'src/**/*' -e ts,tsx --exec ts-node ./src/localServer.ts",
     "lint": "eslint",
-    "format": "yarn prettier --write ."
+    "format": "yarn prettier --write .",
+    "build": "tsc",
+    "invoke-lambda": ""
   },
   "repository": {
     "type": "git",
@@ -40,6 +42,6 @@
     "nodemon": "^2.0.3",
     "prettier": "2.3.2",
     "ts-node": "^8.10.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.10"
   }
 }
