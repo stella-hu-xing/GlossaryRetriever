@@ -1,4 +1,7 @@
-module.exports.run = async (event, context) => {
-  const time = new Date();
-  console.log(`Your cron function "${context.functionName}" ran at ${time}`);
+import { Context } from "aws-lambda";
+
+exports.handler = async function (event: any, context: Context) {
+  console.log("Function name: ", context.functionName);
+  console.log({ event, eventtime: Date.now().toLocaleString() });
+  return context.functionName;
 };
