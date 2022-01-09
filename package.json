@@ -9,7 +9,8 @@
     "lint": "eslint",
     "format": "yarn prettier --write .",
     "build": "tsc",
-    "invoke-lambda-local": "yarn build & serverless invoke local --function glossary-reminder"
+    "invoke-lambda-local": "yarn build & serverless invoke local --function glossary-reminder",
+    "deploy": ""
   },
   "repository": {
     "type": "git",
