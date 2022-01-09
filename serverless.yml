@@ -13,5 +13,17 @@ functions:
     name: glossary-reminder
     memorySize: 256
     events:
-      # Invoke Lambda function every minute
-      - schedule: rate(30 minute)
+      - sqs:
+          arn:
+            Fn::GetAtt:
+              - GlossaryReminderTriggerQueue
+              - Arn
+    #   # Invoke Lambda function every minute
+    #   - schedule: rate(30 minute)
+
+resources:
+  Resources:
+    GlossaryReminderTriggerQueue:
+      Type: AWS::SQS::Queue
+      Properties:
+        QueueName: glossary-reminder-trigger-queue
