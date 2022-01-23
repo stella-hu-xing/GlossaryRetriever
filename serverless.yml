@@ -4,6 +4,9 @@ provider:
   name: aws
   runtime: nodejs16.x
   lambdaHashingVersion: 20201221
+  deploymentBucket:
+    name: com.serverless.${self:provider.region}.${service}.artefacts
+    maxPreviousDeploymentArtifacts: 5
 
 functions:
   glossary-reminder:
