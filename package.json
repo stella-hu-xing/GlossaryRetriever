@@ -1,5 +1,5 @@
 {
-  "name": "glossary-retriever",
+  "name": "glossary-reminder",
   "version": "1.0.0",
   "description": "A simple youdao dictionary glossary notebook retriever",
   "main": "index.js",
@@ -8,7 +8,9 @@
     "watch-server": "nodemon --watch 'src/**/*' -e ts,tsx --exec ts-node ./src/localServer.ts",
     "lint": "eslint",
     "format": "yarn prettier --write .",
-    "build": "tsc"
+    "build": "tsc",
+    "invoke-lambda-local": "yarn build & serverless invoke local --function glossary-reminder",
+    "deploy": "serverless deploy --config=serverless.yml --verbose --region ap-southeast-2"
   },
   "repository": {
     "type": "git",
@@ -21,6 +23,7 @@
   },
   "homepage": "https://github.com/stella-hu-xing/GlossaryRetriever#readme",
   "dependencies": {
+    "@types/aws-lambda": "^8.10.85",
     "axios": "^0.21.2",
     "cookie": "^0.4.0",
     "koa": "^2.11.0",
@@ -39,7 +42,8 @@
     "eslint-config-google": "^0.14.0",
     "nodemon": "^2.0.3",
     "prettier": "2.3.2",
+    "serverless": "^2.72.1",
     "ts-node": "^8.10.1",
-    "typescript": "^3.8.3"
+    "typescript": "^3.9.10"
   }
 }

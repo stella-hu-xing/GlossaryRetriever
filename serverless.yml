@@ -1,0 +1,30 @@
+service: glossary-reminder
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  lambdaHashingVersion: 20201221
+  deploymentBucket:
+    name: stella-projects-artifacts
+    maxPreviousDeploymentArtifacts: 5
+
+functions:
+  glossary-reminder:
+    handler: dist/handler.handler
+    name: glossary-reminder
+    memorySize: 256
+    events:
+      - sqs:
+          arn:
+            Fn::GetAtt:
+              - GlossaryReminderTriggerQueue
+              - Arn
+    #   # Invoke Lambda function every minute
+    #   - schedule: rate(30 minute)
+
+resources:
+  Resources:
+    GlossaryReminderTriggerQueue:
+      Type: AWS::SQS::Queue
+      Properties:
+        QueueName: glossary-reminder-trigger-queue
