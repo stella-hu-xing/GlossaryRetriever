@@ -10,7 +10,7 @@
     "format": "yarn prettier --write .",
     "build": "tsc",
     "invoke-lambda-local": "yarn build & serverless invoke local --function glossary-reminder",
-    "deploy": "serverless deploy --config=serverless.yml --force --verbose"
+    "deploy": "serverless deploy --config=serverless.yml --verbose --region ap-southeast-2"
   },
   "repository": {
     "type": "git",
