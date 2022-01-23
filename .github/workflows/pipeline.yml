@@ -32,14 +32,8 @@ jobs:
       - name: Serverless AWS authentication
         run: sls config credentials --provider aws --key ${{ secrets.ACCESSKEYID }} --secret ${{ secrets.ACCESSSECRET }}
 
-      # - name: Format & Build
-      #   run: npm run lint && npm run build
+      - name: Format & Build
+        run: npm run lint && npm run build
+
       - name: Deploy
         run: npm run deploy
-        # uses: serverless/github-action@v1
-        # with:
-        #   args: deploy
-        #   region: ap-southeast-2
-        # env:
-        #   AWS_ACCESS_KEY_ID: ${{ secrets.ACCESSKEYID }}
-        #   AWS_SECRET_ACCESS_KEY: ${{ secrets.ACCESSSECRET }}
