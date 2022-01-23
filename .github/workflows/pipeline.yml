@@ -24,13 +24,14 @@ jobs:
           node-version: ${{ matrix.node-version }}
           cache: "npm"
 
-      - run: npm install
-      - run: npm run build
-      - run: npm run lint
+      - name: Install dependencies
+        run: npm install
 
-      - run: npm deploy
-      - name: serverless deploy
-        uses: serverless/github-action@master
+      - name: Format & Build
+        run: npm run lint && npm run build
+
+      - name: Serverless deploy
+        uses: serverless/github-action@v1
         with:
           args: deploy
         env:
