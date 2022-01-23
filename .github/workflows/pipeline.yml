@@ -7,7 +7,8 @@ on:
     branches: [master]
 
 jobs:
-  test:
+  pipeline:
+    name: pipeline.yml
     runs-on: ubuntu-latest
 
     strategy:
@@ -26,13 +27,6 @@ jobs:
       - run: npm run build
       - run: npm run lint
 
-  deploy:
-    name: deploy
-    runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        node-version: [16.x]
-    steps:
       - uses: actions/checkout@v2
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
@@ -46,3 +40,4 @@ jobs:
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+

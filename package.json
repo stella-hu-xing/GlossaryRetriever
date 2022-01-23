@@ -10,7 +10,7 @@
     "format": "yarn prettier --write .",
     "build": "tsc",
     "invoke-lambda-local": "yarn build & serverless invoke local --function glossary-reminder",
-    "deploy": ""
+    "deploy": "serverless deploy --config=serverless.yml --force --verbose"
   },
   "repository": {
     "type": "git",
@@ -42,6 +42,7 @@
     "eslint-config-google": "^0.14.0",
     "nodemon": "^2.0.3",
     "prettier": "2.3.2",
+    "serverless": "^2.72.1",
     "ts-node": "^8.10.1",
     "typescript": "^3.9.10"
   }
