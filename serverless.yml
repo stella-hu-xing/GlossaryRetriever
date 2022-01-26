@@ -61,6 +61,9 @@ resources:
     GlossaryReminderTopicSubscription:
       Type: AWS::SNS::Subscription
       Properties:
-        TopicArn: glossary-reminder-topic
+        TopicArn:
+          Fn::GetAtt:
+            - GlossaryReminderTriggerQueue
+            - Arn
         Protocol: email
         Endpoint: stella.hu.xing@gmail.com
