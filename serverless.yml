@@ -14,10 +14,7 @@ functions:
     name: glossary-reminder
     memorySize: 256
     environment:
-      - GLOSSARY_RETRIEVER_TOPIC:
-          Fn::GetAtt:
-            - GlossaryReminderTriggerQueue
-            - Arn
+      - GLOSSARY_RETRIEVER_TOPIC: !Ref GlossaryReminderTopic
     events:
       - sqs:
           arn:
