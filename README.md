@@ -93,62 +93,6 @@ functions:
 
 Detailed information about cron expressions in available in official [AWS docs](https://docs.aws.amazon.com/AmazonCloudWatch/latest/events/ScheduledEvents.html#CronExpressions).
 
-## Usage
-
-### Deployment
-
-This example is made to work with the Serverless Framework dashboard, which includes advanced features such as CI/CD, monitoring, metrics, etc.
-
-In order to deploy with dashboard, you need to first login with:
-
-```
-serverless login
-```
-
-and then perform deployment with:
-
-```
-serverless deploy
-```
-
-After running deploy, you should see output similar to:
-
-```bash
-Serverless: Packaging service...
-Serverless: Excluding development dependencies...
-Serverless: Creating Stack...
-Serverless: Checking Stack create progress...
-........
-Serverless: Stack create finished...
-Serverless: Uploading CloudFormation file to S3...
-Serverless: Uploading artifacts...
-Serverless: Uploading service aws-node-scheduled-cron.zip file to S3 (124.47 KB)...
-Serverless: Validating template...
-Serverless: Updating Stack...
-Serverless: Checking Stack update progress...
-.............................................
-Serverless: Stack update finished...
-Service Information
-service: aws-node-scheduled-cron
-stage: dev
-region: us-east-1
-stack: aws-node-scheduled-cron-dev
-resources: 16
-api keys:
-  None
-endpoints:
-  None
-functions:
-  rateHandler: aws-node-scheduled-cron-dev-rateHandler
-  cronHandler: aws-node-scheduled-cron-dev-cronHandler
-layers:
-  None
-Serverless: Publishing service to the Serverless Dashboard...
-Serverless: Successfully published your service to the Serverless Dashboard: https://app.serverless.com/xxxx/apps/xxxx/aws-node-scheduled-cron/dev/us-east-1
-```
-
-There is no additional step required. Your defined schedules becomes active right away after deployment.
-
 ### Local invocation
 
 In order to test out your functions locally, you can invoke them with the following command:

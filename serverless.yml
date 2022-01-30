@@ -63,7 +63,7 @@ resources:
       Properties:
         TopicArn:
           Fn::GetAtt:
-            - GlossaryReminderTriggerQueue
+            - GlossaryReminderTopic
             - Arn
         Protocol: email
         Endpoint: stella.hu.xing@gmail.com
