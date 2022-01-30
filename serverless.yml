@@ -61,9 +61,6 @@ resources:
     GlossaryReminderTopicSubscription:
       Type: AWS::SNS::Subscription
       Properties:
-        TopicArn:
-          Fn::GetAtt:
-            - GlossaryReminderTopic
-            - Arn
+        TopicArn: !Ref GlossaryReminderTopic
         Protocol: email
         Endpoint: stella.hu.xing@gmail.com
