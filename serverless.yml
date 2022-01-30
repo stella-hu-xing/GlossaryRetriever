@@ -13,6 +13,8 @@ functions:
     handler: dist/handler.handler
     name: glossary-reminder
     memorySize: 256
+    environment:
+      - GLOSSARY_RETRIEVER_TOPIC: !Ref GlossaryReminderTopic
     events:
       - sqs:
           arn:
@@ -28,3 +30,34 @@ resources:
       Type: AWS::SQS::Queue
       Properties:
         QueueName: glossary-reminder-trigger-queue
+
+    ## SNS Topic
+    GlossaryReminderTopic:
+      Type: AWS::SNS::Topic
+      Properties:
+        TopicName: glossary-reminder-topic
+
+    GlossaryReminderTopicPolicy:
+      Type: AWS::SNS::TopicPolicy
+      Properties:
+        PolicyDocument:
+          Id: GlossaryReminderTopicPolicy
+          Version: "2012-10-17"
+          Statement:
+            - Effect: Allow
+              Principal:
+                AWS: "*"
+              Action:
+                - sns:Publish
+                - sns:Subscribe
+              Resource: "*"
+        Topics:
+          - !Ref GlossaryReminderTopic
+
+    ## SNS Subscription
+    GlossaryReminderTopicSubscription:
+      Type: AWS::SNS::Subscription
+      Properties:
+        TopicArn: !Ref GlossaryReminderTopic
+        Protocol: email
+        Endpoint: stella.hu.xing@gmail.com

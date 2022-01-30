@@ -24,6 +24,7 @@
   "homepage": "https://github.com/stella-hu-xing/GlossaryRetriever#readme",
   "dependencies": {
     "@types/aws-lambda": "^8.10.85",
+    "aws-sdk": "^2.1063.0",
     "axios": "^0.21.2",
     "cookie": "^0.4.0",
     "koa": "^2.11.0",

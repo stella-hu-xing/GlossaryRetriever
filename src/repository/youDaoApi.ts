@@ -9,8 +9,8 @@ import { stringify } from "querystring";
 export const login = async () => {
   const decode = (str: string): string =>
     Buffer.from(str, "base64").toString("binary");
-  const username = decode(config.accountName);
-  const password = md5Hex(decode(config.accountPwd));
+  const username = decode(config.youdaoAcc);
+  const password = md5Hex(decode(config.youdaoPwd));
 
   // 获取登陆基础的cookie
   await axios({
